@@ -118,6 +118,8 @@ const GLOSSARY = {
   var state = {
     screen: 'hub',
     allLessonsMode: false,
+    customMode: false,
+    customLessons: [],
     lessonQueueIdx: 0,
 
     lesson: null,
@@ -152,6 +154,7 @@ const GLOSSARY = {
   LESSON_ORDER.forEach(function(l){ state.lessonRecord[l] = {mainScore:0, mainTotal:0, everWrong:[]}; });
 
   function startLesson(lessonName){
+    state.customMode = false;
     state.lesson = lessonName;
     state.queue = LESSON_QUESTIONS[lessonName].slice();
     state.idx = 0;
@@ -174,6 +177,7 @@ const GLOSSARY = {
   function render(){
     if(state.screen === 'hub') return renderHub();
     if(state.screen === 'menu') return renderMenu();
+    if(state.screen === 'customSetup') return renderCustomSetup();
     if(state.screen === 'quiz') return renderQuiz();
     if(state.screen === 'lessonMainResult') return renderLessonMainResult();
     if(state.screen === 'revisionQuiz') return renderRevisionQuiz();
@@ -235,6 +239,7 @@ const GLOSSARY = {
       '<h3>Choose a lesson to practice</h3>' +
       '<div class="btn-row" style="flex-direction:column; align-items:stretch;">' + lessonBtns +
         '<button class="btn" id="allLessonsBtn">All Lessons (Q1\u2013Q'+TOTAL+')</button>' +
+        '<button class="btn secondary" id="customPracticeBtn">Custom Practice · Choose Multiple Lessons</button>' +
       '</div>' +
       '<p class="muted" style="margin-top:14px;">No selection? Lesson 1 starts by default \u2014 use the button above.</p>';
 
@@ -245,11 +250,40 @@ const GLOSSARY = {
         render();
       };
     });
+    document.getElementById('customPracticeBtn').onclick = function(){ state.screen='customSetup'; render(); };
     document.getElementById('allLessonsBtn').onclick = function(){
       state.allLessonsMode = true;
       state.lessonQueueIdx = 0;
       startLesson(LESSON_ORDER[0]);
       render();
+    };
+  }
+
+  function renderCustomSetup(){
+    var selected = state.customLessons;
+    var lessonCards = LESSON_ORDER.map(function(l){
+      var checked = selected.indexOf(l) !== -1;
+      return '<label class="custom-lesson"><input type="checkbox" class="custom-lesson-check" value="'+escapeHtml(l)+'" '+(checked?'checked':'')+'> <span>'+escapeHtml(l)+'</span> <small>'+LESSON_QUESTIONS[l].length+' Qs</small></label>';
+    }).join('');
+    app.innerHTML = '<div class="eyebrow">Balake Kannada</div><h1>Custom Practice</h1><div class="stripe"></div>'+
+      '<div class="card"><p>Select any combination of lessons. Their questions become one practice set.</p><div class="btn-row"><button class="btn secondary" id="selectAllCustom">Select all</button><button class="btn secondary" id="clearCustom">Clear</button></div><div class="custom-grid">'+lessonCards+'</div></div>'+
+      '<div class="card"><h3>Question order</h3><label class="choice-line"><input type="radio" name="customOrder" value="mixed" checked> Fully mixed — shuffle questions across selected lessons</label><label class="choice-line"><input type="radio" name="customOrder" value="grouped"> Grouped — keep each lesson together</label><h3 style="margin-top:16px">Number of questions</h3><select id="customLimit" class="custom-select"><option value="all">All questions from selected lessons</option><option value="10">10 questions</option><option value="20">20 questions</option><option value="30">30 questions</option><option value="50">50 questions</option></select></div>'+
+      '<button class="btn" id="startCustomBtn">Start Custom Practice</button> <button class="btn secondary" id="backMenuBtn">Back</button>';
+    document.getElementById('selectAllCustom').onclick=function(){state.customLessons=LESSON_ORDER.slice();renderCustomSetup();};
+    document.getElementById('clearCustom').onclick=function(){state.customLessons=[];renderCustomSetup();};
+    document.getElementById('backMenuBtn').onclick=function(){state.screen='menu';render();};
+    document.getElementById('startCustomBtn').onclick=function(){
+      var chosen=Array.prototype.map.call(document.querySelectorAll('.custom-lesson-check:checked'),function(x){return x.value;});
+      if(!chosen.length){alert('Select at least one lesson.');return;}
+      var pool=[]; chosen.forEach(function(l){pool=pool.concat(LESSON_QUESTIONS[l]);});
+      var order=document.querySelector('input[name="customOrder"]:checked').value;
+      if(order==='mixed') pool=shuffle(pool);
+      var limit=document.getElementById('customLimit').value;
+      if(limit!=='all') pool=pool.slice(0,Math.min(Number(limit),pool.length));
+      state.customMode=true; state.customLessons=chosen; state.allLessonsMode=false; state.lesson='Custom Practice';
+      state.queue=pool; state.idx=0; state.score=0; state.answered=false; state.selected=null; state.wrongList=[]; state.revisionRound=0; state.screen='quiz';
+      if(!state.lessonRecord['Custom Practice']) state.lessonRecord['Custom Practice']={mainScore:0,mainTotal:0,everWrong:[]};
+      prepOptions(); render();
     };
   }
 
@@ -288,7 +322,7 @@ const GLOSSARY = {
     var isLastInLesson = state.idx === state.queue.length - 1;
 
     app.innerHTML =
-      '<div class="eyebrow">' + escapeHtml(q.lesson) + (state.allLessonsMode ? ' \u00b7 All Lessons mode' : '') + '</div>' +
+      '<div class="eyebrow">' + escapeHtml(state.customMode ? 'Custom Practice · '+q.lesson : q.lesson) + (state.allLessonsMode ? ' \u00b7 All Lessons mode' : '') + '</div>' +
       '<div class="progress-wrap"><span>Question ' + posInLesson + ' of ' + lessonCount + ' (Q' + q.n + ')</span><span class="score-pill">Score: ' + state.score + ' / ' + state.idx + '</span></div>' +
       '<div class="progress-bar"><div class="progress-fill" style="width:' + pct + '%;"></div></div>' +
       '<div class="card">' +
@@ -474,6 +508,13 @@ const GLOSSARY = {
       }
     }
 
+    if(state.customMode){
+      app.innerHTML='<div class="eyebrow">Custom Practice complete</div><h2>What next?</h2><div class="stripe"></div><div class="card"><p>Score: <strong>'+state.lessonRecord[state.lesson].mainScore+' / '+state.lessonRecord[state.lesson].mainTotal+'</strong></p><p class="muted">Lessons: '+state.customLessons.map(escapeHtml).join(', ')+'</p></div><div class="btn-row"><button class="btn" id="customAgainBtn">Repeat this set</button><button class="btn secondary" id="chooseLessonBtn">Choose another practice</button><button class="btn secondary" id="stopBtn">Back to Hub</button></div>';
+      document.getElementById('customAgainBtn').onclick=function(){state.screen='customSetup';render();};
+      document.getElementById('chooseLessonBtn').onclick=function(){state.screen='menu';render();};
+      document.getElementById('stopBtn').onclick=function(){state.screen='hub';render();};
+      return;
+    }
     var lessonIdx = LESSON_ORDER.indexOf(state.lesson);
     var nextLesson = LESSON_ORDER[lessonIdx+1];
 
