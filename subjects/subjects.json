@@ -1,0 +1,11 @@
+{
+  "subjects": [
+    {
+      "id": "kannada",
+      "name": "Kannada",
+      "description": "Balake Kannada · Lessons 1–18",
+      "questionBank": "data/kannada.json",
+      "available": true
+    }
+  ]
+}

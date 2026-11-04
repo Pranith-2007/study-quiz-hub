@@ -1,0 +1,6242 @@
+[
+  {
+    "n": 1,
+    "lesson": "Lesson 1",
+    "q": "Avana hesaru enu ?' in English is __________ .",
+    "correct": "What is his name  ?",
+    "options": [
+      "What is his name  ?",
+      "His name is",
+      "your name is",
+      "What is her name ?"
+    ]
+  },
+  {
+    "n": 2,
+    "lesson": "Lesson 1",
+    "q": "Who is she ? ' in Kannada is _________",
+    "correct": "Avalu yaaru ?",
+    "options": [
+      "Avalu yaaru ?",
+      "naanu yaaru",
+      "avanu yaru",
+      "ivaru yaaru"
+    ]
+  },
+  {
+    "n": 3,
+    "lesson": "Lesson 1",
+    "q": "________  yaava uuru ?",
+    "correct": "idu",
+    "options": [
+      "idu",
+      "nanna",
+      "ninna",
+      "avara"
+    ]
+  },
+  {
+    "n": 4,
+    "lesson": "Lesson 1",
+    "q": "_______ yaaru ?",
+    "correct": "niivu",
+    "options": [
+      "niivu",
+      "nimma",
+      "hege",
+      "summane"
+    ]
+  },
+  {
+    "n": 5,
+    "lesson": "Lesson 1",
+    "q": "_______ huDugi .",
+    "correct": "avaLu",
+    "options": [
+      "avaLu",
+      "avanu",
+      "ivanu",
+      "iva"
+    ]
+  },
+  {
+    "n": 6,
+    "lesson": "Lesson 1",
+    "q": "adu namma _______ .",
+    "correct": "kaaleeju",
+    "options": [
+      "kaaleeju",
+      "adyapaka",
+      "upanyasaka",
+      "pranshupaala"
+    ]
+  },
+  {
+    "n": 7,
+    "lesson": "Lesson 1",
+    "q": "ivanu namma _________",
+    "correct": "aNNa",
+    "options": [
+      "aNNa",
+      "tangi",
+      "akka",
+      "amma"
+    ]
+  },
+  {
+    "n": 8,
+    "lesson": "Lesson 1",
+    "q": "nimma hesru _____",
+    "correct": "eenu",
+    "options": [
+      "eenu",
+      "yaru",
+      "yake",
+      "yaavaga"
+    ]
+  },
+  {
+    "n": 9,
+    "lesson": "Lesson 1",
+    "q": "If 'niivu' becomes 'nimma' what would be 'naanu'  ?",
+    "correct": "nanna",
+    "options": [
+      "nanna",
+      "avana",
+      "avala",
+      "adara"
+    ]
+  },
+  {
+    "n": 10,
+    "lesson": "Lesson 1",
+    "q": "What is  English translation of the word 'naanu' ?",
+    "correct": "I",
+    "options": [
+      "I",
+      "you",
+      "he",
+      "she"
+    ]
+  },
+  {
+    "n": 11,
+    "lesson": "Lesson 1",
+    "q": "What is English translation of the word 'naavu' ?",
+    "correct": "We",
+    "options": [
+      "We",
+      "I",
+      "you",
+      "She"
+    ]
+  },
+  {
+    "n": 12,
+    "lesson": "Lesson 1",
+    "q": "What is English translation of the word 'namma' ?",
+    "correct": "our",
+    "options": [
+      "our",
+      "their",
+      "your",
+      "her"
+    ]
+  },
+  {
+    "n": 13,
+    "lesson": "Lesson 1",
+    "q": "What is  English translation of the word 'avaLu' ?",
+    "correct": "she",
+    "options": [
+      "she",
+      "her",
+      "him",
+      "his"
+    ]
+  },
+  {
+    "n": 14,
+    "lesson": "Lesson 1",
+    "q": "What is English translation of the word 'namage' ?",
+    "correct": "us",
+    "options": [
+      "us",
+      "our",
+      "your",
+      "their"
+    ]
+  },
+  {
+    "n": 15,
+    "lesson": "Lesson 1",
+    "q": "What is English translation of the word 'nanna' ?",
+    "correct": "my",
+    "options": [
+      "my",
+      "I",
+      "we",
+      "us"
+    ]
+  },
+  {
+    "n": 16,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'this' ?",
+    "correct": "idu",
+    "options": [
+      "idu",
+      "adu",
+      "yaaru",
+      "eenu"
+    ]
+  },
+  {
+    "n": 17,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'they' ?",
+    "correct": "avaru",
+    "options": [
+      "avaru",
+      "avanu",
+      "naavu",
+      "nanna"
+    ]
+  },
+  {
+    "n": 18,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'who' ?",
+    "correct": "yaaru",
+    "options": [
+      "yaaru",
+      "yaake",
+      "yaavaga",
+      "yaaraddu"
+    ]
+  },
+  {
+    "n": 19,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'your'?",
+    "correct": "ninna",
+    "options": [
+      "ninna",
+      "naavu",
+      "namage",
+      "nimage"
+    ]
+  },
+  {
+    "n": 20,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'her' ?",
+    "correct": "avaLa",
+    "options": [
+      "avaLa",
+      "avana",
+      "avanu",
+      "avaru"
+    ]
+  },
+  {
+    "n": 21,
+    "lesson": "Lesson 1",
+    "q": "What is Kannada translation of the word 'it' ?",
+    "correct": "idu",
+    "options": [
+      "idu",
+      "eenu",
+      "heege",
+      "enthadu"
+    ]
+  },
+  {
+    "n": 22,
+    "lesson": "Lesson 1",
+    "q": "Naanu NITTE vidyaarthi ' in English is _______ .",
+    "correct": "I am NITTE student",
+    "options": [
+      "I am NITTE student",
+      "NITTE student I am",
+      "I NITTE student",
+      "I student of NITTE"
+    ]
+  },
+  {
+    "n": 23,
+    "lesson": "Lesson 1",
+    "q": "Ivaru namma taayi' in English is _________.",
+    "correct": "She is my mother",
+    "options": [
+      "She is my mother",
+      "She my mother",
+      "My mother is She",
+      "She my mother is"
+    ]
+  },
+  {
+    "n": 24,
+    "lesson": "Lesson 1",
+    "q": "AvaLu nanna tangi' in English is _______",
+    "correct": "She is my sister",
+    "options": [
+      "She is my sister",
+      "She is my mother",
+      "He is my brother",
+      "She is my aunt"
+    ]
+  },
+  {
+    "n": 25,
+    "lesson": "Lesson 1",
+    "q": "Avru VTU vidyaarthi ' in English is_______",
+    "correct": "They are VTU student",
+    "options": [
+      "They are VTU student",
+      "He is VTU student",
+      "She is VTU student",
+      "I am VTU student"
+    ]
+  },
+  {
+    "n": 26,
+    "lesson": "Lesson 1",
+    "q": "'idu Udupi ' in Engliish is ________",
+    "correct": "This is Udupi",
+    "options": [
+      "This is Udupi",
+      "That is Udupi",
+      "There is Udupi",
+      "Here is Udupi"
+    ]
+  },
+  {
+    "n": 27,
+    "lesson": "Lesson 1",
+    "q": "The Kannada question “Avalu hege mathanaaduthale” is “How does she speak?” . English equivalent word for the interrogative 'Hege'is ______.",
+    "correct": "how",
+    "options": [
+      "how",
+      "why",
+      "where",
+      "when"
+    ]
+  },
+  {
+    "n": 28,
+    "lesson": "Lesson 1",
+    "q": "Interrogative or Questioning words are called ______ in Kannada language.",
+    "correct": "Prashnaarthaka Padagalu",
+    "options": [
+      "Prashnaarthaka Padagalu",
+      "kriya padagalu",
+      "naama padagalu",
+      "none"
+    ]
+  },
+  {
+    "n": 29,
+    "lesson": "Lesson 1",
+    "q": "The pronoun 'It' in Kannada is  _________________.",
+    "correct": "idu",
+    "options": [
+      "idu",
+      "avanu",
+      "naanu",
+      "namma"
+    ]
+  },
+  {
+    "n": 30,
+    "lesson": "Lesson 1",
+    "q": "“Avaru Mumbaige hodaru\" The English equivalent of the sentence is “They went to Mumbai”: In this sentence ______ is a Pronoun.",
+    "correct": "avaru",
+    "options": [
+      "avaru",
+      "mumbai",
+      "hodaru",
+      "none of these"
+    ]
+  },
+  {
+    "n": 31,
+    "lesson": "Lesson 1",
+    "q": "In the Kannada sentence “Nimma hesaru enu”? which means “What is your name”?____ is the interrogative word.",
+    "correct": "enu",
+    "options": [
+      "enu",
+      "hesaru",
+      "nimma",
+      "none of these"
+    ]
+  },
+  {
+    "n": 32,
+    "lesson": "Lesson 1",
+    "q": "In the Kannada sentence “Aa huDuga yaaru”? which means “Who is that boy”?____ is the interrogative word.",
+    "correct": "yaaru",
+    "options": [
+      "yaaru",
+      "huDuga",
+      "Aa",
+      "none of these"
+    ]
+  },
+  {
+    "n": 33,
+    "lesson": "Lesson 1",
+    "q": "In the Kannada sentence “Nimma uuru yaavudu”? which means “ Which is your native place”?____ is the interrogative word.",
+    "correct": "yaavudu",
+    "options": [
+      "yaavudu",
+      "nimma",
+      "uuru",
+      "none of these"
+    ]
+  },
+  {
+    "n": 34,
+    "lesson": "Lesson 1",
+    "q": "“Avanu nanna maga\" The English equivalent of the sentence is “He is my son”.In this sentence ______ is a Pronoun.",
+    "correct": "avanu",
+    "options": [
+      "avanu",
+      "nanna",
+      "maga",
+      "none of these"
+    ]
+  },
+  {
+    "n": 35,
+    "lesson": "Lesson 1",
+    "q": "“Avaru nanna tande\" The English equivalent of the sentence is “He is my fother”. In this sentence ______ is a Pronoun.",
+    "correct": "avaru",
+    "options": [
+      "avaru",
+      "nanna",
+      "tande",
+      "all the above"
+    ]
+  },
+  {
+    "n": 36,
+    "lesson": "Lesson 1",
+    "q": "Idu computer' it means _______ .",
+    "correct": "this is computer",
+    "options": [
+      "this is computer",
+      "that is computer",
+      "there is computer",
+      "none of these"
+    ]
+  },
+  {
+    "n": 37,
+    "lesson": "Lesson 1",
+    "q": "\"ivaLu nanna magaLu'. The English equivalent of the sentence is \"She is my daughter\". In the sentence ______ is a pronoun.",
+    "correct": "ivaLu",
+    "options": [
+      "ivaLu",
+      "nanna",
+      "magaLu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 38,
+    "lesson": "Lesson 1",
+    "q": "idu yaara ruumu ?' in English is _______ .",
+    "correct": "Whose room is this ?",
+    "options": [
+      "Whose room is this ?",
+      "What room is this ?",
+      "Which room is this ?",
+      "none of these"
+    ]
+  },
+  {
+    "n": 39,
+    "lesson": "Lesson 1",
+    "q": "Aa gaaDi nimmadaa ?' in  English is ____.",
+    "correct": "Is that vehicle yours ?",
+    "options": [
+      "Is that vehicle yours ?",
+      "Is this your vehicle ?",
+      "Whose vehicle is that",
+      "none of these"
+    ]
+  },
+  {
+    "n": 40,
+    "lesson": "Lesson 1",
+    "q": "dhanyavaada saar' in English is _____ .",
+    "correct": "Thank you sir",
+    "options": [
+      "Thank you sir",
+      "sorry sir",
+      "Welcome sir",
+      "bye sir"
+    ]
+  },
+  {
+    "n": 41,
+    "lesson": "Lesson 2",
+    "q": "“Avaru Delhige hodaru” The English equivalent of the sentence is “They went to Delhi”  In this sentence ____ is a Noun.",
+    "correct": "Delhi",
+    "options": [
+      "Delhi",
+      "avaru",
+      "hodaru",
+      "none of these"
+    ]
+  },
+  {
+    "n": 42,
+    "lesson": "Lesson 2",
+    "q": "“Sachin elli” The English equivalent of the sentence is “Where is Sachin?”  In this sentence ____ is a Noun.",
+    "correct": "Sachin",
+    "options": [
+      "Sachin",
+      "elli",
+      "Sachin ellli",
+      "none of these"
+    ]
+  },
+  {
+    "n": 43,
+    "lesson": "Lesson 2",
+    "q": "The equivalent Kannada sentence for “Do you want coffee?\" in Kannada is______.",
+    "correct": "Nimage Kaafi beke?",
+    "options": [
+      "Nimage Kaafi beke?",
+      "Nanage Kaafi beke?",
+      "Avarigee Kaafi beke?",
+      "ivarigee Kaafi beke?"
+    ]
+  },
+  {
+    "n": 44,
+    "lesson": "Lesson 2",
+    "q": "The equivalent Kannada sentence for “Is that your house ?\" in Kannada is______.",
+    "correct": "adu nimma manenaa ?",
+    "options": [
+      "adu nimma manenaa ?",
+      "yavudu nimma mane ?",
+      "nimma mane elli ?",
+      "none of these"
+    ]
+  },
+  {
+    "n": 45,
+    "lesson": "Lesson 2",
+    "q": "The equivalent Kannada sentence for \"Which book is that?\"  in Kannada is______.",
+    "correct": "Yaava pustakaa adu ?",
+    "options": [
+      "Yaava pustakaa adu ?",
+      "yaara pustaka ?",
+      "nsnns pustakavee ?",
+      "nimma pustakavee ?"
+    ]
+  },
+  {
+    "n": 46,
+    "lesson": "Lesson 2",
+    "q": "__________ is the meaning of the word 'hello' in Kannada language.",
+    "correct": "namaskaara",
+    "options": [
+      "namaskaara",
+      "tiraskaara",
+      "upakaara",
+      "sahakaara"
+    ]
+  },
+  {
+    "n": 47,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'sorry' in Kannada language.",
+    "correct": "kshamisi",
+    "options": [
+      "kshamisi",
+      "Shikshisi",
+      "smadaana",
+      "sariyaagi"
+    ]
+  },
+  {
+    "n": 48,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'house' in Kannada language.",
+    "correct": "mane",
+    "options": [
+      "mane",
+      "guDi",
+      "devasthana",
+      "shaale"
+    ]
+  },
+  {
+    "n": 49,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'name' in Kannada language.",
+    "correct": "hesaru",
+    "options": [
+      "hesaru",
+      "usiru",
+      "bisilu",
+      "hasiru"
+    ]
+  },
+  {
+    "n": 50,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'promise' in Kannada language.",
+    "correct": "pramaaNa",
+    "options": [
+      "pramaaNa",
+      "samaadaana",
+      "udaari",
+      "vihaari"
+    ]
+  },
+  {
+    "n": 51,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'marriage' in Kannada language.",
+    "correct": "maduve",
+    "options": [
+      "maduve",
+      "upanayana",
+      "siimantha",
+      "huttu habba"
+    ]
+  },
+  {
+    "n": 52,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'drama' in Kannada language.",
+    "correct": "naataka",
+    "options": [
+      "naataka",
+      "paata",
+      "uuta",
+      "maata"
+    ]
+  },
+  {
+    "n": 53,
+    "lesson": "Lesson 2",
+    "q": "_________ is the meaning of the word 'lesson' in Kannada language.",
+    "correct": "paTa",
+    "options": [
+      "paTa",
+      "uuta",
+      "haTa",
+      "chaTa"
+    ]
+  },
+  {
+    "n": 54,
+    "lesson": "Lesson 2",
+    "q": "Shubharaatri in English is_______________",
+    "correct": "Good night",
+    "options": [
+      "Good night",
+      "Good morning",
+      "Good evening",
+      "Good afternoon"
+    ]
+  },
+  {
+    "n": 55,
+    "lesson": "Lesson 2",
+    "q": "Shubha dina in English is____________",
+    "correct": "Good day",
+    "options": [
+      "Good day",
+      "Bad day",
+      "Monday",
+      "Friday"
+    ]
+  },
+  {
+    "n": 56,
+    "lesson": "Lesson 2",
+    "q": "All the best in Kannada __________",
+    "correct": "Shubhavaagali",
+    "options": [
+      "Shubhavaagali",
+      "Shubharaatri",
+      "Arambavagali",
+      "Koneaagali"
+    ]
+  },
+  {
+    "n": 57,
+    "lesson": "Lesson 2",
+    "q": "Happy new year in Kannada is_____________",
+    "correct": "Hosa varShada shubhaashayagaLu",
+    "options": [
+      "Hosa varShada shubhaashayagaLu",
+      "huTTu habbadha shubhaashayagaLu",
+      "madveya shubhaashayagaLu",
+      "None of these"
+    ]
+  },
+  {
+    "n": 58,
+    "lesson": "Lesson 2",
+    "q": "Udupi is beautiful in Kannada is __________",
+    "correct": "Udupi sundaravaagidhe",
+    "options": [
+      "Udupi sundaravaagidhe",
+      "Udupi sundara",
+      "Udupi jananibiDavaagide",
+      "None of these"
+    ]
+  },
+  {
+    "n": 59,
+    "lesson": "Lesson 2",
+    "q": "DhanyavaadagaLu in English is ____________.",
+    "correct": "Thank you",
+    "options": [
+      "Thank you",
+      "Welcome",
+      "Sorry",
+      "Hello"
+    ]
+  },
+  {
+    "n": 60,
+    "lesson": "Lesson 2",
+    "q": "Welcome in Kannada is __________.",
+    "correct": "susvaagata",
+    "options": [
+      "susvaagata",
+      "abhyagata",
+      "atithi",
+      "Banni"
+    ]
+  },
+  {
+    "n": 61,
+    "lesson": "Lesson 2",
+    "q": "\"you are beautiful' in Kannada is _______",
+    "correct": "neevu sundaravagidhiri",
+    "options": [
+      "neevu sundaravagidhiri",
+      "nivu  sundaravaagilla",
+      "neevu chikka maguvinante",
+      "neevu chelvuve alla"
+    ]
+  },
+  {
+    "n": 62,
+    "lesson": "Lesson 2",
+    "q": "\"may God bless you\" in Kannada is.________ .",
+    "correct": "devaru oLLeyadu maaDali",
+    "options": [
+      "devaru oLLeyadu maaDali",
+      "devaru nimmondigirali",
+      "devaru pratyakshvaaagali",
+      "devaru vara koDli"
+    ]
+  },
+  {
+    "n": 63,
+    "lesson": "Lesson 2",
+    "q": "gaNita' in English is.______",
+    "correct": "mathematics",
+    "options": [
+      "mathematics",
+      "physics",
+      "biology",
+      "commerce"
+    ]
+  },
+  {
+    "n": 64,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ Aa bike ______'  (mine)",
+    "correct": "nannadu",
+    "options": [
+      "nannadu",
+      "avaladu",
+      "avanadu",
+      "avaradu"
+    ]
+  },
+  {
+    "n": 65,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ ivaru ______ tande’  (my)",
+    "correct": "nanna",
+    "options": [
+      "nanna",
+      "ninna",
+      "avanadu",
+      "avala"
+    ]
+  },
+  {
+    "n": 66,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ adu namma ______’ (home)",
+    "correct": "mane",
+    "options": [
+      "mane",
+      "gudi",
+      "devastana",
+      "mandira"
+    ]
+  },
+  {
+    "n": 67,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ avanu ninna  ______’ (brother)",
+    "correct": "aNNa",
+    "options": [
+      "aNNa",
+      "tangi",
+      "akka",
+      "chikamma"
+    ]
+  },
+  {
+    "n": 68,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ naanu belige _____ bande ’  (early)",
+    "correct": "bega",
+    "options": [
+      "bega",
+      "tadavaagi",
+      "oDoDi",
+      "nidanavagi"
+    ]
+  },
+  {
+    "n": 69,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ naanu sanje ______bande’  (late)",
+    "correct": "tadavaagi",
+    "options": [
+      "tadavaagi",
+      "nidaanavaagi",
+      "bega bega",
+      "nadedu nadedu"
+    ]
+  },
+  {
+    "n": 70,
+    "lesson": "Lesson 2",
+    "q": "Fill in the blank with the suitable Kannada form of the word given in the bracket .‘ adu maavina ______’ (tree)",
+    "correct": "mara",
+    "options": [
+      "mara",
+      "gida",
+      "sasi",
+      "bija"
+    ]
+  },
+  {
+    "n": 71,
+    "lesson": "Lesson 2",
+    "q": "‘Nimage huttu habbada ______’(wishes).",
+    "correct": "Shubhashayagalu",
+    "options": [
+      "Shubhashayagalu",
+      "vandanegalu",
+      "namaskara",
+      "none of these"
+    ]
+  },
+  {
+    "n": 72,
+    "lesson": "Lesson 2",
+    "q": "‘Navu ottige Delhige  ______’(go).",
+    "correct": "hogoNa",
+    "options": [
+      "hogoNa",
+      "baroNa",
+      "NaDeyoNa",
+      "kurooNa"
+    ]
+  },
+  {
+    "n": 73,
+    "lesson": "Lesson 2",
+    "q": "Latha avana  ________(Mother).",
+    "correct": "amma",
+    "options": [
+      "amma",
+      "akka",
+      "tangi",
+      "chikamma"
+    ]
+  },
+  {
+    "n": 74,
+    "lesson": "Lesson 2",
+    "q": "Namaskara’ in Kannada language is equivalent to _______",
+    "correct": "All of these",
+    "options": [
+      "All of these",
+      "good afternoon",
+      "hey",
+      "good morning"
+    ]
+  },
+  {
+    "n": 75,
+    "lesson": "Lesson 2",
+    "q": "________is used during closure of a conversation in Kannada .",
+    "correct": "Dhanyavadagalu",
+    "options": [
+      "Dhanyavadagalu",
+      "kshamisi",
+      "dayamaadi",
+      "none of these"
+    ]
+  },
+  {
+    "n": 76,
+    "lesson": "Lesson 2",
+    "q": "'Dayamadi’ is a polite request in Kannada language which is equivalent to______",
+    "correct": "please",
+    "options": [
+      "please",
+      "sorry sir",
+      "thank you",
+      "all the above"
+    ]
+  },
+  {
+    "n": 77,
+    "lesson": "Lesson 2",
+    "q": "The translation of the question “Who is he?” is “Avanu yaaru?”. The Kannada equivalent word for 'Who' is ______.",
+    "correct": "yaaru",
+    "options": [
+      "yaaru",
+      "hege",
+      "yelli",
+      "enu"
+    ]
+  },
+  {
+    "n": 78,
+    "lesson": "Lesson 2",
+    "q": "alli nivu enu kelasa maDuttiraa?' The English equivalent word for 'kelasa' is _____.",
+    "correct": "work",
+    "options": [
+      "work",
+      "clerk",
+      "shop",
+      "timepass"
+    ]
+  },
+  {
+    "n": 79,
+    "lesson": "Lesson 2",
+    "q": "avana mane elli ide?' The English equivalent word for 'elli' is _________.",
+    "correct": "where",
+    "options": [
+      "where",
+      "how",
+      "when",
+      "why"
+    ]
+  },
+  {
+    "n": 80,
+    "lesson": "Lesson 2",
+    "q": "avara maguvina hesaru enu?' The English equivalent word for 'magu' is ________.",
+    "correct": "child",
+    "options": [
+      "child",
+      "son",
+      "daughter",
+      "name"
+    ]
+  },
+  {
+    "n": 81,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'Yeradu' in English number system stands for ______.",
+    "correct": "2",
+    "options": [
+      "2",
+      "5",
+      "9",
+      "7"
+    ]
+  },
+  {
+    "n": 82,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'mooru' in English number system stands for _______.",
+    "correct": "3",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "8"
+    ]
+  },
+  {
+    "n": 83,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'entu' in English number system stands for _____.",
+    "correct": "8",
+    "options": [
+      "8",
+      "6",
+      "1",
+      "3"
+    ]
+  },
+  {
+    "n": 84,
+    "lesson": "Lesson 3",
+    "q": "The appropriate equivalent Kannada word for 'Lakh' is ______.",
+    "correct": "laksha",
+    "options": [
+      "laksha",
+      "koti",
+      "noor",
+      "hattu"
+    ]
+  },
+  {
+    "n": 85,
+    "lesson": "Lesson 3",
+    "q": "The appropriate equivalent Kannada word for 'Crore' is ______.",
+    "correct": "koti",
+    "options": [
+      "koti",
+      "noor",
+      "entu",
+      "noora hattu"
+    ]
+  },
+  {
+    "n": 86,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'hannereDu' in English number system stands for _______.",
+    "correct": "12",
+    "options": [
+      "12",
+      "15",
+      "17",
+      "16"
+    ]
+  },
+  {
+    "n": 87,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'sonne' in English number system stands for _______.",
+    "correct": "0",
+    "options": [
+      "0",
+      "10",
+      "100",
+      "1"
+    ]
+  },
+  {
+    "n": 88,
+    "lesson": "Lesson 3",
+    "q": "Kannada term 'eeLu' in English number system stands for _______.",
+    "correct": "7",
+    "options": [
+      "7",
+      "17",
+      "27",
+      "37"
+    ]
+  },
+  {
+    "n": 89,
+    "lesson": "Lesson 3",
+    "q": "adu hasiru mara' The English equivalent word for 'hasiru' is _____.",
+    "correct": "green",
+    "options": [
+      "green",
+      "yellow",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "n": 90,
+    "lesson": "Lesson 3",
+    "q": "aa emmeya banna kappu' The English equivalent word for 'kappu' is _____.",
+    "correct": "black",
+    "options": [
+      "black",
+      "red",
+      "white",
+      "purple"
+    ]
+  },
+  {
+    "n": 91,
+    "lesson": "Lesson 3",
+    "q": "avaru namma maneya hiriya sadasya' The English equivalent word for 'hiriya' is _____.",
+    "correct": "old",
+    "options": [
+      "old",
+      "young",
+      "new",
+      "useless"
+    ]
+  },
+  {
+    "n": 92,
+    "lesson": "Lesson 3",
+    "q": "avalu tumba olleya hudugi' The English equivalent word for 'olleya' is _____.",
+    "correct": "good",
+    "options": [
+      "good",
+      "Bad day",
+      "smart",
+      "clever"
+    ]
+  },
+  {
+    "n": 93,
+    "lesson": "Lesson 3",
+    "q": "namma maneya baNNa biLi' The English equivalent word for 'biLi' is _____.",
+    "correct": "White",
+    "options": [
+      "White",
+      "brown",
+      "pink",
+      "yellow"
+    ]
+  },
+  {
+    "n": 94,
+    "lesson": "Lesson 3",
+    "q": "adu kempu gulabi' The English equivalent word for 'kempu' is _____.",
+    "correct": "red",
+    "options": [
+      "red",
+      "pink",
+      "orange",
+      "white"
+    ]
+  },
+  {
+    "n": 95,
+    "lesson": "Lesson 3",
+    "q": "adu tumba doDDa mara' The English equivalent word for 'doDDa' is _____.",
+    "correct": "big",
+    "options": [
+      "big",
+      "small",
+      "short",
+      "height"
+    ]
+  },
+  {
+    "n": 96,
+    "lesson": "Lesson 3",
+    "q": "keTTa kelasa madbeda' The English equivalent word for 'keTTa' is _____.",
+    "correct": "bad",
+    "options": [
+      "bad",
+      "good",
+      "useless",
+      "none of these"
+    ]
+  },
+  {
+    "n": 97,
+    "lesson": "Lesson 3",
+    "q": "nanna mane tumba chikkadu' The English equivalent word for 'chikkadu' is _____.",
+    "correct": "small",
+    "options": [
+      "small",
+      "big",
+      "large",
+      "all of these"
+    ]
+  },
+  {
+    "n": 98,
+    "lesson": "Lesson 3",
+    "q": "lekka maaDuvudu tumba sulabha' The English equivalent word for 'sulabha' is _____.",
+    "correct": "easy",
+    "options": [
+      "easy",
+      "hard",
+      "tough",
+      "painful"
+    ]
+  },
+  {
+    "n": 99,
+    "lesson": "Lesson 3",
+    "q": "nanna kai khaali aagide' The English equivalent word for 'khaali' is ___________.",
+    "correct": "empty",
+    "options": [
+      "empty",
+      "full",
+      "half",
+      "zero"
+    ]
+  },
+  {
+    "n": 100,
+    "lesson": "Lesson 3",
+    "q": "idu nanna hosa batte' The English equivalent word for 'hosa' is _____.",
+    "correct": "new",
+    "options": [
+      "new",
+      "old",
+      "gold",
+      "none of these"
+    ]
+  },
+  {
+    "n": 101,
+    "lesson": "Lesson 3",
+    "q": "ii laaDu tumba gaTTi ide' The English equivalent word for 'gaTTi' is _____.",
+    "correct": "hard",
+    "options": [
+      "hard",
+      "soft",
+      "smooth",
+      "all of these"
+    ]
+  },
+  {
+    "n": 102,
+    "lesson": "Lesson 3",
+    "q": "avana chila bhaara ide' The English equivalent word for 'bhaara' is _____.",
+    "correct": "weight",
+    "options": [
+      "weight",
+      "height",
+      "length",
+      "none of these"
+    ]
+  },
+  {
+    "n": 103,
+    "lesson": "Lesson 3",
+    "q": "idu agalavaada raste' The English equivalent word for 'agala' is _____.",
+    "correct": "wide",
+    "options": [
+      "wide",
+      "big",
+      "small",
+      "none of these"
+    ]
+  },
+  {
+    "n": 104,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Time' is ______ .",
+    "correct": "samaya",
+    "options": [
+      "samaya",
+      "ratri",
+      "belige",
+      "sanje"
+    ]
+  },
+  {
+    "n": 105,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Clean' is ______ .",
+    "correct": "shubra",
+    "options": [
+      "shubra",
+      "gobbara",
+      "tabara",
+      "kabara"
+    ]
+  },
+  {
+    "n": 106,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Dry 'is ______ .",
+    "correct": "oNa",
+    "options": [
+      "oNa",
+      "hasi",
+      "kasi",
+      "bisi"
+    ]
+  },
+  {
+    "n": 107,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Dirty' is ______ .",
+    "correct": "galiiju",
+    "options": [
+      "galiiju",
+      "suchi",
+      "ruchi",
+      "none of these"
+    ]
+  },
+  {
+    "n": 108,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Fresh' is ______ .",
+    "correct": "taaja",
+    "options": [
+      "taaja",
+      "haLasu",
+      "haLatu",
+      "hosatu"
+    ]
+  },
+  {
+    "n": 109,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Expensive' is ______ .",
+    "correct": "dubaari",
+    "options": [
+      "dubaari",
+      "aabari",
+      "udaari",
+      "tarahevaari"
+    ]
+  },
+  {
+    "n": 110,
+    "lesson": "Lesson 3",
+    "q": "Kannada word for 'Light' is ______ .",
+    "correct": "hagura",
+    "options": [
+      "hagura",
+      "bhaara",
+      "dappa",
+      "teLLage"
+    ]
+  },
+  {
+    "n": 111,
+    "lesson": "Lesson 4",
+    "q": "illi yaavudaadaru ruumu _______ ideyaa?  (for rent)",
+    "correct": "baaDigege",
+    "options": [
+      "baaDigege",
+      "maaratakke",
+      "boogyakke",
+      "durastige"
+    ]
+  },
+  {
+    "n": 112,
+    "lesson": "Lesson 4",
+    "q": "________ tiLidiruvante, yaavude ruumu illi illa (for me)",
+    "correct": "nanage",
+    "options": [
+      "nanage",
+      "ninage",
+      "avanige",
+      "avaLige"
+    ]
+  },
+  {
+    "n": 113,
+    "lesson": "Lesson 4",
+    "q": "_________ tumba hasivaguttide (for him)",
+    "correct": "avanige",
+    "options": [
+      "avanige",
+      "adakke",
+      "avarige",
+      "avugLige"
+    ]
+  },
+  {
+    "n": 114,
+    "lesson": "Lesson 4",
+    "q": "aa ruumu _______ athava doDDadoo. (small)",
+    "correct": "chikkadoo",
+    "options": [
+      "chikkadoo",
+      "olLLeyadoo",
+      "hattira",
+      "duura"
+    ]
+  },
+  {
+    "n": 115,
+    "lesson": "Lesson 4",
+    "q": "adu _____ mane. (whose )",
+    "correct": "yaara",
+    "options": [
+      "yaara",
+      "yaavudara",
+      "elliya",
+      "none of this"
+    ]
+  },
+  {
+    "n": 116,
+    "lesson": "Lesson 4",
+    "q": "aa mane tumbaa _______ (big)",
+    "correct": "doDDadu",
+    "options": [
+      "doDDadu",
+      "haLeyadu",
+      "hosatu",
+      "chikkadu"
+    ]
+  },
+  {
+    "n": 117,
+    "lesson": "Lesson 4",
+    "q": "nimma maneyalli _____ iddare ?(who)",
+    "correct": "yaaru",
+    "options": [
+      "yaaru",
+      "yaake",
+      "yavudkke",
+      "eenakke"
+    ]
+  },
+  {
+    "n": 118,
+    "lesson": "Lesson 4",
+    "q": "idu pustaka yaarddu ______ athava avaraddoo ?(yours)",
+    "correct": "nimmadoo",
+    "options": [
+      "nimmadoo",
+      "nannadoo",
+      "nammmadoo",
+      "none of this"
+    ]
+  },
+  {
+    "n": 119,
+    "lesson": "Lesson 4",
+    "q": "ii kaaleju _______ (yours)",
+    "correct": "nimmadaa",
+    "options": [
+      "nimmadaa",
+      "nammada",
+      "avaradaa",
+      "ellaradde"
+    ]
+  },
+  {
+    "n": 120,
+    "lesson": "Lesson 4",
+    "q": "namma shaale tumba ______ (old)",
+    "correct": "haLeyadu",
+    "options": [
+      "haLeyadu",
+      "hosadu",
+      "ittiichinadu",
+      "naaLeyaddu"
+    ]
+  },
+  {
+    "n": 121,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example.saNNa -saNNadu ::  doDDa -______",
+    "correct": "doDDadu",
+    "options": [
+      "doDDadu",
+      "chikkadu",
+      "hiriya",
+      "kiriya"
+    ]
+  },
+  {
+    "n": 122,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa- saNNadu:: chikka -_______",
+    "correct": "chikkadu",
+    "options": [
+      "chikkadu",
+      "chikkadaadaddu",
+      "chikkavarddu",
+      "chikkavaLaddu"
+    ]
+  },
+  {
+    "n": 123,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example.saNNa -saNNadu ::  haLeya -______",
+    "correct": "haLeyaddu",
+    "options": [
+      "haLeyaddu",
+      "hoasatu",
+      "haLate",
+      "hoaste"
+    ]
+  },
+  {
+    "n": 124,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa- saNNadu:: avara-_______",
+    "correct": "avaraddu",
+    "options": [
+      "avaraddu",
+      "avaLaddu",
+      "avanddu",
+      "houdu"
+    ]
+  },
+  {
+    "n": 125,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa - saNNaddu :: ivara ____",
+    "correct": "ivarddu",
+    "options": [
+      "ivarddu",
+      "ivaLaddu",
+      "avanadu",
+      "avaraddu"
+    ]
+  },
+  {
+    "n": 126,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Raaja - Raajanadu :: ravi - ____-",
+    "correct": "raviyadu",
+    "options": [
+      "raviyadu",
+      "ravienda",
+      "rajaninda",
+      "none of thies"
+    ]
+  },
+  {
+    "n": 127,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Raaja - Raajanadu :: amma _ ____",
+    "correct": "ammanadu",
+    "options": [
+      "ammanadu",
+      "ammanige",
+      "ammanigaagi",
+      "ammanalli"
+    ]
+  },
+  {
+    "n": 128,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example.Raaja -raajanadu :: akka - ___",
+    "correct": "akkanadu",
+    "options": [
+      "akkanadu",
+      "akkanigaagi",
+      "akkaninda",
+      "akkanigoskara"
+    ]
+  },
+  {
+    "n": 129,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Raaja - Raajandu :: nanna -___",
+    "correct": "nannadu",
+    "options": [
+      "nannadu",
+      "nanninda",
+      "nanagaagi",
+      "nangoskara"
+    ]
+  },
+  {
+    "n": 130,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Raaja - Raajanadu :: snehita - ____",
+    "correct": "snehitanadu",
+    "options": [
+      "snehitanadu",
+      "snehitanige",
+      "snehitanaddu",
+      "sneha"
+    ]
+  },
+  {
+    "n": 131,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Mane - maneyalli :: hotel - ?",
+    "correct": "hotelinalli",
+    "options": [
+      "hotelinalli",
+      "hoteininda",
+      "hoteligaagi",
+      "hoteligoskara"
+    ]
+  },
+  {
+    "n": 132,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Mane - maneyalli :: ruumu - ____",
+    "correct": "ruuminalli",
+    "options": [
+      "ruuminalli",
+      "ruumige",
+      "ruuminda",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 133,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Mane - maneyalli :: uuru - ____",
+    "correct": "uurinalli",
+    "options": [
+      "uurinalli",
+      "uurige",
+      "uurinavaru",
+      "uurinda"
+    ]
+  },
+  {
+    "n": 134,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Mane - maneyalli :: angaDi - _______",
+    "correct": "angaDiyalli",
+    "options": [
+      "angaDiyalli",
+      "angaDige",
+      "angaDine",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 135,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Mane - maneyalli :: chandra -____",
+    "correct": "chandranalli",
+    "options": [
+      "chandranalli",
+      "chandranige",
+      "chandranante",
+      "chandranee"
+    ]
+  },
+  {
+    "n": 136,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa - saNNavaLu :: udda - ___",
+    "correct": "uddadavLu",
+    "options": [
+      "uddadavLu",
+      "kuLLa",
+      "giDDa",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 137,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa - saNNavaLu  :: doDDa - ____",
+    "correct": "doDDavaLu",
+    "options": [
+      "doDDavaLu",
+      "chikkavaLu",
+      "saNNavaLu",
+      "paapadavaLu"
+    ]
+  },
+  {
+    "n": 138,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. saNNa - saNNavaLu :: ettara -  ___",
+    "correct": "ettaradavaLu",
+    "options": [
+      "ettaradavaLu",
+      "kuLLa",
+      "udda",
+      "saNNa"
+    ]
+  },
+  {
+    "n": 139,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Shrinagara - shrinagaradalli :: raamanagara -   ?",
+    "correct": "raamangaradalli",
+    "options": [
+      "raamangaradalli",
+      "raanagarada",
+      "raamangardava",
+      "raamanagarakke"
+    ]
+  },
+  {
+    "n": 140,
+    "lesson": "Lesson 4",
+    "q": "Transform the following word of KannaDa as per the given example. Shrinagara - shrinagaradalli :: kaarkaLa-   ?",
+    "correct": "kaarkaLadalli",
+    "options": [
+      "kaarkaLadalli",
+      "kaarakaLakke",
+      "kaarkaLadinda",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 141,
+    "lesson": "Lesson 5",
+    "q": "doDDadu  : doDDadakke :: chikkadu : ?",
+    "correct": "chikkadakke",
+    "options": [
+      "chikkadakke",
+      "chikka",
+      "chikkadaadaddu",
+      "chokkavadaddu"
+    ]
+  },
+  {
+    "n": 142,
+    "lesson": "Lesson 5",
+    "q": "doDDadu  : doDDadakke ::  haLeyadu : ?",
+    "correct": "haLeyadakke",
+    "options": [
+      "haLeyadakke",
+      "haLatu",
+      "haLeya",
+      "naaLeya"
+    ]
+  },
+  {
+    "n": 143,
+    "lesson": "Lesson 5",
+    "q": "doDDadu  : doDDadakke ::  hosadu : ?",
+    "correct": "hosadakke",
+    "options": [
+      "hosadakke",
+      "hasaadarinda",
+      "hosataagi",
+      "hosatu"
+    ]
+  },
+  {
+    "n": 144,
+    "lesson": "Lesson 5",
+    "q": "doDDadu  : doDDadakke :: nammadu : ?",
+    "correct": "nammadakke",
+    "options": [
+      "nammadakke",
+      "namminda",
+      "nammadu",
+      "nammadee"
+    ]
+  },
+  {
+    "n": 145,
+    "lesson": "Lesson 5",
+    "q": "doDDadu  : doDDadakke :: ivaradu : ?",
+    "correct": "ivaradakke",
+    "options": [
+      "ivaradakke",
+      "ivarinda",
+      "ivarigaagi",
+      "ivarigoskara"
+    ]
+  },
+  {
+    "n": 146,
+    "lesson": "Lesson 5",
+    "q": "Raaju : Raajuvige :: ravi : ______",
+    "correct": "ravige",
+    "options": [
+      "ravige",
+      "raviya",
+      "raviyannu",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 147,
+    "lesson": "Lesson 5",
+    "q": "Raaju : Raajuvige :: nanna: ____",
+    "correct": "nanage",
+    "options": [
+      "nanage",
+      "nanninda",
+      "nammadu",
+      "namgaagi"
+    ]
+  },
+  {
+    "n": 148,
+    "lesson": "Lesson 5",
+    "q": "Raaju : Raajuvige :: tamma : _____",
+    "correct": "tammanige",
+    "options": [
+      "tammanige",
+      "tammaninda",
+      "tammanigaagi",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 149,
+    "lesson": "Lesson 5",
+    "q": "Raaju : Raajuvige :: appa :______",
+    "correct": "appanige",
+    "options": [
+      "appanige",
+      "appaninda",
+      "appane",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 150,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'more' is ______ .",
+    "correct": "tumba",
+    "options": [
+      "tumba",
+      "kadime",
+      "hecchu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 151,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'story' is ______ .",
+    "correct": "kate",
+    "options": [
+      "kate",
+      "purana",
+      "kadambari",
+      "kavya"
+    ]
+  },
+  {
+    "n": 152,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'brother' is ______ .",
+    "correct": "aNNa",
+    "options": [
+      "aNNa",
+      "appa",
+      "mama",
+      "akka"
+    ]
+  },
+  {
+    "n": 153,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'sister' is ______ .",
+    "correct": "akka",
+    "options": [
+      "akka",
+      "chikkamma",
+      "amma",
+      "Doddamma"
+    ]
+  },
+  {
+    "n": 154,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'good' is ______ .",
+    "correct": "oLLeya",
+    "options": [
+      "oLLeya",
+      "ketta",
+      "uttama",
+      "none of these"
+    ]
+  },
+  {
+    "n": 155,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'right side' is ______ .",
+    "correct": "bala badi",
+    "options": [
+      "bala badi",
+      "hinde",
+      "nadu",
+      "munde"
+    ]
+  },
+  {
+    "n": 156,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'left side' is ______ .",
+    "correct": "eDa badi",
+    "options": [
+      "eDa badi",
+      "nadu",
+      "munde",
+      "none of these"
+    ]
+  },
+  {
+    "n": 157,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'far away' is ______ .",
+    "correct": "duura",
+    "options": [
+      "duura",
+      "hattira",
+      "samipa",
+      "saniha"
+    ]
+  },
+  {
+    "n": 158,
+    "lesson": "Lesson 5",
+    "q": "Kannada word for 'near' is ______ .",
+    "correct": "hattira",
+    "options": [
+      "hattira",
+      "duura",
+      "kelage",
+      "mele"
+    ]
+  },
+  {
+    "n": 159,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'tangi' is",
+    "correct": "sister",
+    "options": [
+      "sister",
+      "mother",
+      "aunty",
+      "daughter"
+    ]
+  },
+  {
+    "n": 160,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'uttama' is",
+    "correct": "excellent",
+    "options": [
+      "excellent",
+      "poor",
+      "lazy",
+      "useless"
+    ]
+  },
+  {
+    "n": 161,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'kaaryakrama' is",
+    "correct": "programme",
+    "options": [
+      "programme",
+      "office",
+      "meeting",
+      "none of these"
+    ]
+  },
+  {
+    "n": 162,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'tinnu' is",
+    "correct": "eat",
+    "options": [
+      "eat",
+      "sleep",
+      "play",
+      "dance"
+    ]
+  },
+  {
+    "n": 163,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'avaru' is",
+    "correct": "they",
+    "options": [
+      "they",
+      "that",
+      "this",
+      "none of these"
+    ]
+  },
+  {
+    "n": 164,
+    "lesson": "Lesson 5",
+    "q": "The equivalent English word for 'santosha' is",
+    "correct": "all the above",
+    "options": [
+      "all the above",
+      "pleasure",
+      "satisfaction",
+      "happiness"
+    ]
+  },
+  {
+    "n": 165,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the ' chair'.",
+    "correct": "kurchi",
+    "options": [
+      "kurchi",
+      "meju",
+      "tipai",
+      "none of these"
+    ]
+  },
+  {
+    "n": 166,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the ' money'.",
+    "correct": "all the above",
+    "options": [
+      "all the above",
+      "haNa",
+      "kanchaNa",
+      "dhana"
+    ]
+  },
+  {
+    "n": 167,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the 'Information'.",
+    "correct": "mahiti",
+    "options": [
+      "mahiti",
+      "gondala",
+      "vishaya",
+      "kashaya"
+    ]
+  },
+  {
+    "n": 168,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the ' Cloth'.",
+    "correct": "baTTe",
+    "options": [
+      "baTTe",
+      "mannu",
+      "mara",
+      "gida"
+    ]
+  },
+  {
+    "n": 169,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the ' Bird'.",
+    "correct": "hakki",
+    "options": [
+      "hakki",
+      "praani",
+      "maushya",
+      "none of these"
+    ]
+  },
+  {
+    "n": 170,
+    "lesson": "Lesson 5",
+    "q": "_____ is the word used in Kannada language for the ' Sad'.",
+    "correct": "besara",
+    "options": [
+      "besara",
+      "khushi",
+      "santosha",
+      "harusha"
+    ]
+  },
+  {
+    "n": 171,
+    "lesson": "Lesson 6",
+    "q": "Plural form of 'Nimma' in English is ______.",
+    "correct": "Your",
+    "options": [
+      "Your",
+      "Mine",
+      "Their",
+      "That"
+    ]
+  },
+  {
+    "n": 172,
+    "lesson": "Lesson 6",
+    "q": "Plural form of the English word 'They' in Kannada language is______.",
+    "correct": "Avaru",
+    "options": [
+      "Avaru",
+      "Nammadu",
+      "Naavu",
+      "Neevu"
+    ]
+  },
+  {
+    "n": 173,
+    "lesson": "Lesson 6",
+    "q": "Kannada equivalent word for plural form 'We' is  ______.",
+    "correct": "Naavu",
+    "options": [
+      "Naavu",
+      "Neevu",
+      "Avaru",
+      "Avalu"
+    ]
+  },
+  {
+    "n": 174,
+    "lesson": "Lesson 6",
+    "q": "“Avana bali mooru nayigalive” is “He has three dogs”. Here the number word is_______.",
+    "correct": "Moor",
+    "options": [
+      "Moor",
+      "bali",
+      "avana",
+      "Nayigalive"
+    ]
+  },
+  {
+    "n": 175,
+    "lesson": "Lesson 6",
+    "q": "\"naanu eraDaneya maga\" is \" I am second child\". Here the number word is _______.",
+    "correct": "eraDaneya",
+    "options": [
+      "eraDaneya",
+      "naanu",
+      "maga",
+      "none of these"
+    ]
+  },
+  {
+    "n": 176,
+    "lesson": "Lesson 6",
+    "q": "\"ii tingaLa naalkaaneyaa tharikinandu baruttene\" is \" I will come on 4th of this month\". Here the number word is ________.",
+    "correct": "naalkaaneyaa",
+    "options": [
+      "naalkaaneyaa",
+      "tingala",
+      "baruttene",
+      "tharikinandu"
+    ]
+  },
+  {
+    "n": 177,
+    "lesson": "Lesson 6",
+    "q": "\"naavu ottu aaru jana makkalu\" is \" Total we are six children\". Here the number word is ____.",
+    "correct": "aaru",
+    "options": [
+      "aaru",
+      "jana",
+      "makkalu",
+      "naavu"
+    ]
+  },
+  {
+    "n": 178,
+    "lesson": "Lesson 6",
+    "q": "\"nanage ereDu kaNNugaLive \" is \" I have two eyes \". Here the number word is ________ .",
+    "correct": "ereDu",
+    "options": [
+      "ereDu",
+      "Nanage",
+      "kaNNugaLu",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 179,
+    "lesson": "Lesson 6",
+    "q": "\"avanu ombattane taragatiyalli kaliyuttiddaane\" is \"He is studying in ninth standard\" . Here the number word is _____ .",
+    "correct": "ombattane",
+    "options": [
+      "ombattane",
+      "avanu",
+      "taragati",
+      "kali"
+    ]
+  },
+  {
+    "n": 180,
+    "lesson": "Lesson 6",
+    "q": "\" nann baLi hadinaidu buTTigaLive\" is \" I have fifteen baskets\". Here the number word is ______ .",
+    "correct": "hadinaidu",
+    "options": [
+      "hadinaidu",
+      "nanna",
+      "bali",
+      "buTTi"
+    ]
+  },
+  {
+    "n": 181,
+    "lesson": "Lesson 6",
+    "q": "If  ondu - ondaneya :: ereDu - _____",
+    "correct": "eraDaneya",
+    "options": [
+      "eraDaneya",
+      "dvitiiya",
+      "dvaita",
+      "dvigu"
+    ]
+  },
+  {
+    "n": 182,
+    "lesson": "Lesson 6",
+    "q": "If  ondu - ondaneya :: muuru - _____",
+    "correct": "muuraneya",
+    "options": [
+      "muuraneya",
+      "triimuurti",
+      "trikaraNa",
+      "trividha"
+    ]
+  },
+  {
+    "n": 183,
+    "lesson": "Lesson 6",
+    "q": "If  ondu - ondaneya :: aidu - _____",
+    "correct": "aidaneya",
+    "options": [
+      "aidaneya",
+      "pancham",
+      "panchami",
+      "panche"
+    ]
+  },
+  {
+    "n": 184,
+    "lesson": "Lesson 6",
+    "q": "If  ondu - ondaneya :: enTu - _____",
+    "correct": "enTaneya",
+    "options": [
+      "enTaneya",
+      "ashTa",
+      "eDuma",
+      "none of these"
+    ]
+  },
+  {
+    "n": 185,
+    "lesson": "Lesson 6",
+    "q": "If  ondu - ondaneya :: aaru - _____",
+    "correct": "aaraeya",
+    "options": [
+      "aaraeya",
+      "aravattu",
+      "aaramba",
+      "aramane"
+    ]
+  },
+  {
+    "n": 186,
+    "lesson": "Lesson 6",
+    "q": "\"enu ________(work) maaDuttare?\"  Fill in the blank with the equivalent word for 'work'.",
+    "correct": "kelasa",
+    "options": [
+      "kelasa",
+      "uta",
+      "aata",
+      "paata"
+    ]
+  },
+  {
+    "n": 187,
+    "lesson": "Lesson 6",
+    "q": "\"GaNeshanu esTu haNNugaLannu _____(ate)?\"  Fill in the blank with the equivalent word for 'ate'.",
+    "correct": "tindanu",
+    "options": [
+      "tindanu",
+      "tinnutane",
+      "tinnuvanu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 188,
+    "lesson": "Lesson 6",
+    "q": "\"avara ________(colour) yavadu?\"  Fill in the blank with the equivalent word for 'colour'.",
+    "correct": "baNNa",
+    "options": [
+      "baNNa",
+      "mane",
+      "uuru",
+      "none of these"
+    ]
+  },
+  {
+    "n": 189,
+    "lesson": "Lesson 6",
+    "q": "\"ii tarakaariya bele ________(how much)?\"  Fill in the blank with the equivalent word for 'how much'.",
+    "correct": "estu",
+    "options": [
+      "estu",
+      "hattu",
+      "aidu",
+      "muuru"
+    ]
+  },
+  {
+    "n": 190,
+    "lesson": "Lesson 6",
+    "q": "\"nanage nimma maney  ________(address) koDi\"  Fill in the blank with the equivalent word for 'address'.",
+    "correct": "viLaasa",
+    "options": [
+      "viLaasa",
+      "vilaasa",
+      "vihara",
+      "nihara"
+    ]
+  },
+  {
+    "n": 191,
+    "lesson": "Lesson 6",
+    "q": "\" avanu nimma ________ (son)\" Fill in the blank with the equivalent word for 'son'.",
+    "correct": "maga",
+    "options": [
+      "maga",
+      "magalu",
+      "amma",
+      "atte"
+    ]
+  },
+  {
+    "n": 192,
+    "lesson": "Lesson 6",
+    "q": "\"What is the date today?\" Fill in the blank with the equivalentkannada word for 'today'",
+    "correct": "evattu",
+    "options": [
+      "evattu",
+      "naale",
+      "naDidu",
+      "ninne"
+    ]
+  },
+  {
+    "n": 193,
+    "lesson": "Lesson 6",
+    "q": "\"Udupi is a beautiful city\" Fill in the blank with the equivalent word for ' beautiful'",
+    "correct": "sundara",
+    "options": [
+      "sundara",
+      "kuurupa",
+      "ketta",
+      "none of these"
+    ]
+  },
+  {
+    "n": 194,
+    "lesson": "Lesson 6",
+    "q": "\"Which rank he got in the examination?\" Fill in the blank with the equivalent word for 'examination'",
+    "correct": "parikshe",
+    "options": [
+      "parikshe",
+      "aata",
+      "uta",
+      "none of these"
+    ]
+  },
+  {
+    "n": 195,
+    "lesson": "Lesson 6",
+    "q": "\"This is my native place\" Fill in the blank with the equivalent word for 'native'",
+    "correct": "swantha",
+    "options": [
+      "swantha",
+      "heasru",
+      "uuru",
+      "gurugaLU"
+    ]
+  },
+  {
+    "n": 196,
+    "lesson": "Lesson 6",
+    "q": "\"He is my younger brother\" Fill in the blank with the equivalent word for 'younger brother'",
+    "correct": "tamma",
+    "options": [
+      "tamma",
+      "appa",
+      "mama",
+      "chikappa"
+    ]
+  },
+  {
+    "n": 197,
+    "lesson": "Lesson 6",
+    "q": "\" My elder sister is working in TCS\" Fill in the blank with the equivalent word for 'elder sister'",
+    "correct": "akka",
+    "options": [
+      "akka",
+      "amma",
+      "attige",
+      "ajji"
+    ]
+  },
+  {
+    "n": 198,
+    "lesson": "Lesson 6",
+    "q": "\"My grandmother is 83 years old\" Fill in the blank with the equivalent word for 'grandmother'",
+    "correct": "ajji",
+    "options": [
+      "ajji",
+      "amma",
+      "akka",
+      "sose"
+    ]
+  },
+  {
+    "n": 199,
+    "lesson": "Lesson 6",
+    "q": "\" My grandfather is retired teacher\" Fill in the blank with the equivalent word for 'grandfather'",
+    "correct": "Ajja",
+    "options": [
+      "Ajja",
+      "Appa",
+      "Mama",
+      "Anna"
+    ]
+  },
+  {
+    "n": 200,
+    "lesson": "Lesson 6",
+    "q": "\" I have ten new book\" Fill in the blank with the equivalent word for 'ten'",
+    "correct": "hattu",
+    "options": [
+      "hattu",
+      "ombattu",
+      "naaku",
+      "ondu"
+    ]
+  },
+  {
+    "n": 201,
+    "lesson": "Lesson 7",
+    "q": "Fill in the blank with suitable Colour Adjectives.  idu avana_____ baNNada byagu. (white)",
+    "correct": "biLi",
+    "options": [
+      "biLi",
+      "kempu",
+      "kappu",
+      "hasiru"
+    ]
+  },
+  {
+    "n": 202,
+    "lesson": "Lesson 7",
+    "q": "Fill in the blank with suitable Colour Adjectives.  kurchiya baNNa _____ . (green)",
+    "correct": "hasiru",
+    "options": [
+      "hasiru",
+      "biLi",
+      "haLadii",
+      "kapppu"
+    ]
+  },
+  {
+    "n": 203,
+    "lesson": "Lesson 7",
+    "q": "Fill in the blank with suitable Colour Adjectives. ______ baNNada pennu nimmada. ? (blue)",
+    "correct": "niili",
+    "options": [
+      "niili",
+      "biLi",
+      "kempu",
+      "gulaabi"
+    ]
+  },
+  {
+    "n": 204,
+    "lesson": "Lesson 7",
+    "q": "Fill in the blank with suitable Colour Adjectives. Aa _______ baNNada bussu nimmada ? (black)",
+    "correct": "kappu",
+    "options": [
+      "kappu",
+      "kempu",
+      "haLadii",
+      "hasiru"
+    ]
+  },
+  {
+    "n": 205,
+    "lesson": "Lesson 7",
+    "q": "Fill in the blank with suitable Colour Adjectives. Avana maneya goDege ______ baNNa baLididdaare. (yellow)",
+    "correct": "haLadi",
+    "options": [
+      "haLadi",
+      "hasiru",
+      "kittaLe",
+      "gulaabi"
+    ]
+  },
+  {
+    "n": 206,
+    "lesson": "Lesson 7",
+    "q": "The equivalent English word for 'saaku' is",
+    "correct": "enough",
+    "options": [
+      "enough",
+      "big",
+      "small",
+      "none of these"
+    ]
+  },
+  {
+    "n": 207,
+    "lesson": "Lesson 7",
+    "q": "The equivalent English word for 'taLme' is",
+    "correct": "Patience",
+    "options": [
+      "Patience",
+      "Happy",
+      "Sad",
+      "Worry"
+    ]
+  },
+  {
+    "n": 208,
+    "lesson": "Lesson 7",
+    "q": "The equivalent English word for 'beeku' is",
+    "correct": "Want",
+    "options": [
+      "Want",
+      "Give",
+      "Take",
+      "Spend"
+    ]
+  },
+  {
+    "n": 209,
+    "lesson": "Lesson 7",
+    "q": "The equivalent English word for 'biDu' is",
+    "correct": "Leave",
+    "options": [
+      "Leave",
+      "Take",
+      "Give",
+      "Ask"
+    ]
+  },
+  {
+    "n": 210,
+    "lesson": "Lesson 7",
+    "q": "The equivalent English word for 'bare' is",
+    "correct": "Write",
+    "options": [
+      "Write",
+      "Read",
+      "Speak",
+      "Talk"
+    ]
+  },
+  {
+    "n": 211,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'start' is ______.",
+    "correct": "horaDU",
+    "options": [
+      "horaDU",
+      "nillu",
+      "malagu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 212,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'walk' is ______.",
+    "correct": "naDe",
+    "options": [
+      "naDe",
+      "kuLituko",
+      "ooDu",
+      "malagi"
+    ]
+  },
+  {
+    "n": 213,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'know' is ______.",
+    "correct": "gottu",
+    "options": [
+      "gottu",
+      "gottilla",
+      "mare",
+      "tiLi"
+    ]
+  },
+  {
+    "n": 214,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'sky' is ______.",
+    "correct": "aakaasha",
+    "options": [
+      "aakaasha",
+      "niiru",
+      "bhuumi",
+      "none of these"
+    ]
+  },
+  {
+    "n": 215,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'land' is ______.",
+    "correct": "bhuumi",
+    "options": [
+      "bhuumi",
+      "bhaanu",
+      "niiru",
+      "maNNNu"
+    ]
+  },
+  {
+    "n": 216,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'officer' is ______.",
+    "correct": "adhikaari",
+    "options": [
+      "adhikaari",
+      "gumaasta",
+      "kaarkuuna",
+      "mestri"
+    ]
+  },
+  {
+    "n": 217,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'stop' is ______.",
+    "correct": "nillu",
+    "options": [
+      "nillu",
+      "nadDe",
+      "kuLituko",
+      "ooDu"
+    ]
+  },
+  {
+    "n": 218,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'drink' is ______.",
+    "correct": "kuDi",
+    "options": [
+      "kuDi",
+      "tinnu",
+      "nungu",
+      "jagiyuvudu"
+    ]
+  },
+  {
+    "n": 219,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'more' is ______.",
+    "correct": "bahaLa",
+    "options": [
+      "bahaLa",
+      "kaDime",
+      "chuuru",
+      "none of these"
+    ]
+  },
+  {
+    "n": 220,
+    "lesson": "Lesson 7",
+    "q": "The appropriate equivalent Kannada word for 'shop' is ______.",
+    "correct": "angaDi",
+    "options": [
+      "angaDi",
+      "nildaana",
+      "mane",
+      "koTTige"
+    ]
+  },
+  {
+    "n": 221,
+    "lesson": "Lesson 7",
+    "q": "\" You drink the coffee\" Correct translation of this sentence is",
+    "correct": "niinu coffee kuDi.",
+    "options": [
+      "niinu coffee kuDi.",
+      "coffee kuDibeDa",
+      "coffee kuDi",
+      "niinu kuDibeeDa"
+    ]
+  },
+  {
+    "n": 222,
+    "lesson": "Lesson 7",
+    "q": "\" What is colour of my bag?\" Correct translation of this sentence is",
+    "correct": "nanna byagina baNNa yaavudu ?",
+    "options": [
+      "nanna byagina baNNa yaavudu ?",
+      "nanna byaagu banna heegide",
+      "nanna banna byaagu yaavudu",
+      "nanna byaagu yaavudu"
+    ]
+  },
+  {
+    "n": 223,
+    "lesson": "Lesson 7",
+    "q": "\" This is orange colour book\" Correct translation of this sentence is",
+    "correct": "idu kittaLe bannada pustaka",
+    "options": [
+      "idu kittaLe bannada pustaka",
+      "idu pustaka kittale",
+      "pustaka kiTTaLe",
+      "kiTTaLe baNNa pustaka"
+    ]
+  },
+  {
+    "n": 224,
+    "lesson": "Lesson 7",
+    "q": "\" Is it white colour car?\" Correct translation of this sentence is",
+    "correct": "idu biLi baNNada kaara ?",
+    "options": [
+      "idu biLi baNNada kaara ?",
+      "kaaru baNNa biLiye",
+      "biLi banna kaara",
+      "kaaru banna yaavudu"
+    ]
+  },
+  {
+    "n": 225,
+    "lesson": "Lesson 7",
+    "q": "\" Mysore is small city\" Correct translation of this sentence is",
+    "correct": "Mysore tumba chikka paTTaNa",
+    "options": [
+      "Mysore tumba chikka paTTaNa",
+      "chikka paTTana uru",
+      "mysore paTTaNa chikka",
+      "paTTaNa mysore doDDadu"
+    ]
+  },
+  {
+    "n": 226,
+    "lesson": "Lesson 7",
+    "q": "\" Udupi is far away from Karkala\" Correct translation of this sentence is",
+    "correct": "uDupi kaarkaLadinda duura ide",
+    "options": [
+      "uDupi kaarkaLadinda duura ide",
+      "uDupi kaarkaLa dUUra",
+      "duura kaarkaLa uDupi",
+      "tumba kaarkaLa uDupi dUUra"
+    ]
+  },
+  {
+    "n": 227,
+    "lesson": "Lesson 7",
+    "q": "\" My college is situated in Nitte village\" Correct translation of this sentence is",
+    "correct": "nanna kaaleeju Nitte uurinallide.",
+    "options": [
+      "nanna kaaleeju Nitte uurinallide.",
+      "nanna  Nitte uurinallide.",
+      "Nitte uurinallide nanna kaaleeju",
+      "nanna uurinallide kaaleju"
+    ]
+  },
+  {
+    "n": 228,
+    "lesson": "Lesson 7",
+    "q": "\" My name is Krishna\" Correct translation of this sentence is",
+    "correct": "nanna hesaru Krishna",
+    "options": [
+      "nanna hesaru Krishna",
+      "nanna hesaru",
+      "hesaru Krishna",
+      "nanna Krishna hesaru"
+    ]
+  },
+  {
+    "n": 229,
+    "lesson": "Lesson 7",
+    "q": "\" Why are you angry?\" Correct translation of this sentence is",
+    "correct": "niinu yaake kopa maaDi konDiruve ?",
+    "options": [
+      "niinu yaake kopa maaDi konDiruve ?",
+      "kopa yaake",
+      "niinu yaake siTTu maaDiruve",
+      "koopa yake ninage"
+    ]
+  },
+  {
+    "n": 230,
+    "lesson": "Lesson 7",
+    "q": "\" Today is my birthday\" Correct translation of this sentence is",
+    "correct": "ivattu nanna huTTu habba",
+    "options": [
+      "ivattu nanna huTTu habba",
+      "ivattu  huTTu habba",
+      "nanna huTTu habba",
+      "huTTu habba nandu ivattu"
+    ]
+  },
+  {
+    "n": 231,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. NaaLe ______ uurige hogoNvaa ? (WE)",
+    "correct": "naavu",
+    "options": [
+      "naavu",
+      "niivu",
+      "taavu",
+      "avaru"
+    ]
+  },
+  {
+    "n": 232,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. ninna ______ enu  ? (name)",
+    "correct": "hesaru",
+    "options": [
+      "hesaru",
+      "uuru",
+      "tamma",
+      "haLLi"
+    ]
+  },
+  {
+    "n": 233,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nimage kaafii ______ ?.(don't)",
+    "correct": "bEDave",
+    "options": [
+      "bEDave",
+      "bEke",
+      "kuDiyiri",
+      "sEvisi"
+    ]
+  },
+  {
+    "n": 234,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ benglurige hoguve .(tomorrow)",
+    "correct": "nALe",
+    "options": [
+      "nALe",
+      "ninne",
+      "ivattu",
+      "monne"
+    ]
+  },
+  {
+    "n": 235,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. namma kaalejina raste ________ ? (which)",
+    "correct": "yAvudu",
+    "options": [
+      "yAvudu",
+      "yaaru",
+      "elli",
+      "hEge"
+    ]
+  },
+  {
+    "n": 236,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige ii viShayavannu niivu kuddagi ______ (inform)",
+    "correct": "tiLisi",
+    "options": [
+      "tiLisi",
+      "heLisi",
+      "talupisi",
+      "nenpisi"
+    ]
+  },
+  {
+    "n": 237,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. ________ Raamuge heLuttiraa ? (you)",
+    "correct": "niivu",
+    "options": [
+      "niivu",
+      "avaru",
+      "ivaru",
+      "tamma"
+    ]
+  },
+  {
+    "n": 238,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'stand up' is",
+    "correct": "nillu",
+    "options": [
+      "nillu",
+      "kuLituko",
+      "ODu",
+      "baa"
+    ]
+  },
+  {
+    "n": 239,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'come fast' is",
+    "correct": "bega baa",
+    "options": [
+      "bega baa",
+      "nidaanavaagi baa",
+      "mella baa",
+      "tirugi baa"
+    ]
+  },
+  {
+    "n": 240,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'please you go to bangalore.' is",
+    "correct": "niinu dayavittu bengaLurige hOgu.",
+    "options": [
+      "niinu dayavittu bengaLurige hOgu.",
+      "niinu bengaLurige baa",
+      "bengLUrinind baa dayamaadi",
+      "none of these"
+    ]
+  },
+  {
+    "n": 241,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'Will you come to college today ?' is",
+    "correct": "ivttu niinu kaalejige bruttiya ?",
+    "options": [
+      "ivttu niinu kaalejige bruttiya ?",
+      "ninna kaalejige barutti ?",
+      "baruttiya niinu ninna kaaleju ?",
+      "kaaleju niiinu baruttade"
+    ]
+  },
+  {
+    "n": 242,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'get out' is",
+    "correct": "eddu  hOgu",
+    "options": [
+      "eddu  hOgu",
+      "olge baa",
+      "edddu kuLituko",
+      "nadDedu baa"
+    ]
+  },
+  {
+    "n": 243,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'when you come ?' is",
+    "correct": "yavaaga bandiri",
+    "options": [
+      "yavaaga bandiri",
+      "elli bandiri",
+      "hege bandiri",
+      "ellinda bandiri"
+    ]
+  },
+  {
+    "n": 244,
+    "lesson": "Lesson 8",
+    "q": "Kannada translation of 'shall I go ?' is",
+    "correct": "naanu hogala",
+    "options": [
+      "naanu hogala",
+      "avanu hogala",
+      "avalu hoguvaLu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 245,
+    "lesson": "Lesson 8",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. Niinu ________ (come)",
+    "correct": "baa",
+    "options": [
+      "baa",
+      "hogu",
+      "malagu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 246,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: tinni : _________",
+    "correct": "tinniri",
+    "options": [
+      "tinniri",
+      "tinnoNa",
+      "tinnu",
+      "uNNu"
+    ]
+  },
+  {
+    "n": 247,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: hogu : _________",
+    "correct": "hogiri",
+    "options": [
+      "hogiri",
+      "hoguv",
+      "hoogisu",
+      "hoogli"
+    ]
+  },
+  {
+    "n": 248,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: baa : _________",
+    "correct": "banniri",
+    "options": [
+      "banniri",
+      "banni",
+      "barali",
+      "none of these"
+    ]
+  },
+  {
+    "n": 249,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: ese : _________",
+    "correct": "eseyiri",
+    "options": [
+      "eseyiri",
+      "bisaaku",
+      "bisaaDu",
+      "biisu"
+    ]
+  },
+  {
+    "n": 250,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: haaku : _________",
+    "correct": "haakiri",
+    "options": [
+      "haakiri",
+      "haakikoLLi",
+      "haakisi",
+      "haakuva"
+    ]
+  },
+  {
+    "n": 251,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: nuDi : _________",
+    "correct": "nuDiyiri",
+    "options": [
+      "nuDiyiri",
+      "nudisi",
+      "heLisi",
+      "haaDisi"
+    ]
+  },
+  {
+    "n": 252,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: koLLu : _________",
+    "correct": "koLLiri",
+    "options": [
+      "koLLiri",
+      "konDukoLLi",
+      "koDisi",
+      "koDu"
+    ]
+  },
+  {
+    "n": 253,
+    "lesson": "Lesson 8",
+    "q": "If kuDi : kuDiyiri :: noDu : _________",
+    "correct": "noDiri",
+    "options": [
+      "noDiri",
+      "noDONa",
+      "noDikoLLi",
+      "none of these"
+    ]
+  },
+  {
+    "n": 254,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: tinnu : _________",
+    "correct": "tinnoNaa",
+    "options": [
+      "tinnoNaa",
+      "tinnisi",
+      "tinnisu",
+      "tinnali"
+    ]
+  },
+  {
+    "n": 255,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: maDu : _________",
+    "correct": "madoNaa",
+    "options": [
+      "madoNaa",
+      "maaDuva",
+      "maaDisu",
+      "maaDikoLLU"
+    ]
+  },
+  {
+    "n": 256,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: koDu : ____________",
+    "correct": "koDoNaa",
+    "options": [
+      "koDoNaa",
+      "koDabeDa",
+      "koDadiru",
+      "koDabeeDa"
+    ]
+  },
+  {
+    "n": 257,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: baa : ____________",
+    "correct": "baroNaa",
+    "options": [
+      "baroNaa",
+      "banni",
+      "barali",
+      "baruvantaagli"
+    ]
+  },
+  {
+    "n": 258,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: odu : _________",
+    "correct": "odoNaa",
+    "options": [
+      "odoNaa",
+      "oodali",
+      "oodisi",
+      "oodikoLLi"
+    ]
+  },
+  {
+    "n": 259,
+    "lesson": "Lesson 8",
+    "q": "If hogu : hogoNaa :: bare : _________",
+    "correct": "bareyoNaa",
+    "options": [
+      "bareyoNaa",
+      "baredukoLLooNa",
+      "bareyali",
+      "baresiri"
+    ]
+  },
+  {
+    "n": 260,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu_______ ( may come)",
+    "correct": "barabahudu",
+    "options": [
+      "barabahudu",
+      "baa",
+      "banniri",
+      "hoogiri"
+    ]
+  },
+  {
+    "n": 261,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe ______ uurige hogoNavaa ? (I and you)",
+    "correct": "naanu niinu",
+    "options": [
+      "naanu niinu",
+      "avanu ivanu",
+      "avaru ivaru",
+      "adu idu"
+    ]
+  },
+  {
+    "n": 262,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nimma kaalejinaa ______ enu ? (name)",
+    "correct": "hesaru",
+    "options": [
+      "hesaru",
+      "daari",
+      "uuru",
+      "haLLi"
+    ]
+  },
+  {
+    "n": 263,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage tea _____ (don't)",
+    "correct": "beDa",
+    "options": [
+      "beDa",
+      "beku",
+      "bekittu",
+      "bekaagittfu"
+    ]
+  },
+  {
+    "n": 264,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu ____ Hasanake hoguve. (tommorrow)",
+    "correct": "naaLe",
+    "options": [
+      "naaLe",
+      "ninne",
+      "monne",
+      "andu"
+    ]
+  },
+  {
+    "n": 265,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. namma kaalejina raste _______ (Which)",
+    "correct": "yaavudu",
+    "options": [
+      "yaavudu",
+      "elli",
+      "ellinda",
+      "illiye"
+    ]
+  },
+  {
+    "n": 266,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige ii viSayavannu nivu ________ ( inform)",
+    "correct": "tiLisi",
+    "options": [
+      "tiLisi",
+      "heLiri",
+      "kaLisiri",
+      "none of these"
+    ]
+  },
+  {
+    "n": 267,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. GaNesha mattu Raamuge ______ heLuttiraa ? (you)",
+    "correct": "nivu",
+    "options": [
+      "nivu",
+      "naanu",
+      "avanu",
+      "avaLu"
+    ]
+  },
+  {
+    "n": 268,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. angaDige niinu bega hogi _______ (come)",
+    "correct": "baa",
+    "options": [
+      "baa",
+      "banniri",
+      "kuLituko",
+      "hogu"
+    ]
+  },
+  {
+    "n": 269,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ kaayuttiruttene ( for you)",
+    "correct": "ninagaagi",
+    "options": [
+      "ninagaagi",
+      "ninninda",
+      "ninnalli",
+      "nanagaagi"
+    ]
+  },
+  {
+    "n": 270,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. beDa amele _____ (go)",
+    "correct": "hogu",
+    "options": [
+      "hogu",
+      "baaa",
+      "nillu",
+      "oDu"
+    ]
+  },
+  {
+    "n": 271,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. saar niivu _______ maaDi (lesson)",
+    "correct": "paaTa",
+    "options": [
+      "paaTa",
+      "aata",
+      "uuTa",
+      "noTa"
+    ]
+  },
+  {
+    "n": 272,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. saar nanage gaNit pustaka ______ (want)",
+    "correct": "beku",
+    "options": [
+      "beku",
+      "beDa",
+      "tanni",
+      "koDi"
+    ]
+  },
+  {
+    "n": 273,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. iiga _____ maaDali (what)",
+    "correct": "eenu",
+    "options": [
+      "eenu",
+      "yaake",
+      "elli",
+      "hege"
+    ]
+  },
+  {
+    "n": 274,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. indu niinu vijnaan pustakvannu _______ . (read)",
+    "correct": "odu",
+    "options": [
+      "odu",
+      "odisu",
+      "bareyali",
+      "tiLiyali"
+    ]
+  },
+  {
+    "n": 275,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe _____ .( don't come )",
+    "correct": "barabeDa",
+    "options": [
+      "barabeDa",
+      "baa",
+      "hogu",
+      "nilli"
+    ]
+  },
+  {
+    "n": 276,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe uurige ____ . (don't go)",
+    "correct": "hogabeDa",
+    "options": [
+      "hogabeDa",
+      "hogu",
+      "banniri",
+      "baa"
+    ]
+  },
+  {
+    "n": 277,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu nanna hesarannu ______ . (write)",
+    "correct": "bare",
+    "options": [
+      "bare",
+      "odu",
+      "noDu",
+      "tiLi"
+    ]
+  },
+  {
+    "n": 278,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige pustaka ________ .( don't give )",
+    "correct": "koDabeDa",
+    "options": [
+      "koDabeDa",
+      "koDu",
+      "koDisu",
+      "koDamaaDu"
+    ]
+  },
+  {
+    "n": 279,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu sihi tinDi ________ (don't eat)",
+    "correct": "tinnabeDa",
+    "options": [
+      "tinnabeDa",
+      "tinnu",
+      "tinnisu",
+      "tinduko"
+    ]
+  },
+  {
+    "n": 280,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe manege ______ . (May come)",
+    "correct": "barabahuda",
+    "options": [
+      "barabahuda",
+      "banni",
+      "banniri",
+      "baaradiri"
+    ]
+  },
+  {
+    "n": 281,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. eSTu _____ ninna hattira ide .? (money)",
+    "correct": "haNa",
+    "options": [
+      "haNa",
+      "cillare",
+      "batte",
+      "none of these"
+    ]
+  },
+  {
+    "n": 282,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage ninna pustakavannu ______ (give)",
+    "correct": "koDu",
+    "options": [
+      "koDu",
+      "keLu",
+      "taa",
+      "torisu"
+    ]
+  },
+  {
+    "n": 283,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ hoguttene ( library)",
+    "correct": "granthaalaya",
+    "options": [
+      "granthaalaya",
+      "mange",
+      "shaalege",
+      "uurige"
+    ]
+  },
+  {
+    "n": 284,
+    "lesson": "Lesson 9",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage iigale _____ aagide .( hungry)",
+    "correct": "hasivu",
+    "options": [
+      "hasivu",
+      "baayarike",
+      "daaha",
+      "aasaru"
+    ]
+  },
+  {
+    "n": 285,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"tomorrow is holiday.\" in Kannada is",
+    "correct": "naLe raje",
+    "options": [
+      "naLe raje",
+      "ninne raje",
+      "monne raje",
+      "none of these"
+    ]
+  },
+  {
+    "n": 286,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"I am in college .\" in Kannada is",
+    "correct": "naanu kaalejinalli iddene",
+    "options": [
+      "naanu kaalejinalli iddene",
+      "naanu kalejige baruve",
+      "iddene naanu kaleju",
+      "kaalejinalli niinu iddene"
+    ]
+  },
+  {
+    "n": 287,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"where are you.\" in Kannada is",
+    "correct": "niinu elli iddiya ?",
+    "options": [
+      "niinu elli iddiya ?",
+      "yaaru niinu ?",
+      "niinu yaake bande ?",
+      "ninna uurelli. ?"
+    ]
+  },
+  {
+    "n": 288,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"when you'r father will come ?\" in Kannada is",
+    "correct": "nimma appa yaavaaga baruttare ?",
+    "options": [
+      "nimma appa yaavaaga baruttare ?",
+      "ninna appa yaaru",
+      "niinu yaaru",
+      "appa elliddare"
+    ]
+  },
+  {
+    "n": 289,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"will you come to our home ?\" in Kannada is",
+    "correct": "niinu namma manege bruttiya ?",
+    "options": [
+      "niinu namma manege bruttiya ?",
+      "ninnu manege namma hogutti ?",
+      "niinu manege iruttiya",
+      "niinu maneyinda hoguttiya ?"
+    ]
+  },
+  {
+    "n": 290,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"be in home.\" in Kannada is",
+    "correct": "maneyalliye iru.",
+    "options": [
+      "maneyalliye iru.",
+      "maneyalli irabeDa",
+      "manege hogu",
+      "manege banniri"
+    ]
+  },
+  {
+    "n": 291,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"holiday is given to  college .'' in Kannada is",
+    "correct": "kaalejige raje koTTiddare.",
+    "options": [
+      "kaalejige raje koTTiddare.",
+      "kaalejige rajeye",
+      "raje kaaleju",
+      "kaalejige barabeke ?"
+    ]
+  },
+  {
+    "n": 292,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"where is vegetable shop ?\" in Kannada is",
+    "correct": "tarakari angaDi ellide ?",
+    "options": [
+      "tarakari angaDi ellide ?",
+      "tarakari ellide ?",
+      "tarakari yavudu ?",
+      "yava tarakari beku ?"
+    ]
+  },
+  {
+    "n": 293,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"where is he  ?\" in Kannada is",
+    "correct": "avanu elliddane /",
+    "options": [
+      "avanu elliddane /",
+      "avanu yaaru ?",
+      "avanu bandane ?",
+      "avanige bar heLi"
+    ]
+  },
+  {
+    "n": 294,
+    "lesson": "Lesson 10",
+    "q": "English sentence \"I will go to movie theatre with my brother\" in Kannada is",
+    "correct": "naanu nanna aNNan jote sinimaakke hoguttene.",
+    "options": [
+      "naanu nanna aNNan jote sinimaakke hoguttene.",
+      "naanu obbane sinimakke hoguttene.",
+      "nani sinema nodide",
+      "naanu sinemaa noDuvudilla"
+    ]
+  },
+  {
+    "n": 295,
+    "lesson": "Lesson 10",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nammurige niinu _____ (new)",
+    "correct": "hosaba",
+    "options": [
+      "hosaba",
+      "haLaba",
+      "aprarupada",
+      "none of these"
+    ]
+  },
+  {
+    "n": 296,
+    "lesson": "Lesson 10",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. indu naaanu kaalejige ______(go)",
+    "correct": "hoguttene",
+    "options": [
+      "hoguttene",
+      "hogalla",
+      "hogiru",
+      "hogabeDa"
+    ]
+  },
+  {
+    "n": 297,
+    "lesson": "Lesson 10",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage iiga ____ beDa .( meals)",
+    "correct": "uuTa",
+    "options": [
+      "uuTa",
+      "tinDi",
+      "tinisu",
+      "chaa"
+    ]
+  },
+  {
+    "n": 298,
+    "lesson": "Lesson 10",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nannannu _____ (leave)",
+    "correct": "biDu",
+    "options": [
+      "biDu",
+      "hiDi",
+      "kare",
+      "kaLisu"
+    ]
+  },
+  {
+    "n": 299,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then mane + inda = _______",
+    "correct": "maneyinda",
+    "options": [
+      "maneyinda",
+      "manege",
+      "maneyalli",
+      "maneya"
+    ]
+  },
+  {
+    "n": 300,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then canTeen + inda = _______",
+    "correct": "canTeeninda",
+    "options": [
+      "canTeeninda",
+      "canteenina",
+      "canTeenige",
+      "canTeenigagi"
+    ]
+  },
+  {
+    "n": 301,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then haasana+ inda = _______",
+    "correct": "haasanadinda",
+    "options": [
+      "haasanadinda",
+      "hasanakke",
+      "hasaanad",
+      "hasanakke"
+    ]
+  },
+  {
+    "n": 302,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then pustaka + inda = _______",
+    "correct": "pustakadinda",
+    "options": [
+      "pustakadinda",
+      "pustakakke",
+      "pustakada",
+      "pustakadalli"
+    ]
+  },
+  {
+    "n": 303,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then pensil + inda = _______",
+    "correct": "pensillininda",
+    "options": [
+      "pensillininda",
+      "pensilligaagi",
+      "pensillu",
+      "pennupensil"
+    ]
+  },
+  {
+    "n": 304,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then kannaDa + inda = _______",
+    "correct": "kannaDadinda",
+    "options": [
+      "kannaDadinda",
+      "kannaDakke",
+      "kannaDada",
+      "kannaDadalli"
+    ]
+  },
+  {
+    "n": 305,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then mobile + inda = _______",
+    "correct": "mobilininda",
+    "options": [
+      "mobilininda",
+      "mobilige",
+      "mobilu",
+      "mobilinalli"
+    ]
+  },
+  {
+    "n": 306,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then bassu + inda = _______",
+    "correct": "bassininda",
+    "options": [
+      "bassininda",
+      "bassinalli",
+      "bassigaagi",
+      "bassanneri"
+    ]
+  },
+  {
+    "n": 307,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then kaar + inda = _______",
+    "correct": "kaarininda",
+    "options": [
+      "kaarininda",
+      "kaarinalli",
+      "kaarige",
+      "kaarigaagi"
+    ]
+  },
+  {
+    "n": 308,
+    "lesson": "Lesson 11",
+    "q": "If kaaleju + inda = kaalejininda then avana + inda = _______",
+    "correct": "avaninda",
+    "options": [
+      "avaninda",
+      "avaLige",
+      "avarige",
+      "avaralli"
+    ]
+  },
+  {
+    "n": 309,
+    "lesson": "Lesson 11",
+    "q": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage sakkare ______saaku. (less)",
+    "correct": "kaDime",
+    "options": [
+      "kaDime",
+      "heccu",
+      "jaasti",
+      "none of these"
+    ]
+  },
+  {
+    "n": 310,
+    "lesson": "Lesson 17",
+    "q": "Use of local language______.",
+    "correct": "All of these",
+    "options": [
+      "All of these",
+      "Makes life easier",
+      "Ensures security",
+      "Enables mingling with locals"
+    ]
+  },
+  {
+    "n": 311,
+    "lesson": "Lesson 17",
+    "q": "______ improves with the use of language.",
+    "correct": "Vocabulary",
+    "options": [
+      "Vocabulary",
+      "Alphabet",
+      "listening skills",
+      "None"
+    ]
+  },
+  {
+    "n": 312,
+    "lesson": "Lesson 17",
+    "q": "______ is the official language of Karnataka state.",
+    "correct": "Kannada",
+    "options": [
+      "Kannada",
+      "Hindi",
+      "Tulu",
+      "Marathi"
+    ]
+  },
+  {
+    "n": 313,
+    "lesson": "Lesson 17",
+    "q": "______ compiled the first Kannada- English dictionary .",
+    "correct": "Ferdinand Kittel",
+    "options": [
+      "Ferdinand Kittel",
+      "Ferdinand Magellan",
+      "Kuvempu",
+      "S. Nijalingappa"
+    ]
+  },
+  {
+    "n": 314,
+    "lesson": "Lesson 17",
+    "q": "Name of Karnataka state before 1973 was______",
+    "correct": "Mysore",
+    "options": [
+      "Mysore",
+      "Calcutta",
+      "Madras",
+      "Bangalore"
+    ]
+  },
+  {
+    "n": 315,
+    "lesson": "Lesson 17",
+    "q": "Letters in Kannada Language are called _________.",
+    "correct": "Aksharagalu",
+    "options": [
+      "Aksharagalu",
+      "Padagalu",
+      "Vaakyagalu",
+      "Sankhyegalu"
+    ]
+  },
+  {
+    "n": 316,
+    "lesson": "Lesson 17",
+    "q": "Number of Letters (Akshara) in Kannada Language is _________.",
+    "correct": "49",
+    "options": [
+      "49",
+      "32",
+      "44",
+      "21"
+    ]
+  },
+  {
+    "n": 317,
+    "lesson": "Lesson 17",
+    "q": "Vowels are called _________in Kannada Language.",
+    "correct": "Swaragalu",
+    "options": [
+      "Swaragalu",
+      "Vyanjanagalu",
+      "Yogavahagalu",
+      "Aksharagalu"
+    ]
+  },
+  {
+    "n": 318,
+    "lesson": "Lesson 17",
+    "q": "Consonants are called_________ in Kannada Language.",
+    "correct": "Vyanjanagalu",
+    "options": [
+      "Vyanjanagalu",
+      "Yogavahagalu",
+      "Aksharagalu",
+      "None of these"
+    ]
+  },
+  {
+    "n": 319,
+    "lesson": "Lesson 17",
+    "q": "Semi-Consonants or Part Vowel, Part Consonants are called_________.",
+    "correct": "Yogavahagalu",
+    "options": [
+      "Yogavahagalu",
+      "Vyanjanagalu",
+      "Swaragalu",
+      "None of these"
+    ]
+  },
+  {
+    "n": 320,
+    "lesson": "Lesson 17",
+    "q": "Yogavaha means _________.",
+    "correct": "moving along with",
+    "options": [
+      "moving along with",
+      "Spinning",
+      "Twirling",
+      "None of these"
+    ]
+  },
+  {
+    "n": 321,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'Time' is ______",
+    "correct": "samaya",
+    "options": [
+      "samaya",
+      "ninne",
+      "ivattu",
+      "naale"
+    ]
+  },
+  {
+    "n": 322,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'Medicine' is ______",
+    "correct": "auShada",
+    "options": [
+      "auShada",
+      "cikitse",
+      "vaidya",
+      "daadi"
+    ]
+  },
+  {
+    "n": 323,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'ginger' is ______",
+    "correct": "beLLuLLi",
+    "options": [
+      "beLLuLLi",
+      "iruLLi",
+      "geDDe",
+      "geNasu"
+    ]
+  },
+  {
+    "n": 324,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'onion' is ______",
+    "correct": "niiruLLi",
+    "options": [
+      "niiruLLi",
+      "beLLuLLi",
+      "suvarna geDDe",
+      "muLLu soute"
+    ]
+  },
+  {
+    "n": 325,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'green chilly' is ______",
+    "correct": "meNasinakaayi",
+    "options": [
+      "meNasinakaayi",
+      "kempu meNasu",
+      "jeerige meNasu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 326,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'health is ______",
+    "correct": "aarogya",
+    "options": [
+      "aarogya",
+      "anarogya",
+      "vaidya",
+      "daadi"
+    ]
+  },
+  {
+    "n": 327,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'fruits' is ______",
+    "correct": "haNNu",
+    "options": [
+      "haNNu",
+      "tarakari",
+      "biija",
+      "ciguru"
+    ]
+  },
+  {
+    "n": 328,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'train' is ______",
+    "correct": "railu",
+    "options": [
+      "railu",
+      "bassu",
+      "skutar",
+      "banDi"
+    ]
+  },
+  {
+    "n": 329,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'holiday' is ______",
+    "correct": "raje",
+    "options": [
+      "raje",
+      "kelas",
+      "uddime",
+      "basavaLike"
+    ]
+  },
+  {
+    "n": 330,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'station' is ______",
+    "correct": "nildaaNa",
+    "options": [
+      "nildaaNa",
+      "devastana",
+      "mane",
+      "goDE"
+    ]
+  },
+  {
+    "n": 331,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'fee' is ______",
+    "correct": "Sulka",
+    "options": [
+      "Sulka",
+      "Sifarassu",
+      "ucita",
+      "ThevaNe"
+    ]
+  },
+  {
+    "n": 332,
+    "lesson": "Lesson 11",
+    "q": "Kannada word for 'song' is ______",
+    "correct": "haaDu",
+    "options": [
+      "haaDu",
+      "haaDisu",
+      "haaDina",
+      "haadiga"
+    ]
+  },
+  {
+    "n": 333,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. avanu kaalejige naale ______ ganTege barutthane (samaya bareyiri)",
+    "correct": "enTu",
+    "options": [
+      "enTu",
+      "eStu",
+      "yavaaga",
+      "elli"
+    ]
+  },
+  {
+    "n": 334,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. indu niivellaru oTTagi asignmenTTannu ______ (sallisu)",
+    "correct": "sallisi",
+    "options": [
+      "sallisi",
+      "koDi",
+      "tanni",
+      "niiDi"
+    ]
+  },
+  {
+    "n": 335,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. prinsipalaru kaaryakramakke ______ (baru)",
+    "correct": "baruttare",
+    "options": [
+      "baruttare",
+      "baruvaru",
+      "bandiddare",
+      "banni"
+    ]
+  },
+  {
+    "n": 336,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. avanige tumba cennagi haaDunnu _____ baruttade. (haaDu)",
+    "correct": "haaDalu",
+    "options": [
+      "haaDalu",
+      "haaDisalu",
+      "keLalu",
+      "heLalu"
+    ]
+  },
+  {
+    "n": 337,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. suuryanu paschima dikkinalli ____ (muLu)",
+    "correct": "muLugida",
+    "options": [
+      "muLugida",
+      "nintha",
+      "aDagida",
+      "muuDida"
+    ]
+  },
+  {
+    "n": 338,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. avanu crickeTannu _______ (aaDu)",
+    "correct": "aaDuttane",
+    "options": [
+      "aaDuttane",
+      "noDuttane",
+      "aaDida",
+      "aaDuttidda"
+    ]
+  },
+  {
+    "n": 339,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. nanage iijalu _______ (baru)",
+    "correct": "baruttade",
+    "options": [
+      "baruttade",
+      "bandide",
+      "bande",
+      "baradu"
+    ]
+  },
+  {
+    "n": 340,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. iiga namage taragati _____ ( praramba)",
+    "correct": "praarambavaguttade",
+    "options": [
+      "praarambavaguttade",
+      "prarambavagide",
+      "prarambavagli",
+      "none of these"
+    ]
+  },
+  {
+    "n": 341,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. namma tande holadalli kelas _______ (maaDu)",
+    "correct": "maaDuttiddare",
+    "options": [
+      "maaDuttiddare",
+      "maaDiddaare",
+      "maaDu",
+      "maaDikoLLU"
+    ]
+  },
+  {
+    "n": 342,
+    "lesson": "Lesson 12",
+    "q": "Fill in the blank by using the appropriate verb form given in the bracket. naanu naaLe mangalurige ________ (hogu)",
+    "correct": "hoguttene",
+    "options": [
+      "hoguttene",
+      "hoguvenu",
+      "hogali",
+      "baarali"
+    ]
+  },
+  {
+    "n": 343,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'hoguttane'",
+    "correct": "hoguvudilla",
+    "options": [
+      "hoguvudilla",
+      "hogalaara",
+      "hoguvanu",
+      "hogalaagadu"
+    ]
+  },
+  {
+    "n": 344,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'bandide'",
+    "correct": "bandilla",
+    "options": [
+      "bandilla",
+      "baruvudu",
+      "barabahudu",
+      "baralagadu"
+    ]
+  },
+  {
+    "n": 345,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'ide'",
+    "correct": "illa",
+    "options": [
+      "illa",
+      "iru",
+      "iralara",
+      "iradu"
+    ]
+  },
+  {
+    "n": 346,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'ittu'",
+    "correct": "iralilla",
+    "options": [
+      "iralilla",
+      "iradu",
+      "iralaaradu",
+      "irabeku"
+    ]
+  },
+  {
+    "n": 347,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word ' kuDidanu'",
+    "correct": "kuDiyalilla",
+    "options": [
+      "kuDiyalilla",
+      "kuDisida",
+      "keLida",
+      "none of these"
+    ]
+  },
+  {
+    "n": 348,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'aayitu'",
+    "correct": "aagalilla",
+    "options": [
+      "aagalilla",
+      "aagide",
+      "aaguvudu",
+      "aagadagadu"
+    ]
+  },
+  {
+    "n": 349,
+    "lesson": "Lesson 13",
+    "q": "Select the correct negative form of the word 'noDutthane'",
+    "correct": "noDuvudilla",
+    "options": [
+      "noDuvudilla",
+      "nodida",
+      "noDalaagalilla",
+      "noDalaagdu"
+    ]
+  },
+  {
+    "n": 350,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'assignment' is ______",
+    "correct": "niyoojane",
+    "options": [
+      "niyoojane",
+      "ayoojane",
+      "anukaraNe",
+      "none of these"
+    ]
+  },
+  {
+    "n": 351,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'submit'  is ______",
+    "correct": "sallisu",
+    "options": [
+      "sallisu",
+      "sallisida",
+      "sallisadiru",
+      "sallisabeDa"
+    ]
+  },
+  {
+    "n": 352,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'chemistry' is ______",
+    "correct": "rasayaanaShastra",
+    "options": [
+      "rasayaanaShastra",
+      "rasavidye",
+      "rasa jnana",
+      "vignaana"
+    ]
+  },
+  {
+    "n": 353,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'banana' is ______",
+    "correct": "baLehaNNu",
+    "options": [
+      "baLehaNNu",
+      "kadaLi",
+      "nendra",
+      "gaaLi"
+    ]
+  },
+  {
+    "n": 354,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'film' is ______",
+    "correct": "sinimaa",
+    "options": [
+      "sinimaa",
+      "dharavaahi",
+      "kirucitra",
+      "none of these"
+    ]
+  },
+  {
+    "n": 355,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'strike' is ______",
+    "correct": "band",
+    "options": [
+      "band",
+      "hiDi",
+      "nillu",
+      "hogu"
+    ]
+  },
+  {
+    "n": 356,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'mango' is ______",
+    "correct": "maavu",
+    "options": [
+      "maavu",
+      "halasu",
+      "alasanDe",
+      "hagalakayee"
+    ]
+  },
+  {
+    "n": 357,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'physics' is ______",
+    "correct": "bhouthaShastra",
+    "options": [
+      "bhouthaShastra",
+      "bhugooLa",
+      "jiivaShastra",
+      "jivagnana"
+    ]
+  },
+  {
+    "n": 358,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'history' is ______",
+    "correct": "itihaasa",
+    "options": [
+      "itihaasa",
+      "samaaja Shastra",
+      "bhugooLa",
+      "rajakiya Sastra"
+    ]
+  },
+  {
+    "n": 359,
+    "lesson": "Lesson 13",
+    "q": "Kannada word for 'economics' is ______",
+    "correct": "artha Shstra",
+    "options": [
+      "artha Shstra",
+      "samaaja Shastra",
+      "bhugooLa",
+      "rajakiya Sastra"
+    ]
+  },
+  {
+    "n": 360,
+    "lesson": "Lesson 13",
+    "q": "Verb is known as___________ in Kannada language.",
+    "correct": "Kriya Pada",
+    "options": [
+      "Kriya Pada",
+      "Naamapada",
+      "Pada Vishesha",
+      "Upasarga"
+    ]
+  },
+  {
+    "n": 361,
+    "lesson": "Lesson 13",
+    "q": "The sentence “Avalu oduttale”, means “She is reading” . The word 'Oduttale' is _________.",
+    "correct": "Verb",
+    "options": [
+      "Verb",
+      "Pronoun",
+      "Adjective",
+      "None of these"
+    ]
+  },
+  {
+    "n": 362,
+    "lesson": "Lesson 13",
+    "q": "The sentence “neenu yenu maaDiruve?”, means “what did you do?” . The word 'maaDiruve' is _________",
+    "correct": "Verb",
+    "options": [
+      "Verb",
+      "Pronoun",
+      "Adjective",
+      "None of these"
+    ]
+  },
+  {
+    "n": 363,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'tinnu' is _______",
+    "correct": "tinde",
+    "options": [
+      "tinde",
+      "tiinisi",
+      "tinnu",
+      "tinnanu"
+    ]
+  },
+  {
+    "n": 364,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'baa' is _____",
+    "correct": "bande",
+    "options": [
+      "bande",
+      "banni",
+      "baa",
+      "hogu"
+    ]
+  },
+  {
+    "n": 365,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'taa' is ___________",
+    "correct": "tande",
+    "options": [
+      "tande",
+      "taru",
+      "tago",
+      "tegeduko"
+    ]
+  },
+  {
+    "n": 366,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'kare' is ___________",
+    "correct": "karede",
+    "options": [
+      "karede",
+      "kareyiri",
+      "kaaNiri",
+      "kanasu"
+    ]
+  },
+  {
+    "n": 367,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'gellu' is ________",
+    "correct": "gedde",
+    "options": [
+      "gedde",
+      "gellisu",
+      "giddiri",
+      "gedduko"
+    ]
+  },
+  {
+    "n": 368,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'beeLu' is ___________",
+    "correct": "bidde",
+    "options": [
+      "bidde",
+      "biiLisu",
+      "biiLadiru",
+      "bidduko"
+    ]
+  },
+  {
+    "n": 369,
+    "lesson": "Lesson 13",
+    "q": "If 'bare' is 'barede' , 'beLe' is _______",
+    "correct": "beLede",
+    "options": [
+      "beLede",
+      "beLeyabeDa",
+      "beLeduko",
+      "bEeLesiri"
+    ]
+  },
+  {
+    "n": 370,
+    "lesson": "Lesson 13",
+    "q": "If 'kali' is 'kalite' , 'mare' is _______",
+    "correct": "marete",
+    "options": [
+      "marete",
+      "maretu",
+      "marevu",
+      "mareya"
+    ]
+  },
+  {
+    "n": 371,
+    "lesson": "Lesson 13",
+    "q": "If 'kali' is 'kalite' , 'kiiLu' is ____",
+    "correct": "kitte",
+    "options": [
+      "kitte",
+      "kiilalagade",
+      "kiiLalare",
+      "kiiLisu"
+    ]
+  },
+  {
+    "n": 372,
+    "lesson": "Lesson 13",
+    "q": "If 'kali' is 'kalite' , 'soolu' is __________",
+    "correct": "soote",
+    "options": [
+      "soote",
+      "soolisu",
+      "solisa beDa",
+      "sootu hoogu"
+    ]
+  },
+  {
+    "n": 373,
+    "lesson": "Lesson 13",
+    "q": "if ' sundara + aagi = sundaravaagi, ' doDDadu + aagi ='",
+    "correct": "doDDadaagi",
+    "options": [
+      "doDDadaagi",
+      "doDDadu",
+      "doDDadaad",
+      "none of these"
+    ]
+  },
+  {
+    "n": 374,
+    "lesson": "Lesson 13",
+    "q": "if ' sundara + aagi = sundaravaagi,  'cikkadu + aagi ='",
+    "correct": "chikkadaagi",
+    "options": [
+      "chikkadaagi",
+      "chokkavagi",
+      "Shuddavagi",
+      "svachavaagi"
+    ]
+  },
+  {
+    "n": 375,
+    "lesson": "Lesson 13",
+    "q": "if ' sundara + aagi = sundaravaagi, 'keTTadu + aagi ='",
+    "correct": "keTTadaagi",
+    "options": [
+      "keTTadaagi",
+      "kiiLaagi",
+      "chikkadaagi",
+      "saNNadaagi"
+    ]
+  },
+  {
+    "n": 376,
+    "lesson": "Lesson 13",
+    "q": "if ' sundara + aagi = sundaravaagi, 'kempu + aagi ='",
+    "correct": "kempaagi",
+    "options": [
+      "kempaagi",
+      "kempaadaddu",
+      "kempagina",
+      "kempu taavare"
+    ]
+  },
+  {
+    "n": 377,
+    "lesson": "Lesson 14",
+    "q": "What is the capital of Karnataka ?",
+    "correct": "BengaLuru",
+    "options": [
+      "BengaLuru",
+      "mangaluru",
+      "mandya",
+      "mysore"
+    ]
+  },
+  {
+    "n": 378,
+    "lesson": "Lesson 14",
+    "q": "How many districts in Karnataka?",
+    "correct": "31",
+    "options": [
+      "31",
+      "22",
+      "44",
+      "25"
+    ]
+  },
+  {
+    "n": 379,
+    "lesson": "Lesson 14",
+    "q": "In which district, the Jog Falls is located.",
+    "correct": "Shivamogga",
+    "options": [
+      "Shivamogga",
+      "Udupi",
+      "Bijapur",
+      "Mangalore"
+    ]
+  },
+  {
+    "n": 380,
+    "lesson": "Lesson 14",
+    "q": "Which is the famous Wildlife Sanctuaries of Karnataka?",
+    "correct": "Nagarahole",
+    "options": [
+      "Nagarahole",
+      "Sultan Batteri",
+      "Karwara",
+      "Dandeli"
+    ]
+  },
+  {
+    "n": 381,
+    "lesson": "Lesson 14",
+    "q": "Shravanabelagola is famous for _______.",
+    "correct": "Statue of Baahubali",
+    "options": [
+      "Statue of Baahubali",
+      "Statue of Liberty",
+      "Statue of Unity",
+      "Statue of Shiva"
+    ]
+  },
+  {
+    "n": 382,
+    "lesson": "Lesson 14",
+    "q": "Belur and Halebidu is located in _______ district.",
+    "correct": "Hassan",
+    "options": [
+      "Hassan",
+      "Udupi",
+      "Mangalore",
+      "Bidar"
+    ]
+  },
+  {
+    "n": 383,
+    "lesson": "Lesson 14",
+    "q": "_____ is the famous tourist spot of Bijapur.",
+    "correct": "Golgumbaz",
+    "options": [
+      "Golgumbaz",
+      "Taj Mahal",
+      "Rock Chariot",
+      "Sun Temple"
+    ]
+  },
+  {
+    "n": 384,
+    "lesson": "Lesson 14",
+    "q": "Who is Mayurvarma?",
+    "correct": "Founder of Kadamba Dynasty",
+    "options": [
+      "Founder of Kadamba Dynasty",
+      "Singer",
+      "Politician",
+      "Poet"
+    ]
+  },
+  {
+    "n": 385,
+    "lesson": "Lesson 14",
+    "q": "The most famous dynasty that ruled Karnataka is __________",
+    "correct": "Vijayanagara",
+    "options": [
+      "Vijayanagara",
+      "Mughals",
+      "Tughlaq",
+      "Persians"
+    ]
+  },
+  {
+    "n": 386,
+    "lesson": "Lesson 14",
+    "q": "The capital of Vijayanagara kingdom was ______.",
+    "correct": "Hampi",
+    "options": [
+      "Hampi",
+      "Udupi",
+      "Karkala",
+      "Mysore"
+    ]
+  },
+  {
+    "n": 387,
+    "lesson": "Lesson 14",
+    "q": "Vijayanagara kingdom was situated on the bank of _____ river.",
+    "correct": "Tunga",
+    "options": [
+      "Tunga",
+      "Kaveri",
+      "Godavari",
+      "Netravati"
+    ]
+  },
+  {
+    "n": 388,
+    "lesson": "Lesson 14",
+    "q": "Another name for Kannambadi Dam is ___________.",
+    "correct": "Krishnaraja Sagara",
+    "options": [
+      "Krishnaraja Sagara",
+      "Bheema Sagara",
+      "Chinmay Sagara",
+      "Basava Sagara"
+    ]
+  },
+  {
+    "n": 389,
+    "lesson": "Lesson 14",
+    "q": "What is the state song of Karnataka?",
+    "correct": "Jaya Bharata Jananiya Tanujate",
+    "options": [
+      "Jaya Bharata Jananiya Tanujate",
+      "Vande Mataram",
+      "Janagana mana",
+      "None of these"
+    ]
+  },
+  {
+    "n": 390,
+    "lesson": "Lesson 14",
+    "q": "Name the only major port in Karnataka?",
+    "correct": "New Mangalore Port",
+    "options": [
+      "New Mangalore Port",
+      "Malpe",
+      "Padubidri",
+      "Suratkal"
+    ]
+  },
+  {
+    "n": 391,
+    "lesson": "Lesson 14",
+    "q": "When was Karnataka formed?",
+    "correct": "1st November 1956",
+    "options": [
+      "1st November 1956",
+      "2nd March 1990",
+      "1st March 1968",
+      "1st December 1956"
+    ]
+  },
+  {
+    "n": 392,
+    "lesson": "Lesson 14",
+    "q": "Who is the first poet of Kannada Literature?",
+    "correct": "Pampa",
+    "options": [
+      "Pampa",
+      "Ranna",
+      "Kuvempu",
+      "Chinmay"
+    ]
+  },
+  {
+    "n": 393,
+    "lesson": "Lesson 14",
+    "q": "Freedom fighters who belong to Karnataka state are __________",
+    "correct": "Sangolli rayanna and kitturu chennamma",
+    "options": [
+      "Sangolli rayanna and kitturu chennamma",
+      "Shivaji",
+      "Tanaaji",
+      "Ranajith singh"
+    ]
+  },
+  {
+    "n": 394,
+    "lesson": "Lesson 14",
+    "q": "How many river basin are there in Karnataka ?",
+    "correct": "7",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "n": 395,
+    "lesson": "Lesson 14",
+    "q": "Architect behind KSR dam , mysore was ______ .",
+    "correct": "Sir.M.vishveshvarayya",
+    "options": [
+      "Sir.M.vishveshvarayya",
+      "c.rangaacharlu",
+      "sheshadri ayyar",
+      "Odeyar"
+    ]
+  },
+  {
+    "n": 396,
+    "lesson": "Lesson 14",
+    "q": "Yakshagana is the popular dance form of _____ state",
+    "correct": "Karnataka",
+    "options": [
+      "Karnataka",
+      "Mandya",
+      "T.naadu",
+      "Kerala"
+    ]
+  },
+  {
+    "n": 397,
+    "lesson": "Lesson 14",
+    "q": "Another name for Kodagu is _____.",
+    "correct": "Madikeri",
+    "options": [
+      "Madikeri",
+      "budaalu",
+      "Mandya",
+      "mysore"
+    ]
+  },
+  {
+    "n": 398,
+    "lesson": "Lesson 14",
+    "q": "Myosre palace is located in ______ district",
+    "correct": "Mysore",
+    "options": [
+      "Mysore",
+      "Mandya",
+      "Bengaluru",
+      "Mangalore"
+    ]
+  },
+  {
+    "n": 399,
+    "lesson": "Lesson 14",
+    "q": "Where is Tunga Bhadra dam  located ?",
+    "correct": "Hosapete",
+    "options": [
+      "Hosapete",
+      "Bagalakote",
+      "KRS",
+      "Kabini"
+    ]
+  },
+  {
+    "n": 400,
+    "lesson": "Lesson 14",
+    "q": "For Sharavati river dam is built at _______ place.",
+    "correct": "Linganamakki",
+    "options": [
+      "Linganamakki",
+      "kabini",
+      "Bidar",
+      "Kolara"
+    ]
+  },
+  {
+    "n": 401,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'culture' is ______",
+    "correct": "samskriti",
+    "options": [
+      "samskriti",
+      "asamskriti",
+      "puratana",
+      "hosatu"
+    ]
+  },
+  {
+    "n": 402,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'language' is ______",
+    "correct": "bhaaShe",
+    "options": [
+      "bhaaShe",
+      "pada",
+      "maatu",
+      "nuDi"
+    ]
+  },
+  {
+    "n": 403,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'encourage' is ______",
+    "correct": "protsaahisu",
+    "options": [
+      "protsaahisu",
+      "munnaDesu",
+      "munduvaresu",
+      "none of these"
+    ]
+  },
+  {
+    "n": 404,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'award' is ______",
+    "correct": "praSasti",
+    "options": [
+      "praSasti",
+      "sambrama",
+      "sanmana",
+      "seve"
+    ]
+  },
+  {
+    "n": 405,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'tradition' is ______",
+    "correct": "parampare",
+    "options": [
+      "parampare",
+      "pfrachiina",
+      "pragatipara",
+      "none of these"
+    ]
+  },
+  {
+    "n": 406,
+    "lesson": "Lesson 14",
+    "q": "Kannada word for 'available' is ______",
+    "correct": "doraku",
+    "options": [
+      "doraku",
+      "odagisu",
+      "odagu",
+      "doarakisida"
+    ]
+  },
+  {
+    "n": 407,
+    "lesson": "Lesson 14",
+    "q": "English word for 'hemme' is ______",
+    "correct": "proud",
+    "options": [
+      "proud",
+      "pride",
+      "jamba",
+      "soul"
+    ]
+  },
+  {
+    "n": 408,
+    "lesson": "Lesson 14",
+    "q": "English word for 'sahanasheelavyakti' is ______",
+    "correct": "tolerant",
+    "options": [
+      "tolerant",
+      "model",
+      "level",
+      "profuct"
+    ]
+  },
+  {
+    "n": 409,
+    "lesson": "Lesson 14",
+    "q": "English word for 'giridhama' is ______",
+    "correct": "Hill station",
+    "options": [
+      "Hill station",
+      "river bank",
+      "sea bank",
+      "field"
+    ]
+  },
+  {
+    "n": 410,
+    "lesson": "Lesson 14",
+    "q": "English word for 'maTTa' is ______",
+    "correct": "Level",
+    "options": [
+      "Level",
+      "hight",
+      "down",
+      "none of these"
+    ]
+  },
+  {
+    "n": 411,
+    "lesson": "Lesson 14",
+    "q": "English word for 'kaigarike' is ______",
+    "correct": "Factory",
+    "options": [
+      "Factory",
+      "factore",
+      "force",
+      "feare"
+    ]
+  },
+  {
+    "n": 412,
+    "lesson": "Lesson 14",
+    "q": "English word for 'maadari' is ______",
+    "correct": "model",
+    "options": [
+      "model",
+      "nodel",
+      "avileble",
+      "iron"
+    ]
+  },
+  {
+    "n": 413,
+    "lesson": "Lesson 14",
+    "q": "English word for 'saamrajya' is ______",
+    "correct": "Kingdom",
+    "options": [
+      "Kingdom",
+      "random",
+      "protect",
+      "worthy"
+    ]
+  },
+  {
+    "n": 414,
+    "lesson": "Lesson 14",
+    "q": "English word for 'naisargika' is ______",
+    "correct": "Natural",
+    "options": [
+      "Natural",
+      "tradition",
+      "award",
+      "wealth"
+    ]
+  },
+  {
+    "n": 415,
+    "lesson": "Lesson 15",
+    "q": "How old is History of Kannada language ?",
+    "correct": "2500yrs",
+    "options": [
+      "2500yrs",
+      "2000yrs",
+      "3000yrs",
+      "1700yrs"
+    ]
+  },
+  {
+    "n": 416,
+    "lesson": "Lesson 15",
+    "q": "The Halmidi inscription was found in which district of Karnataka ?",
+    "correct": "Hassan",
+    "options": [
+      "Hassan",
+      "Beluru",
+      "Shravanabelgola",
+      "Hampi"
+    ]
+  },
+  {
+    "n": 417,
+    "lesson": "Lesson 15",
+    "q": "Who of the following is the author of the state anthem of Karnataka?",
+    "correct": "Kuvempu",
+    "options": [
+      "Kuvempu",
+      "Shivaram Karanth",
+      "Bendre",
+      "Byrappa"
+    ]
+  },
+  {
+    "n": 418,
+    "lesson": "Lesson 15",
+    "q": "On which of the follwing river is Jog Falls situated?",
+    "correct": "Sharavati",
+    "options": [
+      "Sharavati",
+      "Kaveri",
+      "Hemavati",
+      "Gataprabha"
+    ]
+  },
+  {
+    "n": 419,
+    "lesson": "Lesson 15",
+    "q": "Who was the first person to be awarded the Jnanapitha award for Kannada?",
+    "correct": "Kuvempu",
+    "options": [
+      "Kuvempu",
+      "Shivram Karanth",
+      "Gokak",
+      "Bendre"
+    ]
+  },
+  {
+    "n": 420,
+    "lesson": "Lesson 15",
+    "q": "Chennapatna a place in Ramnagara district is famous for _______.",
+    "correct": "Toys",
+    "options": [
+      "Toys",
+      "Silk",
+      "Agarbatti",
+      "Sandalwood"
+    ]
+  },
+  {
+    "n": 421,
+    "lesson": "Lesson 15",
+    "q": "Which of the follwing place is famous for metal handcraft known as 'Bidriware'?",
+    "correct": "Bidar",
+    "options": [
+      "Bidar",
+      "Udupi",
+      "Hassan",
+      "Mysore"
+    ]
+  },
+  {
+    "n": 422,
+    "lesson": "Lesson 15",
+    "q": "At which place is the Suvarna Vidhan Souda located?",
+    "correct": "Belagavi",
+    "options": [
+      "Belagavi",
+      "Bidar",
+      "Chikmangalur",
+      "Bijapur"
+    ]
+  },
+  {
+    "n": 423,
+    "lesson": "Lesson 15",
+    "q": "Where is the Nuclear power plant situated in Karnataka?",
+    "correct": "Kiga",
+    "options": [
+      "Kiga",
+      "Karkala",
+      "Karwara",
+      "Badami"
+    ]
+  },
+  {
+    "n": 424,
+    "lesson": "Lesson 15",
+    "q": "In which year was Kannda granted the status of a classical language by the central government?",
+    "correct": "2008",
+    "options": [
+      "2008",
+      "2011",
+      "2005",
+      "2020"
+    ]
+  },
+  {
+    "n": 425,
+    "lesson": "Lesson 15",
+    "q": "_________ is the famous poet of 'Hale Kannada' literature.",
+    "correct": "Ponna",
+    "options": [
+      "Ponna",
+      "Karant",
+      "Bendre",
+      "Kuvempu"
+    ]
+  },
+  {
+    "n": 426,
+    "lesson": "Lesson 15",
+    "q": "Modern Kannada literature is influenced by ________ language.",
+    "correct": "English",
+    "options": [
+      "English",
+      "Marathi",
+      "Tulu",
+      "Konkani"
+    ]
+  },
+  {
+    "n": 427,
+    "lesson": "Lesson 15",
+    "q": "Tamil, Kannada, Telugu and Tulu are ___________ languages.",
+    "correct": "Dravidian",
+    "options": [
+      "Dravidian",
+      "Arya",
+      "Brahuhi",
+      "Brahmi"
+    ]
+  },
+  {
+    "n": 428,
+    "lesson": "Lesson 15",
+    "q": "Rich vocabulary in Kannada language facilitates ______.",
+    "correct": "Meaningful communication",
+    "options": [
+      "Meaningful communication",
+      "Ineffective conversation",
+      "Ambiguous communication",
+      "Incoherent dialogue"
+    ]
+  },
+  {
+    "n": 429,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'source' in Kannada language.",
+    "correct": "aadhara",
+    "options": [
+      "aadhara",
+      "niradhara",
+      "aasare",
+      "niraase"
+    ]
+  },
+  {
+    "n": 430,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'beginning' in Kannada language.",
+    "correct": "aaramba",
+    "options": [
+      "aaramba",
+      "kone",
+      "mugi",
+      "haleya"
+    ]
+  },
+  {
+    "n": 431,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'dialect' in Kannada language.",
+    "correct": "upabaaSe",
+    "options": [
+      "upabaaSe",
+      "hosabaSe",
+      "nudi",
+      "hosakannaD"
+    ]
+  },
+  {
+    "n": 432,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'lifesytle' in Kannada language.",
+    "correct": "jiivanakrama",
+    "options": [
+      "jiivanakrama",
+      "jiivan vikrama",
+      "jivana akram",
+      "jana jivana"
+    ]
+  },
+  {
+    "n": 433,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'period' in Kannada language.",
+    "correct": "avadhi",
+    "options": [
+      "avadhi",
+      "adhikara",
+      "hosa kaala",
+      "haLekaala"
+    ]
+  },
+  {
+    "n": 434,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'technical education' in Kannada language.",
+    "correct": "taantrika SikshaNa",
+    "options": [
+      "taantrika SikshaNa",
+      "kala SikshaNa",
+      "vaaNijya Sikshana",
+      "sangeetha SikshaNa"
+    ]
+  },
+  {
+    "n": 435,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'medievel kannada' in Kannada language.",
+    "correct": "madyakaaliina kannaDa",
+    "options": [
+      "madyakaaliina kannaDa",
+      "hosa gannaDa",
+      "haLe kannaDa",
+      "none of these"
+    ]
+  },
+  {
+    "n": 436,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'variety' in Kannada language.",
+    "correct": "prabhedha",
+    "options": [
+      "prabhedha",
+      "upabhedha",
+      "sahabedha",
+      "saha prakara"
+    ]
+  },
+  {
+    "n": 437,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'scholar' in Kannada language.",
+    "correct": "panDitha",
+    "options": [
+      "panDitha",
+      "kalivava",
+      "kalisuvava",
+      "kaliyuttiruvava"
+    ]
+  },
+  {
+    "n": 438,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'scientific' in Kannada language.",
+    "correct": "vaijnanika",
+    "options": [
+      "vaijnanika",
+      "ajnana",
+      "apaarajnaan",
+      "avajnaana"
+    ]
+  },
+  {
+    "n": 439,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'peculiar' in Kannada language.",
+    "correct": "vicitra",
+    "options": [
+      "vicitra",
+      "khachita",
+      "aparicita",
+      "none of these"
+    ]
+  },
+  {
+    "n": 440,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'niyama' in English language.",
+    "correct": "Rule",
+    "options": [
+      "Rule",
+      "Rare",
+      "Roar",
+      "Random"
+    ]
+  },
+  {
+    "n": 441,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'abhipraya' in English language.",
+    "correct": "Opinion",
+    "options": [
+      "Opinion",
+      "Lesson",
+      "Education",
+      "Ability"
+    ]
+  },
+  {
+    "n": 442,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'manya' in English language.",
+    "correct": "Acceptable",
+    "options": [
+      "Acceptable",
+      "Sure",
+      "Waste",
+      "None of these"
+    ]
+  },
+  {
+    "n": 443,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'HaLe Kannada' in English language.",
+    "correct": "Old Kannada",
+    "options": [
+      "Old Kannada",
+      "Modern Kannada",
+      "Medieval Kannada",
+      "None of these"
+    ]
+  },
+  {
+    "n": 444,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'shasana' in English language.",
+    "correct": "Inscription",
+    "options": [
+      "Inscription",
+      "Letter",
+      "Word",
+      "Painting"
+    ]
+  },
+  {
+    "n": 445,
+    "lesson": "Lesson 15",
+    "q": "__________ is the meaning of the word 'samanya jana' in English language.",
+    "correct": "Ordinary People",
+    "options": [
+      "Ordinary People",
+      "Strange people",
+      "Crazy people",
+      "Mad People"
+    ]
+  },
+  {
+    "n": 446,
+    "lesson": "Lesson 15",
+    "q": "Who is the 'Tripadi poet' of Kannada?",
+    "correct": "Sarvajnya",
+    "options": [
+      "Sarvajnya",
+      "Chinmay",
+      "Bharat",
+      "Rama"
+    ]
+  },
+  {
+    "n": 447,
+    "lesson": "Lesson 15",
+    "q": "________ was the first person to get the title of 'Rashtrakavi' from Karnataka.",
+    "correct": "Govinda Pai",
+    "options": [
+      "Govinda Pai",
+      "Panaje Mangeshraya",
+      "Ugrana Mangeshraya",
+      "C. Kambara"
+    ]
+  },
+  {
+    "n": 448,
+    "lesson": "Lesson 15",
+    "q": "The famous work of Kuvempu is __________.",
+    "correct": "Shri Ramayana Darshanam",
+    "options": [
+      "Shri Ramayana Darshanam",
+      "Daatu",
+      "Alidamele",
+      "Gere"
+    ]
+  },
+  {
+    "n": 449,
+    "lesson": "Lesson 15",
+    "q": "_________ was the first dynasty of Karnataka.",
+    "correct": "Kadamba",
+    "options": [
+      "Kadamba",
+      "Mughals",
+      "Maratha",
+      "Vijayanagara"
+    ]
+  },
+  {
+    "n": 450,
+    "lesson": "Lesson 15",
+    "q": "The first Kannada inscription is _________.",
+    "correct": "Halmidi",
+    "options": [
+      "Halmidi",
+      "Badami",
+      "Udupi",
+      "Mangaladevi"
+    ]
+  },
+  {
+    "n": 451,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'dignity' is ______ .",
+    "correct": "Ghanate",
+    "options": [
+      "Ghanate",
+      "gourava",
+      "gamana",
+      "hirime"
+    ]
+  },
+  {
+    "n": 452,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'discuss' is ______ .",
+    "correct": "carce",
+    "options": [
+      "carce",
+      "maatu",
+      "nuDi",
+      "keLu"
+    ]
+  },
+  {
+    "n": 453,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'mistake' is ______ .",
+    "correct": "tappu",
+    "options": [
+      "tappu",
+      "sari",
+      "naDe",
+      "ooDu"
+    ]
+  },
+  {
+    "n": 454,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'daily' is ______ .",
+    "correct": "dinanitya",
+    "options": [
+      "dinanitya",
+      "anitya",
+      "naaLe",
+      "ninne"
+    ]
+  },
+  {
+    "n": 455,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'continuous' is ______ .",
+    "correct": "nirantara",
+    "options": [
+      "nirantara",
+      "sthagita",
+      "avasar",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 456,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'methodologies' is ______ .",
+    "correct": "maargopaayagaLu",
+    "options": [
+      "maargopaayagaLu",
+      "daarigaLu",
+      "haaDi",
+      "biidi"
+    ]
+  },
+  {
+    "n": 457,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'environment' is ______ .",
+    "correct": "parisara",
+    "options": [
+      "parisara",
+      "parampare",
+      "praciina",
+      "puratana"
+    ]
+  },
+  {
+    "n": 458,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'discourage' is ______ .",
+    "correct": "nirutsaaha",
+    "options": [
+      "nirutsaaha",
+      "utsaaha",
+      "cetana",
+      "jigupse"
+    ]
+  },
+  {
+    "n": 459,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'concentration' is ______ .",
+    "correct": "eekaagrate",
+    "options": [
+      "eekaagrate",
+      "vikeendra",
+      "ondu",
+      "halavu"
+    ]
+  },
+  {
+    "n": 460,
+    "lesson": "Lesson 16",
+    "q": "Kannada word for 'memory' is ______ .",
+    "correct": "nenepu",
+    "options": [
+      "nenepu",
+      "marevu",
+      "hasivu",
+      "aLivu"
+    ]
+  },
+  {
+    "n": 461,
+    "lesson": "Lesson 17",
+    "q": "To write a language on must know about the ______ of the language.",
+    "correct": "Script",
+    "options": [
+      "Script",
+      "History",
+      "Words",
+      "None of these"
+    ]
+  },
+  {
+    "n": 462,
+    "lesson": "Lesson 17",
+    "q": "Advantage of learning a local/regional language is",
+    "correct": "All of these",
+    "options": [
+      "All of these",
+      "Purpose of communication",
+      "Purpose of education",
+      "New Business"
+    ]
+  },
+  {
+    "n": 463,
+    "lesson": "Lesson 17",
+    "q": "Kannada is the language widely spoken in _________ state.",
+    "correct": "Karnataka",
+    "options": [
+      "Karnataka",
+      "Goa",
+      "Kerala",
+      "Gujrat"
+    ]
+  },
+  {
+    "n": 464,
+    "lesson": "Lesson 17",
+    "q": "In the first step of learning a new language we should start with _________ activies.",
+    "correct": "Listening and Hearing",
+    "options": [
+      "Listening and Hearing",
+      "Reading",
+      "Talking",
+      "None of these"
+    ]
+  },
+  {
+    "n": 465,
+    "lesson": "Lesson 17",
+    "q": "_________is the Stressed letter in the word  ಅಪ್ಪ Father (Appa)",
+    "correct": "Ppa",
+    "options": [
+      "Ppa",
+      "PaP",
+      "pa",
+      "p a"
+    ]
+  },
+  {
+    "n": 466,
+    "lesson": "Lesson 17",
+    "q": "________is the Stressed letter in the word ಅಮ್ಮ Mother (Amma)",
+    "correct": "Mma",
+    "options": [
+      "Mma",
+      "MaM",
+      "Ma",
+      "M a"
+    ]
+  },
+  {
+    "n": 467,
+    "lesson": "Lesson 17",
+    "q": "Unlike in English, there are ______ types of Genders in Kannada language.",
+    "correct": "4",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "1"
+    ]
+  },
+  {
+    "n": 468,
+    "lesson": "Lesson 17",
+    "q": "_____________ is the similar term in Kannada for Feminine Gender.",
+    "correct": "Stree Linga",
+    "options": [
+      "Stree Linga",
+      "Pullinga",
+      "Napumsaka Linga",
+      "Saamanya Linga"
+    ]
+  },
+  {
+    "n": 469,
+    "lesson": "Lesson 17",
+    "q": "If the word King / Raaja is masculine in gender,the feminine gender form in Kannada language is ___.",
+    "correct": "Raani",
+    "options": [
+      "Raani",
+      "Hudugi",
+      "Hengasu",
+      "None of these"
+    ]
+  },
+  {
+    "n": 470,
+    "lesson": "Lesson 17",
+    "q": "Gender of the Kannada word 'Jaana Huduga' is ______",
+    "correct": "Masculine",
+    "options": [
+      "Masculine",
+      "Feminine",
+      "Neutar",
+      "None of these"
+    ]
+  },
+  {
+    "n": 471,
+    "lesson": "Lesson 17",
+    "q": "Naanya, a Kannada word means 'Coin' is an example for ______ Gender.",
+    "correct": "Neutar",
+    "options": [
+      "Neutar",
+      "Masculine",
+      "Feminine",
+      "None of these"
+    ]
+  },
+  {
+    "n": 472,
+    "lesson": "Lesson 17",
+    "q": "Opposite words/ Antonyms are called ______ in Kannada language.",
+    "correct": "Viruddha Padagalu",
+    "options": [
+      "Viruddha Padagalu",
+      "Prashnaarthaka Padagalu",
+      "Naama Padagalu",
+      "None"
+    ]
+  },
+  {
+    "n": 473,
+    "lesson": "Lesson 17",
+    "q": "Antonym of Kannada word 'Baa' (come) is______.",
+    "correct": "Hogu",
+    "options": [
+      "Hogu",
+      "Sari",
+      "Hosadu",
+      "Illa"
+    ]
+  },
+  {
+    "n": 474,
+    "lesson": "Lesson 17",
+    "q": "Antonym of  'Thappu' (wrong) is",
+    "correct": "Sari",
+    "options": [
+      "Sari",
+      "Beku",
+      "Beda",
+      "Illa"
+    ]
+  },
+  {
+    "n": 475,
+    "lesson": "Lesson 17",
+    "q": "Antonym of 'Beku' (Want) is ______.",
+    "correct": "Beda",
+    "options": [
+      "Beda",
+      "Hawdu",
+      "Illa",
+      "None"
+    ]
+  },
+  {
+    "n": 476,
+    "lesson": "Lesson 17",
+    "q": "Noun is called ____________ in Kannada language.",
+    "correct": "Naamapada",
+    "options": [
+      "Naamapada",
+      "Kriya Pada",
+      "Sarvanaamapada",
+      "Kriya Visheshana"
+    ]
+  },
+  {
+    "n": 477,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'put' is ______ .",
+    "correct": "haaku",
+    "options": [
+      "haaku",
+      "haakikoLLi",
+      "tegeyiri",
+      "etti"
+    ]
+  },
+  {
+    "n": 478,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'ask' is ______ .",
+    "correct": "keeLu",
+    "options": [
+      "keeLu",
+      "heeLu",
+      "oodu",
+      "mare"
+    ]
+  },
+  {
+    "n": 479,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'tell' is ______ .",
+    "correct": "heeLu",
+    "options": [
+      "heeLu",
+      "keeLu",
+      "oodu",
+      "bare"
+    ]
+  },
+  {
+    "n": 480,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'chest' is ______ .",
+    "correct": "ede",
+    "options": [
+      "ede",
+      "kaalu",
+      "kai",
+      "muugu"
+    ]
+  },
+  {
+    "n": 481,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'finger' is ______ .",
+    "correct": "beraLu",
+    "options": [
+      "beraLu",
+      "kai",
+      "kaalu",
+      "kivi"
+    ]
+  },
+  {
+    "n": 482,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'shoulder' is ______ .",
+    "correct": "bhuja",
+    "options": [
+      "bhuja",
+      "ede",
+      "hradaya",
+      "kai"
+    ]
+  },
+  {
+    "n": 483,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'wife' is ______ .",
+    "correct": "henDati",
+    "options": [
+      "henDati",
+      "tangi",
+      "taayi",
+      "akka"
+    ]
+  },
+  {
+    "n": 484,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'grandson' is ______ .",
+    "correct": "mommaga",
+    "options": [
+      "mommaga",
+      "mommagaLu",
+      "tangi",
+      "tamma"
+    ]
+  },
+  {
+    "n": 485,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'grandfather' is ______ .",
+    "correct": "ajja",
+    "options": [
+      "ajja",
+      "ajji",
+      "amma",
+      "akka"
+    ]
+  },
+  {
+    "n": 486,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'blind' is ______ .",
+    "correct": "kuruDu",
+    "options": [
+      "kuruDu",
+      "kivuDu",
+      "mooka",
+      "naraka"
+    ]
+  },
+  {
+    "n": 487,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'lady' is ______ .",
+    "correct": "hengasu",
+    "options": [
+      "hengasu",
+      "gandasu",
+      "magu",
+      "huDugi"
+    ]
+  },
+  {
+    "n": 488,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'soil' is ______ .",
+    "correct": "maNNu",
+    "options": [
+      "maNNu",
+      "nela",
+      "nearaLu",
+      "niiru"
+    ]
+  },
+  {
+    "n": 489,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'floor' is ______ .",
+    "correct": "nela",
+    "options": [
+      "nela",
+      "maraLu",
+      "maNNu",
+      "giDa"
+    ]
+  },
+  {
+    "n": 490,
+    "lesson": "Lesson 18",
+    "q": "Kannada word for 'shadow' is ______ .",
+    "correct": "neraLu",
+    "options": [
+      "neraLu",
+      "bisilu",
+      "maLe",
+      "gaaLi"
+    ]
+  },
+  {
+    "n": 491,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'mosquito' is ______.",
+    "correct": "soLLe",
+    "options": [
+      "soLLe",
+      "iruve",
+      "mola",
+      "haavu"
+    ]
+  },
+  {
+    "n": 492,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'ant' is ______.",
+    "correct": "iruve",
+    "options": [
+      "iruve",
+      "ili",
+      "aLilu",
+      "mola"
+    ]
+  },
+  {
+    "n": 493,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'sparrow' is ______.",
+    "correct": "gubbacci",
+    "options": [
+      "gubbacci",
+      "kogile",
+      "kaage",
+      "onTe"
+    ]
+  },
+  {
+    "n": 494,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'wolf' is ______.",
+    "correct": "nari",
+    "options": [
+      "nari",
+      "sihma",
+      "naayi",
+      "kudure"
+    ]
+  },
+  {
+    "n": 495,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'goat' is ______.",
+    "correct": "kuri",
+    "options": [
+      "kuri",
+      "nari",
+      "aaDu",
+      "meke"
+    ]
+  },
+  {
+    "n": 496,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'south' is ______.",
+    "correct": "dakShiNa",
+    "options": [
+      "dakShiNa",
+      "puurva",
+      "uttara",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 497,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'west' is ______.",
+    "correct": "pascima",
+    "options": [
+      "pascima",
+      "puurva",
+      "dakSiNa",
+      "aagneya"
+    ]
+  },
+  {
+    "n": 498,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'ghee' is ______.",
+    "correct": "tuppa",
+    "options": [
+      "tuppa",
+      "beNNe",
+      "haalu",
+      "mosaru"
+    ]
+  },
+  {
+    "n": 499,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'butter' is ______.",
+    "correct": "beNNe",
+    "options": [
+      "beNNe",
+      "mosaru",
+      "kene",
+      "majjige"
+    ]
+  },
+  {
+    "n": 500,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'buttermilk' is ______.",
+    "correct": "majjige",
+    "options": [
+      "majjige",
+      "mosaru",
+      "tea",
+      "kafee"
+    ]
+  },
+  {
+    "n": 501,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'curd' is ______.",
+    "correct": "mosaru",
+    "options": [
+      "mosaru",
+      "majjige",
+      "haalu",
+      "niiru"
+    ]
+  },
+  {
+    "n": 502,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'pickle' is ______.",
+    "correct": "uppinakaayi",
+    "options": [
+      "uppinakaayi",
+      "jaamuunu",
+      "tinDi",
+      "uuTa"
+    ]
+  },
+  {
+    "n": 503,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'meal' is ______.",
+    "correct": "uuTa",
+    "options": [
+      "uuTa",
+      "tinDi",
+      "sihi",
+      "tea"
+    ]
+  },
+  {
+    "n": 504,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'bitter' is ______.",
+    "correct": "kahi",
+    "options": [
+      "kahi",
+      "sihi",
+      "huLI",
+      "cappe"
+    ]
+  },
+  {
+    "n": 505,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'sprouts' is ______.",
+    "correct": "molake",
+    "options": [
+      "molake",
+      "iDi kaalu",
+      "hasi kaaLu",
+      "yaavudu alla"
+    ]
+  },
+  {
+    "n": 506,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent Kannada word for 'horsegram' is ______.",
+    "correct": "huruLi",
+    "options": [
+      "huruLi",
+      "hesaru",
+      "uddu",
+      "goodi"
+    ]
+  },
+  {
+    "n": 507,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'akki' is ______.",
+    "correct": "Rice",
+    "options": [
+      "Rice",
+      "Fruit",
+      "Wheat",
+      "Vegetable"
+    ]
+  },
+  {
+    "n": 508,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'kaaLu' is ______.",
+    "correct": "Leg",
+    "options": [
+      "Leg",
+      "Hand",
+      "Eyes",
+      "Body"
+    ]
+  },
+  {
+    "n": 509,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'nagu' is ______.",
+    "correct": "Laugh",
+    "options": [
+      "Laugh",
+      "Cry",
+      "Shout",
+      "Silent"
+    ]
+  },
+  {
+    "n": 510,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'santosha' is ______.",
+    "correct": "Happy",
+    "options": [
+      "Happy",
+      "Sad",
+      "Unhappy",
+      "Sick"
+    ]
+  },
+  {
+    "n": 511,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'arogya' is ______.",
+    "correct": "Health",
+    "options": [
+      "Health",
+      "Wealth",
+      "Money",
+      "timepass"
+    ]
+  },
+  {
+    "n": 512,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'noovu' is ______.",
+    "correct": "Pain",
+    "options": [
+      "Pain",
+      "Happy",
+      "Sad",
+      "None"
+    ]
+  },
+  {
+    "n": 513,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'gaaya' is ______.",
+    "correct": "Wound",
+    "options": [
+      "Wound",
+      "Park",
+      "Jack",
+      "Night"
+    ]
+  },
+  {
+    "n": 514,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'suuji' is ______.",
+    "correct": "Needle",
+    "options": [
+      "Needle",
+      "Sweedle",
+      "pensillu",
+      "None"
+    ]
+  },
+  {
+    "n": 515,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'haasige' is ______.",
+    "correct": "Bed",
+    "options": [
+      "Bed",
+      "Chair",
+      "Table",
+      "None"
+    ]
+  },
+  {
+    "n": 516,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'souTu' is ______.",
+    "correct": "Spoon",
+    "options": [
+      "Spoon",
+      "Plate",
+      "Glass",
+      "None"
+    ]
+  },
+  {
+    "n": 517,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'looTa' is ______.",
+    "correct": "Glass",
+    "options": [
+      "Glass",
+      "Plate",
+      "Spoon",
+      "None"
+    ]
+  },
+  {
+    "n": 518,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'taTTe' is ______.",
+    "correct": "Plate",
+    "options": [
+      "Plate",
+      "Glass",
+      "Spoon",
+      "None"
+    ]
+  },
+  {
+    "n": 519,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'paaTre' is ______.",
+    "correct": "Vessels",
+    "options": [
+      "Vessels",
+      "Pen",
+      "Book",
+      "Bucket"
+    ]
+  },
+  {
+    "n": 520,
+    "lesson": "Lesson 18",
+    "q": "The appropriate equivalent English word for 'biidi' is ______.",
+    "correct": "Street",
+    "options": [
+      "Street",
+      "Light",
+      "Dark",
+      "Morning"
+    ]
+  }
+]
