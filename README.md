@@ -1,15 +1,16 @@
 # Study Quiz Hub
 
-A multi-subject quiz hub with Kannada integrated as the first subject. The original Kannada quiz engine and its 520-question bank across Lessons 1–18 are preserved.
+A static, browser-based study quiz hub.
+
+## Subjects
+- **Kannada** — Lessons 1–18, sourced from the supplied Kannada quiz bank.
+- **Object Oriented Programming (25CSE202)** — Units 1–5, 150 MCQs extracted from the supplied DOCX files.
 
 ## Run locally
-Use a local static server such as VS Code Live Server. Browsers block `fetch()` of JSON files from `file://`, so do not open `index.html` by double-clicking it.
+Open the folder in VS Code and use Live Server on `index.html`. The OOP practice page is available from the subject hub and loads `data/oop.json`.
 
-## Project structure
-- `index.html` — app entry point
-- `assets/style.css` — styling
-- `assets/app.js` — quiz engine and subject hub
-- `data/kannada.json` — Kannada question bank
-- `subjects/subjects.json` — subject registry
+## OOP source and answer-key notes
+Question wording and options are transcribed from the five supplied OOP unit documents. The bold-marked option is treated as correct. Unit 2 Q20 has no clearly bolded option; Unit 4 Q14 has all four options bolded. These two questions remain in the bank but are unscored and flagged for answer-key verification. Unit 2 Q23 contains only two options in the source document; both are retained as provided.
 
-Future subjects can be added by extending the subject registry and integrating their question banks with the shared quiz engine.
+## Deployment
+This is a static site. Import the GitHub repository into Vercel with Framework Preset `Other`; no build command is required.

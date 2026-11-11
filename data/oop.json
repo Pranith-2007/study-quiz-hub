@@ -1,0 +1,4194 @@
+[
+  {
+    "id": "oop-u1-q1",
+    "n": 1,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "A class is a blueprint for creating",
+    "options": [
+      {
+        "label": "A",
+        "text": "Functions"
+      },
+      {
+        "label": "B",
+        "text": "Variables"
+      },
+      {
+        "label": "C",
+        "text": "Objects"
+      },
+      {
+        "label": "D",
+        "text": "Data types"
+      }
+    ],
+    "correct": "Objects",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q2",
+    "n": 2,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "The process of creating a new instance of a class is called",
+    "options": [
+      {
+        "label": "A",
+        "text": "Instantiation"
+      },
+      {
+        "label": "B",
+        "text": "Encapsulation"
+      },
+      {
+        "label": "C",
+        "text": "Polymorphism"
+      },
+      {
+        "label": "D",
+        "text": "Inheritance"
+      }
+    ],
+    "correct": "Instantiation",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q3",
+    "n": 3,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "The new keyword is used to",
+    "options": [
+      {
+        "label": "A",
+        "text": "Create a new class"
+      },
+      {
+        "label": "B",
+        "text": "Allocate memory for an object"
+      },
+      {
+        "label": "C",
+        "text": "Call a method"
+      },
+      {
+        "label": "D",
+        "text": "Declare a variable"
+      }
+    ],
+    "correct": "Allocate memory for an object",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q4",
+    "n": 4,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "A reference variable holds",
+    "options": [
+      {
+        "label": "A",
+        "text": "The value of an object"
+      },
+      {
+        "label": "B",
+        "text": "The memory address of an object"
+      },
+      {
+        "label": "C",
+        "text": "The name of a class"
+      },
+      {
+        "label": "D",
+        "text": "The type of an object"
+      }
+    ],
+    "correct": "The memory address of an object",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q5",
+    "n": 5,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "When two reference variables point to the same object",
+    "options": [
+      {
+        "label": "A",
+        "text": "The objects will become independent"
+      },
+      {
+        "label": "B",
+        "text": "The reference variables will become equal"
+      },
+      {
+        "label": "C",
+        "text": "An error will occur"
+      },
+      {
+        "label": "D",
+        "text": "Any changes made to one object will affect the other"
+      }
+    ],
+    "correct": "Any changes made to one object will affect the other",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q6",
+    "n": 6,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "A method is",
+    "options": [
+      {
+        "label": "A",
+        "text": "A variable within a class"
+      },
+      {
+        "label": "B",
+        "text": "A block of code that performs a specific task"
+      },
+      {
+        "label": "C",
+        "text": "A data type"
+      },
+      {
+        "label": "D",
+        "text": "A keyword"
+      }
+    ],
+    "correct": "A block of code that performs a specific task",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q7",
+    "n": 7,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Methods cannot have:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Parameters"
+      },
+      {
+        "label": "B",
+        "text": "Return values"
+      },
+      {
+        "label": "C",
+        "text": "Statements"
+      },
+      {
+        "label": "D",
+        "text": "Main function"
+      }
+    ],
+    "correct": "Main function",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q8",
+    "n": 8,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "The void keyword indicates that a method",
+    "options": [
+      {
+        "label": "A",
+        "text": "Returns a value"
+      },
+      {
+        "label": "B",
+        "text": "Is private"
+      },
+      {
+        "label": "C",
+        "text": "Does not return a value"
+      },
+      {
+        "label": "D",
+        "text": "Is public"
+      }
+    ],
+    "correct": "Does not return a value",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q9",
+    "n": 9,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "A constructor is",
+    "options": [
+      {
+        "label": "A",
+        "text": "A keyword in the Java language"
+      },
+      {
+        "label": "B",
+        "text": "A special method that initializes an object"
+      },
+      {
+        "label": "C",
+        "text": "A data type"
+      },
+      {
+        "label": "D",
+        "text": "A method that returns a value"
+      }
+    ],
+    "correct": "A special method that initializes an object",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q10",
+    "n": 10,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "A default constructor has",
+    "options": [
+      {
+        "label": "A",
+        "text": "No parameters"
+      },
+      {
+        "label": "B",
+        "text": "One parameter"
+      },
+      {
+        "label": "C",
+        "text": "Multiple parameters"
+      },
+      {
+        "label": "D",
+        "text": "A return type"
+      }
+    ],
+    "correct": "No parameters",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q11",
+    "n": 11,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "this Keyword refers to",
+    "options": [
+      {
+        "label": "A",
+        "text": "The class itself"
+      },
+      {
+        "label": "B",
+        "text": "A method"
+      },
+      {
+        "label": "C",
+        "text": "A variable"
+      },
+      {
+        "label": "D",
+        "text": "The current object"
+      }
+    ],
+    "correct": "The current object",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q12",
+    "n": 12,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Method overloading is",
+    "options": [
+      {
+        "label": "A",
+        "text": "Having multiple methods with the same name but different parameters"
+      },
+      {
+        "label": "B",
+        "text": "Having multiple methods with the same name but different return types"
+      },
+      {
+        "label": "C",
+        "text": "Having multiple methods with the same name and parameters"
+      },
+      {
+        "label": "D",
+        "text": "Having multiple methods with different names but the same parameters"
+      }
+    ],
+    "correct": "Having multiple methods with the same name but different parameters",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q13",
+    "n": 13,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Method overloading will happen if",
+    "options": [
+      {
+        "label": "A",
+        "text": "Functions have the same name"
+      },
+      {
+        "label": "B",
+        "text": "Functions have same number of arguments"
+      },
+      {
+        "label": "C",
+        "text": "Functions return an integer"
+      },
+      {
+        "label": "D",
+        "text": "Functions return an object"
+      }
+    ],
+    "correct": "Functions have the same name",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q14",
+    "n": 14,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "How can you access private members of a class from outside the class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Directly"
+      },
+      {
+        "label": "B",
+        "text": "Using public methods"
+      },
+      {
+        "label": "C",
+        "text": "Using private methods"
+      },
+      {
+        "label": "D",
+        "text": "It's not possible"
+      }
+    ],
+    "correct": "It's not possible",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q15",
+    "n": 15,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What is the difference between instance variables and static variables?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Instance variables are shared among all objects of a class, while static variables are unique to each object."
+      },
+      {
+        "label": "B",
+        "text": "Static variables are shared among all objects of a class, while instance variables are unique to each object."
+      },
+      {
+        "label": "C",
+        "text": "Both instance and static variables are shared among all objects of a class."
+      },
+      {
+        "label": "D",
+        "text": "Both instance and static variables are unique to each object."
+      }
+    ],
+    "correct": "Instance variables are shared among all objects of a class, while static variables are unique to each object.",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q16",
+    "n": 16,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What is the keyword used to create a constant in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Const"
+      },
+      {
+        "label": "B",
+        "text": "final"
+      },
+      {
+        "label": "C",
+        "text": "Static"
+      },
+      {
+        "label": "D",
+        "text": "public"
+      }
+    ],
+    "correct": "final",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q17",
+    "n": 17,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What is the relationship between a parent class and a child class in inheritance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The child class inherits all members of the parent class."
+      },
+      {
+        "label": "B",
+        "text": "The parent class inherits all members of the child class."
+      },
+      {
+        "label": "C",
+        "text": "There is no relationship between them."
+      },
+      {
+        "label": "D",
+        "text": "The parent class can access private members of the child class."
+      }
+    ],
+    "correct": "The child class inherits all members of the parent class.",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q18",
+    "n": 18,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following is true about a class in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A class can have only one constructor"
+      },
+      {
+        "label": "B",
+        "text": "A class cannot be instantiated"
+      },
+      {
+        "label": "C",
+        "text": "A class can have multiple methods"
+      },
+      {
+        "label": "D",
+        "text": "A class is a type of interface"
+      }
+    ],
+    "correct": "A class can have multiple methods",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q19",
+    "n": 19,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "To create an object of a class in Java, which keyword is used?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Create"
+      },
+      {
+        "label": "B",
+        "text": "object"
+      },
+      {
+        "label": "C",
+        "text": "New"
+      },
+      {
+        "label": "D",
+        "text": "class"
+      }
+    ],
+    "correct": "New",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q20",
+    "n": 20,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following is the correct way to declare an object of a class named Car?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Car car = Car();"
+      },
+      {
+        "label": "B",
+        "text": "Car car = new Car();"
+      },
+      {
+        "label": "C",
+        "text": "Car car = create Car();"
+      },
+      {
+        "label": "D",
+        "text": "Car car = new Object();"
+      }
+    ],
+    "correct": "Car car = new Car();",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q21",
+    "n": 21,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following is true about methods in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Methods can only be declared inside a class"
+      },
+      {
+        "label": "B",
+        "text": "Methods cannot return a value"
+      },
+      {
+        "label": "C",
+        "text": "Methods are used to define classes"
+      },
+      {
+        "label": "D",
+        "text": "Methods must always be static"
+      }
+    ],
+    "correct": "Methods can only be declared inside a class",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q22",
+    "n": 22,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following is a valid use of this keyword?",
+    "options": [
+      {
+        "label": "A",
+        "text": "this.className"
+      },
+      {
+        "label": "B",
+        "text": "this(50)"
+      },
+      {
+        "label": "C",
+        "text": "this.staticMethod()"
+      },
+      {
+        "label": "D",
+        "text": "this(int a, int b)"
+      }
+    ],
+    "correct": "this(50)",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q23",
+    "n": 23,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What happens if a class does not define a constructor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The class cannot be instantiated"
+      },
+      {
+        "label": "B",
+        "text": "A default constructor is provided by the compiler"
+      },
+      {
+        "label": "C",
+        "text": "The class will cause a compilation error"
+      },
+      {
+        "label": "D",
+        "text": "The class will not have any methods"
+      }
+    ],
+    "correct": "A default constructor is provided by the compiler",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q24",
+    "n": 24,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Consider the following Java code: class Student { String name; Student(String name) { this.name = name; } } What is the purpose of this.name = name; ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Assigns the class name to the variable"
+      },
+      {
+        "label": "B",
+        "text": "Assigns the parameter value to the instance variable"
+      },
+      {
+        "label": "C",
+        "text": "Creates a new object"
+      },
+      {
+        "label": "D",
+        "text": "Calls another constructor"
+      }
+    ],
+    "correct": "Assigns the parameter value to the instance variable",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q25",
+    "n": 25,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following correctly demonstrates constructor overloading in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Defining two constructors with the same name and same parameter list"
+      },
+      {
+        "label": "B",
+        "text": "Defining multiple constructors with different parameter lists"
+      },
+      {
+        "label": "C",
+        "text": "Defining multiple methods with different names"
+      },
+      {
+        "label": "D",
+        "text": "Defining a constructor with a return type"
+      }
+    ],
+    "correct": "Defining multiple constructors with different parameter lists",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q26",
+    "n": 26,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What is the result of modifying an object inside a method when it is passed as an argument?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A new object is created and modified."
+      },
+      {
+        "label": "B",
+        "text": "The method throws an exception."
+      },
+      {
+        "label": "C",
+        "text": "The original object is modified."
+      },
+      {
+        "label": "D",
+        "text": "The object cannot be modified."
+      }
+    ],
+    "correct": "The original object is modified.",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q27",
+    "n": 27,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "What is the result of calling a method that returns an object?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The method returns a copy of the object."
+      },
+      {
+        "label": "B",
+        "text": "The method returns the class of the object."
+      },
+      {
+        "label": "C",
+        "text": "The method returns a reference to the object."
+      },
+      {
+        "label": "D",
+        "text": "The method returns the name of the object."
+      }
+    ],
+    "correct": "The method returns a reference to the object.",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q28",
+    "n": 28,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "Which of the following is a correct way to pass an object as an argument to a method?",
+    "options": [
+      {
+        "label": "A",
+        "text": "method(MyClass obj);"
+      },
+      {
+        "label": "B",
+        "text": "method(int obj);"
+      },
+      {
+        "label": "C",
+        "text": "method(\"obj\");"
+      },
+      {
+        "label": "D",
+        "text": "method(new MyClass());"
+      }
+    ],
+    "correct": "method(MyClass obj);",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q29",
+    "n": 29,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "When passing an object as an argument to a method, is it possible to modify the object's reference within the method?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, it is possible."
+      },
+      {
+        "label": "B",
+        "text": "No, it is not possible."
+      },
+      {
+        "label": "C",
+        "text": "It depends on the method's implementation."
+      },
+      {
+        "label": "D",
+        "text": "It depends on the object's data type."
+      }
+    ],
+    "correct": "No, it is not possible.",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u1-q30",
+    "n": 30,
+    "lesson": "Unit 1",
+    "unit": 1,
+    "q": "When a method returns an object, what happens if the object is not assigned to a variable?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The object continues to exist until the end of the program."
+      },
+      {
+        "label": "B",
+        "text": "The object is assigned to a default variable."
+      },
+      {
+        "label": "C",
+        "text": "The code will throw an error."
+      },
+      {
+        "label": "D",
+        "text": "The object is automatically garbage collected."
+      }
+    ],
+    "correct": "The object is automatically garbage collected.",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q1",
+    "n": 1,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of this keyword must be used to inherit a class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Super"
+      },
+      {
+        "label": "B",
+        "text": "this"
+      },
+      {
+        "label": "C",
+        "text": "extent"
+      },
+      {
+        "label": "D",
+        "text": "extends"
+      }
+    ],
+    "correct": "extends",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q2",
+    "n": 2,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of these is correct way of inheriting class A by class B?",
+    "options": [
+      {
+        "label": "A",
+        "text": "class B + class A{}"
+      },
+      {
+        "label": "B",
+        "text": "class B inherits class A{}"
+      },
+      {
+        "label": "C",
+        "text": "class B extends A{}"
+      },
+      {
+        "label": "D",
+        "text": "class B extends class A{}"
+      }
+    ],
+    "correct": "class B extends class A{}",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q3",
+    "n": 3,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is Inheritance in Java programming?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It's a process where one class acquires the properties (fields) and behaviors (methods) of another class."
+      },
+      {
+        "label": "B",
+        "text": "It's a process of creating a new class using the main() method."
+      },
+      {
+        "label": "C",
+        "text": "It's a technique to create objects in Java."
+      },
+      {
+        "label": "D",
+        "text": "It's a Java-specific term for importing packages."
+      }
+    ],
+    "correct": "It's a process where one class acquires the properties (fields) and behaviors (methods) of another class.",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q4",
+    "n": 4,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which type of relationship does inheritance represent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "“has-a”"
+      },
+      {
+        "label": "B",
+        "text": "“ is-a”"
+      },
+      {
+        "label": "C",
+        "text": "“uses-a”"
+      },
+      {
+        "label": "D",
+        "text": "“owns-a”"
+      }
+    ],
+    "correct": "“ is-a”",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q5",
+    "n": 5,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What does the super keyword do?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It refers to the current object"
+      },
+      {
+        "label": "B",
+        "text": "It reference to the parent class"
+      },
+      {
+        "label": "C",
+        "text": "It calls a child class method"
+      },
+      {
+        "label": "D",
+        "text": "It is used to declare static variables"
+      }
+    ],
+    "correct": "It reference to the parent class",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q6",
+    "n": 6,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Can the super keyword be used to call both methods and constructors?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, it can call both methods and constructors"
+      },
+      {
+        "label": "B",
+        "text": "No, it can only call methods"
+      },
+      {
+        "label": "C",
+        "text": "No, it can only call constructors"
+      },
+      {
+        "label": "D",
+        "text": "It can call only static methods"
+      }
+    ],
+    "correct": "Yes, it can call both methods and constructors",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q7",
+    "n": 7,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "In multilevel inheritance, how many levels of inheritance can exist?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Two levels only"
+      },
+      {
+        "label": "B",
+        "text": "No limit"
+      },
+      {
+        "label": "C",
+        "text": "Three levels only"
+      },
+      {
+        "label": "D",
+        "text": "Four levels only"
+      }
+    ],
+    "correct": "No limit",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q8",
+    "n": 8,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of the following examples shows multilevel inheritance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Class A extends Class B; Class B extends Class C"
+      },
+      {
+        "label": "B",
+        "text": "Class A extends Class B; Class C extends Class A"
+      },
+      {
+        "label": "C",
+        "text": "Class A implements Interface B; Class B extends Class C"
+      },
+      {
+        "label": "D",
+        "text": "Class A and Class B extend Class C"
+      }
+    ],
+    "correct": "Class A extends Class B; Class B extends Class C",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q9",
+    "n": 9,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "If a class has a multilevel hierarchy, which constructor is called first?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Child class constructor"
+      },
+      {
+        "label": "B",
+        "text": "Parent class constructor"
+      },
+      {
+        "label": "C",
+        "text": "The topmost ancestor class constructor"
+      },
+      {
+        "label": "D",
+        "text": "No constructor is called"
+      }
+    ],
+    "correct": "The topmost ancestor class constructor",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q10",
+    "n": 10,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What happens if you explicitly call super() in a constructor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Calls the parent class constructor"
+      },
+      {
+        "label": "B",
+        "text": "Calls the static method"
+      },
+      {
+        "label": "C",
+        "text": "Throws a runtime exception"
+      },
+      {
+        "label": "D",
+        "text": "Skips the constructor"
+      }
+    ],
+    "correct": "Calls the parent class constructor",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q11",
+    "n": 11,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of these methods cannot be overridden?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Static methods"
+      },
+      {
+        "label": "B",
+        "text": "Public methods"
+      },
+      {
+        "label": "C",
+        "text": "Protected methods"
+      },
+      {
+        "label": "D",
+        "text": "Instance methods"
+      }
+    ],
+    "correct": "Static methods",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q12",
+    "n": 12,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is an abstract class in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A class that has at least one abstract method and cannot be instantiated"
+      },
+      {
+        "label": "B",
+        "text": "A class that has only private methods"
+      },
+      {
+        "label": "C",
+        "text": "A class that has no constructors"
+      },
+      {
+        "label": "D",
+        "text": "A class that has no methods"
+      }
+    ],
+    "correct": "A class that has at least one abstract method and cannot be instantiated",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q13",
+    "n": 13,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of the following statements is true about abstract classes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "An abstract class can be instantiated"
+      },
+      {
+        "label": "B",
+        "text": "An abstract class can contain both abstract and concrete methods"
+      },
+      {
+        "label": "C",
+        "text": "All methods in an abstract class must be abstract"
+      },
+      {
+        "label": "D",
+        "text": "Abstract methods must be static"
+      }
+    ],
+    "correct": "An abstract class can contain both abstract and concrete methods",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q14",
+    "n": 14,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is true about final classes in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They can have abstract methods."
+      },
+      {
+        "label": "B",
+        "text": "They can be inherited."
+      },
+      {
+        "label": "C",
+        "text": "They cannot be inherited."
+      },
+      {
+        "label": "D",
+        "text": "They can be instantiated but not subclassed."
+      }
+    ],
+    "correct": "They cannot be inherited.",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q15",
+    "n": 15,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What will be the result if you declare a method as final in a superclass and try to override it in a subclass?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The subclass will compile successfully."
+      },
+      {
+        "label": "B",
+        "text": "The subclass must implement a new method."
+      },
+      {
+        "label": "C",
+        "text": "The subclass will cause a compile-time error"
+      },
+      {
+        "label": "D",
+        "text": "The method in the subclass will be ignored."
+      }
+    ],
+    "correct": "The subclass will cause a compile-time error",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q16",
+    "n": 16,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of the following can be used to call the superclass method from the subclass method?",
+    "options": [
+      {
+        "label": "A",
+        "text": "this.method()"
+      },
+      {
+        "label": "B",
+        "text": "super.method()"
+      },
+      {
+        "label": "C",
+        "text": "method()"
+      },
+      {
+        "label": "D",
+        "text": "base.method()"
+      }
+    ],
+    "correct": "super.method()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q17",
+    "n": 17,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "In Java, which keyword is used to create a class that cannot be subclassed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "final"
+      },
+      {
+        "label": "B",
+        "text": "abstract"
+      },
+      {
+        "label": "C",
+        "text": "static"
+      },
+      {
+        "label": "D",
+        "text": "private"
+      }
+    ],
+    "correct": "final",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q18",
+    "n": 18,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What does the super keyword refer to in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The superclass of the current class."
+      },
+      {
+        "label": "B",
+        "text": "The current class."
+      },
+      {
+        "label": "C",
+        "text": "The instance of the current class."
+      },
+      {
+        "label": "D",
+        "text": "A global variable."
+      }
+    ],
+    "correct": "The superclass of the current class.",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q19",
+    "n": 19,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "In Java, which constructor is called first when creating an object of a subclass?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Subclass constructor."
+      },
+      {
+        "label": "B",
+        "text": "Superclass constructor."
+      },
+      {
+        "label": "C",
+        "text": "The constructor of the class with the main method."
+      },
+      {
+        "label": "D",
+        "text": "Any constructor defined in the subclass."
+      }
+    ],
+    "correct": "Superclass constructor.",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q20",
+    "n": 20,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which of the following is not allowed in an abstract class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abstract methods"
+      },
+      {
+        "label": "B",
+        "text": "Concrete methods"
+      },
+      {
+        "label": "C",
+        "text": "Constructors"
+      },
+      {
+        "label": "D",
+        "text": "Static methods"
+      }
+    ],
+    "correct": null,
+    "correctLabel": null,
+    "answerStatus": "needs-answer-key-check"
+  },
+  {
+    "id": "oop-u2-q21",
+    "n": 21,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is the effect of using the final keyword with a method?",
+    "options": [
+      {
+        "label": "A",
+        "text": "a) The method can be inherited but not overridden"
+      },
+      {
+        "label": "B",
+        "text": "The method cannot be inherited or overridden"
+      },
+      {
+        "label": "C",
+        "text": "The method can be inherited and overridden"
+      },
+      {
+        "label": "D",
+        "text": "The method must be abstract"
+      }
+    ],
+    "correct": "a) The method can be inherited but not overridden",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q22",
+    "n": 22,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "In multilevel inheritance, a class can inherit from:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Multiple classes directly"
+      },
+      {
+        "label": "B",
+        "text": "Only one class, which in turn inherits from another class"
+      },
+      {
+        "label": "C",
+        "text": "Interfaces only"
+      },
+      {
+        "label": "D",
+        "text": "Both classes and interfaces simultaneously"
+      }
+    ],
+    "correct": "Only one class, which in turn inherits from another class",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q23",
+    "n": 23,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Can the super keyword be used to access a parent class's private fields?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes."
+      },
+      {
+        "label": "B",
+        "text": "No"
+      }
+    ],
+    "correct": "No",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q24",
+    "n": 24,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which keyword is used to refer to members of the immediate parent class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "this"
+      },
+      {
+        "label": "B",
+        "text": "super"
+      },
+      {
+        "label": "C",
+        "text": "parent"
+      },
+      {
+        "label": "D",
+        "text": "base"
+      }
+    ],
+    "correct": "super",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q25",
+    "n": 25,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Consider the following hierarchy: Vehicle ↓ Car ↓ Swift What type of inheritance is represented?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Single inheritance"
+      },
+      {
+        "label": "B",
+        "text": "Multiple inheritance"
+      },
+      {
+        "label": "C",
+        "text": "Multilevel inheritance"
+      },
+      {
+        "label": "D",
+        "text": "Hierarchical inheritance"
+      }
+    ],
+    "correct": "Multilevel inheritance",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q26",
+    "n": 26,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "Which concept allows a superclass reference to invoke an overridden method of the subclass at runtime?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Constructor overloading"
+      },
+      {
+        "label": "B",
+        "text": "Dynamic method dispatch"
+      },
+      {
+        "label": "C",
+        "text": "Static binding"
+      },
+      {
+        "label": "D",
+        "text": "Package creation"
+      }
+    ],
+    "correct": "Dynamic method dispatch",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q27",
+    "n": 27,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is the correct syntax for importing all classes from a package named com.example?",
+    "options": [
+      {
+        "label": "A",
+        "text": "import com.example.*;"
+      },
+      {
+        "label": "B",
+        "text": "import all from com.example;"
+      },
+      {
+        "label": "C",
+        "text": "import com.example.all;"
+      },
+      {
+        "label": "D",
+        "text": "import com.example.classes;"
+      }
+    ],
+    "correct": "import com.example.*;",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q28",
+    "n": 28,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What is the correct way to define a package in a Java source file?",
+    "options": [
+      {
+        "label": "A",
+        "text": "define package com.example.myapp;"
+      },
+      {
+        "label": "B",
+        "text": "package com.example.myapp;"
+      },
+      {
+        "label": "C",
+        "text": "import com.example.myapp.*;"
+      },
+      {
+        "label": "D",
+        "text": "package = com.example.myapp;"
+      }
+    ],
+    "correct": "package com.example.myapp;",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q29",
+    "n": 29,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "If you want to use a class ArrayUtils from the package org.example.utils, what is the correct way to import it in your Java file?",
+    "options": [
+      {
+        "label": "A",
+        "text": "import org.example.utils.ArrayUtils;"
+      },
+      {
+        "label": "B",
+        "text": "include org.example.utils.ArrayUtils;"
+      },
+      {
+        "label": "C",
+        "text": "import utils.org.example.ArrayUtils;"
+      },
+      {
+        "label": "D",
+        "text": "import ArrayUtils.org.example.utils;"
+      }
+    ],
+    "correct": "import org.example.utils.ArrayUtils;",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u2-q30",
+    "n": 30,
+    "lesson": "Unit 2",
+    "unit": 2,
+    "q": "What will happen if two classes with the same name are imported from different packages without using fully qualified names?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Java compiler will automatically choose the first import"
+      },
+      {
+        "label": "B",
+        "text": "The program will compile successfully but may cause runtime errors"
+      },
+      {
+        "label": "C",
+        "text": "A compilation error will occur due to ambiguity"
+      },
+      {
+        "label": "D",
+        "text": "The last imported class will be used"
+      }
+    ],
+    "correct": "A compilation error will occur due to ambiguity",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q1",
+    "n": 1,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the primary purpose of exception handling in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To catch syntax errors in the code"
+      },
+      {
+        "label": "B",
+        "text": "To provide a mechanism to handle runtime errors and continue program execution"
+      },
+      {
+        "label": "C",
+        "text": "To terminate a program immediately upon encountering an error"
+      },
+      {
+        "label": "D",
+        "text": "To enhance code readability"
+      }
+    ],
+    "correct": "To provide a mechanism to handle runtime errors and continue program execution",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q2",
+    "n": 2,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following classes is the superclass of all exceptions in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Error"
+      },
+      {
+        "label": "B",
+        "text": "Throwable"
+      },
+      {
+        "label": "C",
+        "text": "Exception"
+      },
+      {
+        "label": "D",
+        "text": "RuntimeException"
+      }
+    ],
+    "correct": "Throwable",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q3",
+    "n": 3,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which keyword is used to define an exception handling block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "catch"
+      },
+      {
+        "label": "B",
+        "text": "handle"
+      },
+      {
+        "label": "C",
+        "text": "try"
+      },
+      {
+        "label": "D",
+        "text": "throw"
+      }
+    ],
+    "correct": "try",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q4",
+    "n": 4,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What happens if an exception is not caught in a program?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The program terminates abruptly"
+      },
+      {
+        "label": "B",
+        "text": "The exception is ignored"
+      },
+      {
+        "label": "C",
+        "text": "The exception is caught by the JVM"
+      },
+      {
+        "label": "D",
+        "text": "The program continues to execute normally"
+      }
+    ],
+    "correct": "The program terminates abruptly",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q5",
+    "n": 5,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following exceptions is thrown when a division by zero occurs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ArithmeticException"
+      },
+      {
+        "label": "B",
+        "text": "NullPointerException"
+      },
+      {
+        "label": "C",
+        "text": "ArrayIndexOutOfBoundsException"
+      },
+      {
+        "label": "D",
+        "text": "ClassCastException"
+      }
+    ],
+    "correct": "ArithmeticException",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q6",
+    "n": 6,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following is true about the `finally` block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It executes only if an exception is thrown"
+      },
+      {
+        "label": "B",
+        "text": "It is optional and executes regardless of whether an exception is thrown or not"
+      },
+      {
+        "label": "C",
+        "text": "It must immediately follow a `try` block"
+      },
+      {
+        "label": "D",
+        "text": "It can contain another `try` block"
+      }
+    ],
+    "correct": "It is optional and executes regardless of whether an exception is thrown or not",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q7",
+    "n": 7,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following is used when different types of exceptions need to be handled separately?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Multiple catch clauses"
+      },
+      {
+        "label": "B",
+        "text": "Multiple finally blocks"
+      },
+      {
+        "label": "C",
+        "text": "Multiple main() methods"
+      },
+      {
+        "label": "D",
+        "text": "Multiple throw statements"
+      }
+    ],
+    "correct": "Multiple catch clauses",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q8",
+    "n": 8,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which block is used to handle an exception generated in a try block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "throw"
+      },
+      {
+        "label": "B",
+        "text": "throws"
+      },
+      {
+        "label": "C",
+        "text": "catch"
+      },
+      {
+        "label": "D",
+        "text": "finally"
+      }
+    ],
+    "correct": "catch",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q9",
+    "n": 9,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following is not an unchecked exception?",
+    "options": [
+      {
+        "label": "A",
+        "text": "NullPointerException"
+      },
+      {
+        "label": "B",
+        "text": "IOException"
+      },
+      {
+        "label": "C",
+        "text": "ArithmeticException"
+      },
+      {
+        "label": "D",
+        "text": "ArrayIndexOutOfBoundsException"
+      }
+    ],
+    "correct": "IOException",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q10",
+    "n": 10,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which keyword is used to throw an exception manually?",
+    "options": [
+      {
+        "label": "A",
+        "text": "throws"
+      },
+      {
+        "label": "B",
+        "text": "throw"
+      },
+      {
+        "label": "C",
+        "text": "Try"
+      },
+      {
+        "label": "D",
+        "text": "catch"
+      }
+    ],
+    "correct": "throw",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q11",
+    "n": 11,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which method is used to retrieve the detailed message of an exception?",
+    "options": [
+      {
+        "label": "A",
+        "text": "printStackTrace()"
+      },
+      {
+        "label": "B",
+        "text": "getMessage()"
+      },
+      {
+        "label": "C",
+        "text": "toString()"
+      },
+      {
+        "label": "D",
+        "text": "getCause()"
+      }
+    ],
+    "correct": "getMessage()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q12",
+    "n": 12,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What type of exceptions can be caught by the `catch` block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only unchecked exceptions"
+      },
+      {
+        "label": "B",
+        "text": "Only checked exceptions"
+      },
+      {
+        "label": "C",
+        "text": "Both checked and unchecked exceptions"
+      },
+      {
+        "label": "D",
+        "text": "Only runtime exceptions"
+      }
+    ],
+    "correct": "Both checked and unchecked exceptions",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q13",
+    "n": 13,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which of the following blocks should be used to close resources like file streams in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "catch"
+      },
+      {
+        "label": "B",
+        "text": "finally"
+      },
+      {
+        "label": "C",
+        "text": "try"
+      },
+      {
+        "label": "D",
+        "text": "throw"
+      }
+    ],
+    "correct": "finally",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q14",
+    "n": 14,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What will happen if an exception is thrown inside a `finally` block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The program terminates immediately"
+      },
+      {
+        "label": "B",
+        "text": "The exception is ignored"
+      },
+      {
+        "label": "C",
+        "text": "The exception propagates up the call stack"
+      },
+      {
+        "label": "D",
+        "text": "It overrides any exception thrown in the `try` or `catch` blocks"
+      }
+    ],
+    "correct": "The exception propagates up the call stack",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q15",
+    "n": 15,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What happens if an exception is not handled by any catch block?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is automatically ignored"
+      },
+      {
+        "label": "B",
+        "text": "The program continues normally"
+      },
+      {
+        "label": "C",
+        "text": "It becomes an uncaught exception"
+      },
+      {
+        "label": "D",
+        "text": "It is converted into a warning"
+      }
+    ],
+    "correct": "It becomes an uncaught exception",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q16",
+    "n": 16,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Thread priority in Java is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Integer"
+      },
+      {
+        "label": "B",
+        "text": "Float"
+      },
+      {
+        "label": "C",
+        "text": "double"
+      },
+      {
+        "label": "D",
+        "text": "long"
+      }
+    ],
+    "correct": "Integer",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q17",
+    "n": 17,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is a thread in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A lightweight process that runs independently within a program"
+      },
+      {
+        "label": "B",
+        "text": "A data structure to store variables"
+      },
+      {
+        "label": "C",
+        "text": "A type of loop"
+      },
+      {
+        "label": "D",
+        "text": "A memory allocation unit in Java"
+      }
+    ],
+    "correct": "A lightweight process that runs independently within a program",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q18",
+    "n": 18,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which interface is used to create a thread in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Processor"
+      },
+      {
+        "label": "B",
+        "text": "Executor"
+      },
+      {
+        "label": "C",
+        "text": "Threadable"
+      },
+      {
+        "label": "D",
+        "text": "Runnable"
+      }
+    ],
+    "correct": "Runnable",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q19",
+    "n": 19,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which class is used to create a thread in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thread"
+      },
+      {
+        "label": "B",
+        "text": "Runnable"
+      },
+      {
+        "label": "C",
+        "text": "Process"
+      },
+      {
+        "label": "D",
+        "text": "Executor"
+      }
+    ],
+    "correct": "Thread",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q20",
+    "n": 20,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "How can synchronization be achieved in Java threads?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Using the synchronized keyword"
+      },
+      {
+        "label": "B",
+        "text": "Using the volatile keyword"
+      },
+      {
+        "label": "C",
+        "text": "Using the final keyword."
+      },
+      {
+        "label": "D",
+        "text": "Using the static keyword"
+      }
+    ],
+    "correct": "Using the synchronized keyword",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q21",
+    "n": 21,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the purpose of the join() method in Java threads?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To interrupt the execution of a thread"
+      },
+      {
+        "label": "B",
+        "text": "To wait for a thread to finish its execution"
+      },
+      {
+        "label": "C",
+        "text": "To schedule the execution of a thread"
+      },
+      {
+        "label": "D",
+        "text": "To notify a thread to stop execution"
+      }
+    ],
+    "correct": "To wait for a thread to finish its execution",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q22",
+    "n": 22,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which method is used to start the execution of a thread?",
+    "options": [
+      {
+        "label": "A",
+        "text": "start()"
+      },
+      {
+        "label": "B",
+        "text": "run()"
+      },
+      {
+        "label": "C",
+        "text": "execute()"
+      },
+      {
+        "label": "D",
+        "text": "begin()"
+      }
+    ],
+    "correct": "start()",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q23",
+    "n": 23,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the maximum number of threads that can be created in a Java program?",
+    "options": [
+      {
+        "label": "A",
+        "text": "There is no fixed limit"
+      },
+      {
+        "label": "B",
+        "text": "It depends on the amount of available memory"
+      },
+      {
+        "label": "C",
+        "text": "It depends on the number of CPU cores."
+      },
+      {
+        "label": "D",
+        "text": "It is limited to 100 threads."
+      }
+    ],
+    "correct": "There is no fixed limit",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q24",
+    "n": 24,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the main advantage of multithreading in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Improved program performance"
+      },
+      {
+        "label": "B",
+        "text": "Simplified program structure"
+      },
+      {
+        "label": "C",
+        "text": "Reduced memory usage"
+      },
+      {
+        "label": "D",
+        "text": "Elimination of runtime errors"
+      }
+    ],
+    "correct": "Improved program performance",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q25",
+    "n": 25,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "In Java, what is the purpose of the sleep() method in threads?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It terminates all threads in the program"
+      },
+      {
+        "label": "B",
+        "text": "It pauses the execution of the current thread for a specified duration"
+      },
+      {
+        "label": "C",
+        "text": "It resumes the execution of a thread"
+      },
+      {
+        "label": "D",
+        "text": "It pauses the execution of all threads"
+      }
+    ],
+    "correct": "It pauses the execution of the current thread for a specified duration",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q26",
+    "n": 26,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the main thread in a Java program?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A thread created by the user"
+      },
+      {
+        "label": "B",
+        "text": "The first thread that executes when a program starts"
+      },
+      {
+        "label": "C",
+        "text": "A thread that runs only when other threads have completed"
+      },
+      {
+        "label": "D",
+        "text": "A thread that manages system resources"
+      }
+    ],
+    "correct": "The first thread that executes when a program starts",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q27",
+    "n": 27,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What does the isAlive() method do?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Checks if a thread has completed execution"
+      },
+      {
+        "label": "B",
+        "text": "Checks if a thread is paused"
+      },
+      {
+        "label": "C",
+        "text": "Checks if a thread is running"
+      },
+      {
+        "label": "D",
+        "text": "Checks if a thread is waiting"
+      }
+    ],
+    "correct": "Checks if a thread is running",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q28",
+    "n": 28,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the default priority of a thread in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct": "5",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q29",
+    "n": 29,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "Which method is used to wait for a thread to complete its execution?",
+    "options": [
+      {
+        "label": "A",
+        "text": "isAlive()"
+      },
+      {
+        "label": "B",
+        "text": "start()"
+      },
+      {
+        "label": "C",
+        "text": "waitFor()"
+      },
+      {
+        "label": "D",
+        "text": "join()"
+      }
+    ],
+    "correct": "join()",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u3-q30",
+    "n": 30,
+    "lesson": "Unit 3",
+    "unit": 3,
+    "q": "What is the output of the following code? try { int a = 10 / 0; System.out.println(a); } catch(ArithmeticException e) { System.out.println(\"Exception Error\"); }",
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "Exception Error"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "Compilation error"
+      }
+    ],
+    "correct": "Exception Error",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q1",
+    "n": 1,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method is used to create a new file in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "File.newFile()"
+      },
+      {
+        "label": "B",
+        "text": "File.createNewFile()"
+      },
+      {
+        "label": "C",
+        "text": "File.makeFile()"
+      },
+      {
+        "label": "D",
+        "text": "File.writeFile()"
+      }
+    ],
+    "correct": "File.createNewFile()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q2",
+    "n": 2,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "How do you check if a file exists in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "File.isExist()"
+      },
+      {
+        "label": "B",
+        "text": "File.exists()"
+      },
+      {
+        "label": "C",
+        "text": "File.isFile()"
+      },
+      {
+        "label": "D",
+        "text": "File.checkFile()"
+      }
+    ],
+    "correct": "File.exists()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q3",
+    "n": 3,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method in the File class is used to delete a file?",
+    "options": [
+      {
+        "label": "A",
+        "text": "remove()"
+      },
+      {
+        "label": "B",
+        "text": "deleteFile()"
+      },
+      {
+        "label": "C",
+        "text": "delete()"
+      },
+      {
+        "label": "D",
+        "text": "erase()"
+      }
+    ],
+    "correct": "delete()",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q4",
+    "n": 4,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "What does the length() method of the File class return?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The number of lines in the file"
+      },
+      {
+        "label": "B",
+        "text": "The number of words in the file"
+      },
+      {
+        "label": "C",
+        "text": "The size of the file in bytes"
+      },
+      {
+        "label": "D",
+        "text": "The number of characters in the file"
+      }
+    ],
+    "correct": "The size of the file in bytes",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q5",
+    "n": 5,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method would you use to list all the files in a directory in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "listFiles()"
+      },
+      {
+        "label": "B",
+        "text": "getFiles()"
+      },
+      {
+        "label": "C",
+        "text": "allFiles()"
+      },
+      {
+        "label": "D",
+        "text": "readFiles()"
+      }
+    ],
+    "correct": "listFiles()",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q6",
+    "n": 6,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "What is the return type of the renameTo() method in the File class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "void"
+      },
+      {
+        "label": "B",
+        "text": "boolean"
+      },
+      {
+        "label": "C",
+        "text": "int"
+      },
+      {
+        "label": "D",
+        "text": "String"
+      }
+    ],
+    "correct": "boolean",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q7",
+    "n": 7,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which stream is typically used for reading text files in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "FileInputStream"
+      },
+      {
+        "label": "B",
+        "text": "ObjectInputStream"
+      },
+      {
+        "label": "C",
+        "text": "FileReader"
+      },
+      {
+        "label": "D",
+        "text": "DataInputStream"
+      }
+    ],
+    "correct": "FileReader",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q8",
+    "n": 8,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "What does the mkdir() method do in the File class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Creates a new directory"
+      },
+      {
+        "label": "B",
+        "text": "Deletes a directory"
+      },
+      {
+        "label": "C",
+        "text": "Lists the contents of a directory"
+      },
+      {
+        "label": "D",
+        "text": "Renames a directory"
+      }
+    ],
+    "correct": "Creates a new directory",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q9",
+    "n": 9,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method is used to check if a file is a directory in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "isFile()"
+      },
+      {
+        "label": "B",
+        "text": "isDirectory()"
+      },
+      {
+        "label": "C",
+        "text": "isFolder()"
+      },
+      {
+        "label": "D",
+        "text": "isDir()"
+      }
+    ],
+    "correct": "isDirectory()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q10",
+    "n": 10,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "How can you create a temporary file in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "File.createTempFile()"
+      },
+      {
+        "label": "B",
+        "text": "File.createTemp()"
+      },
+      {
+        "label": "C",
+        "text": "File.makeTempFile()"
+      },
+      {
+        "label": "D",
+        "text": "File.createFile()"
+      }
+    ],
+    "correct": "File.createTempFile()",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q11",
+    "n": 11,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "What is autoboxing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Converting an object into a primitive"
+      },
+      {
+        "label": "B",
+        "text": "Converting a primitive value into its corresponding wrapper object"
+      },
+      {
+        "label": "C",
+        "text": "Converting a String into an integer"
+      },
+      {
+        "label": "D",
+        "text": "Converting an array into a collection"
+      }
+    ],
+    "correct": "Converting a primitive value into its corresponding wrapper object",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q12",
+    "n": 12,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which collection class allows elements to be accessed using an index?",
+    "options": [
+      {
+        "label": "A",
+        "text": "HashSet"
+      },
+      {
+        "label": "B",
+        "text": "ArrayList"
+      },
+      {
+        "label": "C",
+        "text": "HashMap"
+      },
+      {
+        "label": "D",
+        "text": "File"
+      }
+    ],
+    "correct": "ArrayList",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q13",
+    "n": 13,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which collection does NOT allow duplicate elements",
+    "options": [
+      {
+        "label": "A",
+        "text": "ArrayList"
+      },
+      {
+        "label": "B",
+        "text": "LinkedList"
+      },
+      {
+        "label": "C",
+        "text": "LinkedList"
+      },
+      {
+        "label": "D",
+        "text": "List"
+      }
+    ],
+    "correct": "LinkedList",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q14",
+    "n": 14,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method is used to get the name of a file in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "getFileName()"
+      },
+      {
+        "label": "B",
+        "text": "getName()"
+      },
+      {
+        "label": "C",
+        "text": "fileName()"
+      },
+      {
+        "label": "D",
+        "text": "nameFile()"
+      }
+    ],
+    "correct": null,
+    "correctLabel": null,
+    "answerStatus": "needs-answer-key-check"
+  },
+  {
+    "id": "oop-u4-q15",
+    "n": 15,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which class is commonly used to write character data to a file?",
+    "options": [
+      {
+        "label": "A",
+        "text": "FileInputStream"
+      },
+      {
+        "label": "B",
+        "text": "FileReader"
+      },
+      {
+        "label": "C",
+        "text": "FileWriter"
+      },
+      {
+        "label": "D",
+        "text": "DataInputStream"
+      }
+    ],
+    "correct": "FileWriter",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q16",
+    "n": 16,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which method of File returns true if the specified path represents a directory?",
+    "options": [
+      {
+        "label": "A",
+        "text": "isFolder()"
+      },
+      {
+        "label": "B",
+        "text": "isDirectory()"
+      },
+      {
+        "label": "C",
+        "text": "checkDirectory()"
+      },
+      {
+        "label": "D",
+        "text": "hasDirectory()"
+      }
+    ],
+    "correct": "isDirectory()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q17",
+    "n": 17,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which class can be used to read text line by line from a file?",
+    "options": [
+      {
+        "label": "A",
+        "text": "FileWriter"
+      },
+      {
+        "label": "B",
+        "text": "FileOutputStream"
+      },
+      {
+        "label": "C",
+        "text": "BufferedReader"
+      },
+      {
+        "label": "D",
+        "text": "ObjectOutputStream"
+      }
+    ],
+    "correct": "BufferedReader",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q18",
+    "n": 18,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which package contains the File class in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "java.lang"
+      },
+      {
+        "label": "B",
+        "text": "java.net"
+      },
+      {
+        "label": "C",
+        "text": "java.util"
+      },
+      {
+        "label": "D",
+        "text": "java.io"
+      }
+    ],
+    "correct": "java.io",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q19",
+    "n": 19,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "The package contains all the classes and interfaces for the collection framework.",
+    "options": [
+      {
+        "label": "A",
+        "text": "java.collection"
+      },
+      {
+        "label": "B",
+        "text": "java.util"
+      },
+      {
+        "label": "C",
+        "text": "java.org"
+      },
+      {
+        "label": "D",
+        "text": "java.com"
+      }
+    ],
+    "correct": "java.util",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q20",
+    "n": 20,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "The class implements the Set interface which is a subinterface of the Collection interface.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stack"
+      },
+      {
+        "label": "B",
+        "text": "StackSet"
+      },
+      {
+        "label": "C",
+        "text": "HashSet"
+      },
+      {
+        "label": "D",
+        "text": "Hash"
+      }
+    ],
+    "correct": "HashSet",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q21",
+    "n": 21,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Java ArrayList class can contain elements.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mixed type"
+      },
+      {
+        "label": "B",
+        "text": "unique"
+      },
+      {
+        "label": "C",
+        "text": "primitive data types"
+      },
+      {
+        "label": "D",
+        "text": "duplicate"
+      }
+    ],
+    "correct": "duplicate",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q22",
+    "n": 22,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "ArrayLists are known as arrays.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dynamic"
+      },
+      {
+        "label": "B",
+        "text": "fixed"
+      },
+      {
+        "label": "C",
+        "text": "static"
+      },
+      {
+        "label": "D",
+        "text": "non-resizable"
+      }
+    ],
+    "correct": "dynamic",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q23",
+    "n": 23,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "The class in Java inherits the AbstractList class and implements the List interface",
+    "options": [
+      {
+        "label": "A",
+        "text": "LinkedList"
+      },
+      {
+        "label": "B",
+        "text": "ArrayList"
+      },
+      {
+        "label": "C",
+        "text": "CircularList"
+      },
+      {
+        "label": "D",
+        "text": "Array"
+      }
+    ],
+    "correct": "ArrayList",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q24",
+    "n": 24,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Java is an interface that is practiced in order to iterate over a collection of Java object components entirety one by one.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Swing"
+      },
+      {
+        "label": "B",
+        "text": "Array"
+      },
+      {
+        "label": "C",
+        "text": "Iterator"
+      },
+      {
+        "label": "D",
+        "text": "Package"
+      }
+    ],
+    "correct": "Iterator",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q25",
+    "n": 25,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "The Java Iterator only preserves the iteration in the direction.",
+    "options": [
+      {
+        "label": "A",
+        "text": "two-way"
+      },
+      {
+        "label": "B",
+        "text": "reverse"
+      },
+      {
+        "label": "C",
+        "text": "mulitple"
+      },
+      {
+        "label": "D",
+        "text": "forward"
+      }
+    ],
+    "correct": "forward",
+    "correctLabel": "D",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q26",
+    "n": 26,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "ArrayList manipulation is a little bit than the LinkedList in Java",
+    "options": [
+      {
+        "label": "A",
+        "text": "slower"
+      },
+      {
+        "label": "B",
+        "text": "agile"
+      },
+      {
+        "label": "C",
+        "text": "faster"
+      },
+      {
+        "label": "D",
+        "text": "accelerated"
+      }
+    ],
+    "correct": "slower",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q27",
+    "n": 27,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "uses a doubly linked list internally to store the elements.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Array"
+      },
+      {
+        "label": "B",
+        "text": "LinkedList"
+      },
+      {
+        "label": "C",
+        "text": "ArrayList"
+      },
+      {
+        "label": "D",
+        "text": "Set"
+      }
+    ],
+    "correct": "LinkedList",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q28",
+    "n": 28,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "The stack is the subclass of .",
+    "options": [
+      {
+        "label": "A",
+        "text": "List"
+      },
+      {
+        "label": "B",
+        "text": "Array"
+      },
+      {
+        "label": "C",
+        "text": "Vector"
+      },
+      {
+        "label": "D",
+        "text": "String"
+      }
+    ],
+    "correct": "Vector",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q29",
+    "n": 29,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which of the following is a numeric wrapper class in Java?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Character"
+      },
+      {
+        "label": "B",
+        "text": "Boolean"
+      },
+      {
+        "label": "C",
+        "text": "Double"
+      },
+      {
+        "label": "D",
+        "text": "String"
+      }
+    ],
+    "correct": "Double",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u4-q30",
+    "n": 30,
+    "lesson": "Unit 4",
+    "unit": 4,
+    "q": "Which of the following statements demonstrates autoboxing of a character value?",
+    "options": [
+      {
+        "label": "A",
+        "text": "char c = 'A';"
+      },
+      {
+        "label": "B",
+        "text": "Character c = 'A';"
+      },
+      {
+        "label": "C",
+        "text": "Character c = new String(\"A\");"
+      },
+      {
+        "label": "D",
+        "text": "String c = 'A';"
+      }
+    ],
+    "correct": "Character c = 'A';",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q1",
+    "n": 1,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "JavaFX is mainly used for developing:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Database applications"
+      },
+      {
+        "label": "B",
+        "text": "GUI applications"
+      },
+      {
+        "label": "C",
+        "text": "Operating systems"
+      },
+      {
+        "label": "D",
+        "text": "Network protocols"
+      }
+    ],
+    "correct": "GUI applications",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q2",
+    "n": 2,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is the entry point of a JavaFX application?",
+    "options": [
+      {
+        "label": "A",
+        "text": "main()"
+      },
+      {
+        "label": "B",
+        "text": "start()"
+      },
+      {
+        "label": "C",
+        "text": "run()"
+      },
+      {
+        "label": "D",
+        "text": "init()"
+      }
+    ],
+    "correct": "start()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q3",
+    "n": 3,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which class is used as the entry point for a JavaFX application?",
+    "options": [
+      {
+        "label": "A",
+        "text": "JFrame"
+      },
+      {
+        "label": "B",
+        "text": "Application"
+      },
+      {
+        "label": "C",
+        "text": "Window"
+      },
+      {
+        "label": "D",
+        "text": "JavaFX"
+      }
+    ],
+    "correct": "Application",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q4",
+    "n": 4,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which object represents the main window in JavaFX?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scene"
+      },
+      {
+        "label": "B",
+        "text": "Pane"
+      },
+      {
+        "label": "C",
+        "text": "Stage"
+      },
+      {
+        "label": "D",
+        "text": "Label"
+      }
+    ],
+    "correct": "Stage",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q5",
+    "n": 5,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which object is placed inside a Stage to display the user interface?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scene"
+      },
+      {
+        "label": "B",
+        "text": "Button"
+      },
+      {
+        "label": "C",
+        "text": "Event"
+      },
+      {
+        "label": "D",
+        "text": "Alert"
+      }
+    ],
+    "correct": "Scene",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q6",
+    "n": 6,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX class is used to create a text label?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Text"
+      },
+      {
+        "label": "B",
+        "text": "Label"
+      },
+      {
+        "label": "C",
+        "text": "String"
+      },
+      {
+        "label": "D",
+        "text": "TextField"
+      }
+    ],
+    "correct": "Label",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q7",
+    "n": 7,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method must be implemented when using EventHandler<ActionEvent>?",
+    "options": [
+      {
+        "label": "A",
+        "text": "action()"
+      },
+      {
+        "label": "B",
+        "text": "event()"
+      },
+      {
+        "label": "C",
+        "text": "handle()"
+      },
+      {
+        "label": "D",
+        "text": "process()"
+      }
+    ],
+    "correct": "handle()",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q8",
+    "n": 8,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX control is used to create a clickable button?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Button"
+      },
+      {
+        "label": "B",
+        "text": "Label"
+      },
+      {
+        "label": "C",
+        "text": "Pane"
+      },
+      {
+        "label": "D",
+        "text": "Stage"
+      }
+    ],
+    "correct": "Button",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q9",
+    "n": 9,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which layout arranges controls vertically?",
+    "options": [
+      {
+        "label": "A",
+        "text": "HBox"
+      },
+      {
+        "label": "B",
+        "text": "VBox"
+      },
+      {
+        "label": "C",
+        "text": "Stage"
+      },
+      {
+        "label": "D",
+        "text": "Scene"
+      }
+    ],
+    "correct": "VBox",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q10",
+    "n": 10,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX control is used to display non-editable text?",
+    "options": [
+      {
+        "label": "A",
+        "text": "TextField"
+      },
+      {
+        "label": "B",
+        "text": "Label"
+      },
+      {
+        "label": "C",
+        "text": "Button"
+      },
+      {
+        "label": "D",
+        "text": "TextArea"
+      }
+    ],
+    "correct": "Label",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q11",
+    "n": 11,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is commonly used to display a JavaFX Stage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "show()"
+      },
+      {
+        "label": "B",
+        "text": "display()"
+      },
+      {
+        "label": "C",
+        "text": "display()"
+      },
+      {
+        "label": "D",
+        "text": "visible()"
+      }
+    ],
+    "correct": "show()",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q12",
+    "n": 12,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is used to handle a button click?",
+    "options": [
+      {
+        "label": "A",
+        "text": "setOnClick()"
+      },
+      {
+        "label": "B",
+        "text": "setOnAction()"
+      },
+      {
+        "label": "C",
+        "text": "setOnButton()"
+      },
+      {
+        "label": "D",
+        "text": "setOnEvent()"
+      }
+    ],
+    "correct": "setOnAction()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q13",
+    "n": 13,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which interface is commonly used for handling JavaFX action events?",
+    "options": [
+      {
+        "label": "A",
+        "text": "EventHandler<ActionEvent>"
+      },
+      {
+        "label": "B",
+        "text": "ActionListener"
+      },
+      {
+        "label": "C",
+        "text": "MouseListener"
+      },
+      {
+        "label": "D",
+        "text": "KeyListener"
+      }
+    ],
+    "correct": "EventHandler<ActionEvent>",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q14",
+    "n": 14,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which event is generated when a key is pressed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "MouseEvent"
+      },
+      {
+        "label": "B",
+        "text": "KeyEvent"
+      },
+      {
+        "label": "C",
+        "text": "ActionEvent"
+      },
+      {
+        "label": "D",
+        "text": "WindowEvent"
+      }
+    ],
+    "correct": "KeyEvent",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q15",
+    "n": 15,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is used to handle a key press event?",
+    "options": [
+      {
+        "label": "A",
+        "text": "setOnKeyPressed()"
+      },
+      {
+        "label": "B",
+        "text": "setOnKeyClicked()"
+      },
+      {
+        "label": "C",
+        "text": "setOnKeyAction()"
+      },
+      {
+        "label": "D",
+        "text": "setOnKeyboard()"
+      }
+    ],
+    "correct": "setOnKeyPressed()",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q16",
+    "n": 16,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is used to handle a mouse click?",
+    "options": [
+      {
+        "label": "A",
+        "text": "setOnMousePressed()"
+      },
+      {
+        "label": "B",
+        "text": "setOnMouseClicked()"
+      },
+      {
+        "label": "C",
+        "text": "setOnClickMouse()"
+      },
+      {
+        "label": "D",
+        "text": "setMouseClicked()"
+      }
+    ],
+    "correct": "setOnMouseClicked()",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q17",
+    "n": 17,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which control allows the user to select an item from a list?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Label"
+      },
+      {
+        "label": "B",
+        "text": "ComboBox"
+      },
+      {
+        "label": "C",
+        "text": "TextField"
+      },
+      {
+        "label": "D",
+        "text": "Button"
+      }
+    ],
+    "correct": "ComboBox",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q18",
+    "n": 18,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which control is used to select or deselect an option?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CheckBox"
+      },
+      {
+        "label": "B",
+        "text": "Label"
+      },
+      {
+        "label": "C",
+        "text": "TextField"
+      },
+      {
+        "label": "D",
+        "text": "Stage"
+      }
+    ],
+    "correct": "CheckBox",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q19",
+    "n": 19,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which class is used to display a dialog box in JavaFX?",
+    "options": [
+      {
+        "label": "A",
+        "text": "DialogBox"
+      },
+      {
+        "label": "B",
+        "text": "MessageBox"
+      },
+      {
+        "label": "C",
+        "text": "Alert"
+      },
+      {
+        "label": "D",
+        "text": "Window"
+      }
+    ],
+    "correct": "Alert",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q20",
+    "n": 20,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which sequence correctly represents the basic structure of a JavaFX application?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scene → Stage → Application → start()"
+      },
+      {
+        "label": "B",
+        "text": "Application → start() → Stage → Scene"
+      },
+      {
+        "label": "C",
+        "text": "Stage → Application → Scene → start()"
+      },
+      {
+        "label": "D",
+        "text": "Application → Scene → start() → Stage"
+      }
+    ],
+    "correct": "Application → start() → Stage → Scene",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q21",
+    "n": 21,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which Alert type is used to display a warning message?",
+    "options": [
+      {
+        "label": "A",
+        "text": "INFORMATION"
+      },
+      {
+        "label": "B",
+        "text": "WARNING"
+      },
+      {
+        "label": "C",
+        "text": "CONFIRMATION"
+      },
+      {
+        "label": "D",
+        "text": "QUESTION"
+      }
+    ],
+    "correct": "WARNING",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q22",
+    "n": 22,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which statement correctly creates an information alert?",
+    "options": [
+      {
+        "label": "A",
+        "text": "new Alert(Alert.INFORMATION)"
+      },
+      {
+        "label": "B",
+        "text": "new Alert(Alert.AlertType.INFORMATION)"
+      },
+      {
+        "label": "C",
+        "text": "new InformationAlert()"
+      },
+      {
+        "label": "D",
+        "text": "Alert.createInformation()"
+      }
+    ],
+    "correct": "new Alert(Alert.AlertType.INFORMATION)",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q23",
+    "n": 23,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX component can contain other UI controls?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pane"
+      },
+      {
+        "label": "B",
+        "text": "Label"
+      },
+      {
+        "label": "C",
+        "text": "Button"
+      },
+      {
+        "label": "D",
+        "text": "TextField"
+      }
+    ],
+    "correct": "Pane",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q24",
+    "n": 24,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which control can be used to display output as text?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Label"
+      },
+      {
+        "label": "B",
+        "text": "Stage"
+      },
+      {
+        "label": "C",
+        "text": "Scene"
+      },
+      {
+        "label": "D",
+        "text": "Pane"
+      }
+    ],
+    "correct": "Label",
+    "correctLabel": "A",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q25",
+    "n": 25,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX control is used to accept single-line text input from the user?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Label"
+      },
+      {
+        "label": "B",
+        "text": "Button"
+      },
+      {
+        "label": "C",
+        "text": "TextField"
+      },
+      {
+        "label": "D",
+        "text": "TextArea"
+      }
+    ],
+    "correct": "TextField",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q26",
+    "n": 26,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which layout pane arranges JavaFX nodes in a single horizontal row?",
+    "options": [
+      {
+        "label": "A",
+        "text": "VBox"
+      },
+      {
+        "label": "B",
+        "text": "HBox"
+      },
+      {
+        "label": "C",
+        "text": "GridPane"
+      },
+      {
+        "label": "D",
+        "text": "BorderPane"
+      }
+    ],
+    "correct": "HBox",
+    "correctLabel": "B",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q27",
+    "n": 27,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which layout pane arranges JavaFX nodes in a single vertical column?",
+    "options": [
+      {
+        "label": "A",
+        "text": "HBox"
+      },
+      {
+        "label": "B",
+        "text": "GridPane"
+      },
+      {
+        "label": "C",
+        "text": "VBox"
+      },
+      {
+        "label": "D",
+        "text": "StackPane"
+      }
+    ],
+    "correct": "VBox",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q28",
+    "n": 28,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is used to display a JavaFX Stage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "open()"
+      },
+      {
+        "label": "B",
+        "text": "display()"
+      },
+      {
+        "label": "C",
+        "text": "show()"
+      },
+      {
+        "label": "D",
+        "text": "visible()"
+      }
+    ],
+    "correct": "show()",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q29",
+    "n": 29,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which JavaFX class is commonly used to display a pop-up message to the user?",
+    "options": [
+      {
+        "label": "A",
+        "text": "DialogBox"
+      },
+      {
+        "label": "B",
+        "text": "Message"
+      },
+      {
+        "label": "C",
+        "text": "Alert"
+      },
+      {
+        "label": "D",
+        "text": "PopupWindow"
+      }
+    ],
+    "correct": "Alert",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  },
+  {
+    "id": "oop-u5-q30",
+    "n": 30,
+    "lesson": "Unit 5",
+    "unit": 5,
+    "q": "Which method is used to set the text displayed on a JavaFX Button?",
+    "options": [
+      {
+        "label": "A",
+        "text": "display()"
+      },
+      {
+        "label": "B",
+        "text": "setValue()"
+      },
+      {
+        "label": "C",
+        "text": "setText()"
+      },
+      {
+        "label": "D",
+        "text": "setLabel()"
+      }
+    ],
+    "correct": "setText()",
+    "correctLabel": "C",
+    "answerStatus": "verified"
+  }
+]

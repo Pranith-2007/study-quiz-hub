@@ -201,8 +201,13 @@ const GLOSSARY = {
         '<button class="btn" id="openKannadaBtn">Open Kannada Quiz</button>' +
       '</div>' +
       '<div class="card">' +
+        '<h2>Object Oriented Programming</h2>' +
+        '<p>25CSE202 · Units 1–5 · 150 MCQs</p>' +
+        '<a class="btn" href="oop.html" style="display:inline-block;text-decoration:none">Open OOP Quiz</a>' +
+      '</div>' +
+      '<div class="card">' +
         '<h2>More subjects</h2>' +
-        '<p class="muted">Java, Data Structures, Mathematics and other subjects can be added here when their question banks are ready.</p>' +
+        '<p class="muted">Data Structures, Mathematics and other subjects can be added here over time.</p>' +
       '</div>';
     document.getElementById('openKannadaBtn').onclick = function(){
       state.screen = 'menu';

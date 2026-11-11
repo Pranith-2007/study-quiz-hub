@@ -6,6 +6,13 @@
       "description": "Balake Kannada · Lessons 1–18",
       "questionBank": "data/kannada.json",
       "available": true
+    },
+    {
+      "id": "oop",
+      "name": "Object Oriented Programming",
+      "description": "25CSE202 · Units 1–5 · 150 MCQs",
+      "questionBank": "data/oop.json",
+      "available": true
     }
   ]
 }
